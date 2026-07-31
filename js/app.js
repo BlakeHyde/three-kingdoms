@@ -308,7 +308,16 @@ function renderDetail(chapter) {
   year.className = "year";
   year.textContent = `${chapter.year} CE`;
 
-  detail.append(eyebrow, title, year);
+  detail.append(eyebrow, title);
+
+  // The chapter's own couplet, so the summary below can be checked against a source.
+  if (chapter.canonicalTitle) {
+    const couplet = document.createElement("p");
+    couplet.className = "couplet han";
+    couplet.textContent = chapter.canonicalTitle;
+    detail.append(couplet);
+  }
+  detail.append(year);
 
   for (const para of chapter.summary) {
     const p = document.createElement("p");
