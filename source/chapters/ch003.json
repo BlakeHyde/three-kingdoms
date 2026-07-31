@@ -1,0 +1,104 @@
+{
+  "n": 3,
+  "title": "Dong Zhuo Rebukes the Emperor at Wenming Garden; Li Su Tempts Lü Bu with Red Hare",
+  "year": "189",
+  "summary": [
+    "The eunuchs strike first: He Jin is cut down inside the palace gate. Yuan Shao and Cao Cao storm in and kill every beardless man they find, two thousand of them, and in the confusion the boy emperor is carried out of the burning capital into the dark.",
+    "It is Dong Zhuo who finds him on the road, and Dong Zhuo who brings him back — with an army from Liang province and no intention of leaving. Within days he is talking openly of setting the boy aside.",
+    "Ding Yuan opposes him, protected by his formidable adopted son. Dong Zhuo sends a horse worth a thousand pieces of gold, and Lü Bu brings him Ding Yuan's head."
+  ],
+  "history": "Dong Zhuo's march on Luoyang and the massacre of the eunuchs are historical. Red Hare is real too; the story that Lü Bu was bought with it is the novel's.",
+  "control": {
+    "han": [
+      "luoyang",
+      "xuchang",
+      "pengcheng",
+      "wan",
+      "runan",
+      "beihai",
+      "guangling",
+      "yanzhou",
+      "tan",
+      "puyang"
+    ],
+    "dongzhuo": [
+      "changan",
+      "jicheng",
+      "meiwu",
+      "hanzhong",
+      "jinyang"
+    ],
+    "yuanshao": [
+      "nanpi"
+    ],
+    "gongsunzan": [
+      "ji",
+      "zhuo"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha"
+    ],
+    "liuzhang": [
+      "chengdu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang"
+    ],
+    "yuanshu": [
+      "shouchun",
+      "lujiang"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "dongzhuo",
+      "at": "luoyang",
+      "note": "Arrives with the Liang province army and does not leave."
+    },
+    {
+      "character": "lvbu",
+      "at": "luoyang",
+      "note": "Kills his adoptive father Ding Yuan for a horse."
+    },
+    {
+      "character": "hejin",
+      "at": "luoyang",
+      "note": "Murdered inside the palace gate."
+    },
+    {
+      "character": "yuanshao",
+      "at": "luoyang",
+      "note": "Storms the palace; then quarrels with Dong Zhuo and rides for Bohai."
+    },
+    {
+      "character": "caocao",
+      "at": "luoyang"
+    },
+    {
+      "character": "emperorxian",
+      "at": "luoyang",
+      "note": "Nine years old, and about to be made emperor."
+    },
+    {
+      "character": "wangyun",
+      "at": "luoyang"
+    },
+    {
+      "character": "liubei",
+      "at": "pingyuan"
+    }
+  ],
+  "focus": {
+    "lon": 113.0,
+    "lat": 34.8,
+    "zoom": 5.0
+  }
+}

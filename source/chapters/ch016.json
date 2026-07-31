@@ -1,0 +1,127 @@
+{
+  "n": 16,
+  "title": "Lü Bu Shoots the Halberd at the Gate; Cao Cao Is Defeated at the River Yu",
+  "year": "197",
+  "summary": [
+    "Yuan Shu sends an army against Liu Bei at Xiaopei. Lü Bu, who wants neither of them strong, plants his halberd a hundred and fifty paces off, announces that he will shoot the side-blade and both sides must then go home, and hits it. Everyone goes home.",
+    "At Wan, Zhang Xiu surrenders and then revolts in the night over Cao Cao's treatment of his uncle's widow. Cao Cao escapes on a borrowed horse; his eldest son and his nephew are killed; and Dian Wei holds the gate on foot with no armour and both arms broken until he dies standing up, and no one dares pass him even then.",
+    "Cao Cao's public mourning is for Dian Wei, not for his son."
+  ],
+  "history": "The archery feat is recorded in the histories, which is more than can be said for most of the novel's famous shots. The disaster at Wan is historical in every particular, including Dian Wei's death at the gate.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao"
+    ],
+    "lijueguosi": [
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "zhangxiu": [
+      "wan"
+    ],
+    "yuanshao": [
+      "nanpi",
+      "ye",
+      "jieqiao",
+      "henei",
+      "jinyang"
+    ],
+    "gongsunzan": [
+      "ji",
+      "zhuo",
+      "yijing"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling"
+    ],
+    "liuzhang": [
+      "chengdu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang"
+    ],
+    "yuanshu": [
+      "shouchun",
+      "lujiang",
+      "runan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "lvbu": [
+      "tan",
+      "pengcheng",
+      "xiapi"
+    ],
+    "shu": [
+      "xiaopei"
+    ],
+    "kongrong": [
+      "beihai"
+    ]
+  },
+  "pins": [
+    {
+      "character": "lvbu",
+      "at": "xiaopei",
+      "from": "xiapi",
+      "note": "Shoots the halberd at a hundred and fifty paces."
+    },
+    {
+      "character": "liubei",
+      "at": "xiaopei",
+      "note": "Saved by the shot."
+    },
+    {
+      "character": "jiling",
+      "at": "xiaopei",
+      "from": "shouchun",
+      "note": "Sent to destroy Liu Bei; goes home instead."
+    },
+    {
+      "character": "caocao",
+      "at": "wan",
+      "from": "xuchang",
+      "note": "Loses his son, his nephew and his bodyguard in one night."
+    },
+    {
+      "character": "dianwei",
+      "at": "wan",
+      "note": "Dies on his feet in the gateway."
+    },
+    {
+      "character": "zhangxiu",
+      "at": "wan",
+      "note": "Surrenders, then revolts."
+    },
+    {
+      "character": "jiaxu",
+      "at": "wan",
+      "note": "Now advising Zhang Xiu."
+    }
+  ],
+  "focus": {
+    "lon": 114.5,
+    "lat": 33.5,
+    "zoom": 5.0
+  }
+}

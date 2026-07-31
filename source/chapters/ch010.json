@@ -1,0 +1,130 @@
+{
+  "n": 10,
+  "title": "Ma Teng Raises Troops for the Throne; Cao Cao Marches to Avenge His Father",
+  "year": "192-193",
+  "summary": [
+    "Ma Teng and Han Sui come east out of Liang province in the Emperor's name and are beaten back. Cao Cao, meanwhile, takes Yan province, absorbs three hundred thousand surrendered Yellow Turbans into an army, and begins to look like a power.",
+    "He sends for his father. Tao Qian of Xuzhou provides an escort, the escort murders the old man for his baggage, and Cao Cao comes east swearing to put the whole province to the sword. He very nearly does."
+  ],
+  "history": "The massacres in Xuzhou are historical and were enormous; the novel does not soften them. Sources disagree on whether Tao Qian ordered the killing or merely failed to prevent it.",
+  "control": {
+    "han": [
+      "xuchang"
+    ],
+    "lijueguosi": [
+      "changan",
+      "meiwu",
+      "hulao",
+      "sishui",
+      "luoyang",
+      "tongguan"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "yuanshao": [
+      "nanpi",
+      "ye",
+      "jieqiao",
+      "henei",
+      "jinyang"
+    ],
+    "gongsunzan": [
+      "ji",
+      "zhuo",
+      "pingyuan",
+      "yijing"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling"
+    ],
+    "liuzhang": [
+      "chengdu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang"
+    ],
+    "yuanshu": [
+      "shouchun",
+      "lujiang",
+      "wan",
+      "runan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "wei": [
+      "yanzhou",
+      "puyang",
+      "guandu"
+    ],
+    "taoqian": [
+      "tan",
+      "pengcheng",
+      "xiapi"
+    ],
+    "kongrong": [
+      "beihai"
+    ]
+  },
+  "pins": [
+    {
+      "character": "caocao",
+      "at": "yanzhou",
+      "note": "Takes Yan province and an army of surrendered rebels."
+    },
+    {
+      "character": "xunyu",
+      "at": "yanzhou",
+      "note": "Joins Cao Cao."
+    },
+    {
+      "character": "guojia",
+      "at": "yanzhou"
+    },
+    {
+      "character": "dianwei",
+      "at": "yanzhou"
+    },
+    {
+      "character": "xiahoudun",
+      "at": "yanzhou"
+    },
+    {
+      "character": "mateng",
+      "at": "jicheng",
+      "note": "Marches east for the Emperor and is beaten back."
+    },
+    {
+      "character": "taoqian",
+      "at": "tan",
+      "note": "His escort murders Cao Cao's father."
+    },
+    {
+      "character": "lijue",
+      "at": "changan"
+    },
+    {
+      "character": "guosi",
+      "at": "changan"
+    },
+    {
+      "character": "liubei",
+      "at": "pingyuan"
+    }
+  ],
+  "focus": {
+    "lon": 114.5,
+    "lat": 34.8,
+    "zoom": 4.6
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "n": 13,
+  "title": "Li Jue and Guo Si Fight; the Emperor Flees East",
+  "year": "195",
+  "summary": [
+    "The two men who hold the capital between them fall out over a jar of wine and a jealous wife, and fight in the streets of Chang'an for months. One holds the Emperor; the other kidnaps the entire court to even the score.",
+    "The Emperor escapes east with a starving procession of officials, is caught at the Yellow River crossing, and reaches the ruins of Luoyang with almost nobody left. The court sets up in the burnt shell of the old capital and the ministers gather firewood themselves."
+  ],
+  "history": "Historical, and the novel understates it if anything. The flight from Chang'an in 195-196 is one of the grimmest episodes of the period.",
+  "control": {
+    "han": [
+      "luoyang"
+    ],
+    "lijueguosi": [
+      "changan",
+      "meiwu",
+      "hulao",
+      "sishui",
+      "tongguan"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "yuanshao": [
+      "nanpi",
+      "ye",
+      "jieqiao",
+      "henei",
+      "jinyang"
+    ],
+    "gongsunzan": [
+      "ji",
+      "zhuo",
+      "yijing"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling"
+    ],
+    "liuzhang": [
+      "chengdu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang"
+    ],
+    "yuanshu": [
+      "shouchun",
+      "lujiang",
+      "wan",
+      "runan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "wei": [
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "xuchang"
+    ],
+    "shu": [
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei"
+    ],
+    "kongrong": [
+      "beihai"
+    ]
+  },
+  "pins": [
+    {
+      "character": "emperorxian",
+      "at": "luoyang",
+      "from": "changan",
+      "note": "Reaches the ruins of his capital with nothing."
+    },
+    {
+      "character": "lijue",
+      "at": "changan"
+    },
+    {
+      "character": "guosi",
+      "at": "changan"
+    },
+    {
+      "character": "dongcheng",
+      "at": "luoyang",
+      "from": "changan",
+      "note": "One of the few who gets the Emperor out."
+    },
+    {
+      "character": "caocao",
+      "at": "xuchang",
+      "note": "Watching the road from Luoyang."
+    },
+    {
+      "character": "liubei",
+      "at": "tan"
+    }
+  ],
+  "focus": {
+    "lon": 111.0,
+    "lat": 34.5,
+    "zoom": 5.2
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "n": 17,
+  "title": "Yuan Shu Takes the Imperial Title; Cao Cao Borrows a Head",
+  "year": "197",
+  "summary": [
+    "Yuan Shu declares himself emperor on the strength of a stolen seal and a folk rhyme, and everyone who might have supported him stops. A coalition forms almost instantly.",
+    "Marching against him with a shortage of grain, Cao Cao tells his quartermaster to issue short measures, waits for the army to start muttering, then has the man beheaded for embezzlement and posts his head with a notice. The army is satisfied. It is the coldest thing in the book, and he does it in the middle of a chapter about someone else's treason."
+  ],
+  "history": "Yuan Shu's usurpation destroyed him, as the novel says. The borrowed head is recorded in a commentary to the histories and the novel reproduces it almost unchanged.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan"
+    ],
+    "lijueguosi": [
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "zhangxiu": [
+      "wan"
+    ],
+    "yuanshao": [
+      "nanpi",
+      "ye",
+      "jieqiao",
+      "henei",
+      "jinyang"
+    ],
+    "gongsunzan": [
+      "ji",
+      "zhuo",
+      "yijing"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling"
+    ],
+    "liuzhang": [
+      "chengdu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang"
+    ],
+    "yuanshu": [
+      "shouchun",
+      "lujiang"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "lvbu": [
+      "tan",
+      "pengcheng",
+      "xiapi"
+    ],
+    "shu": [
+      "xiaopei"
+    ],
+    "kongrong": [
+      "beihai"
+    ]
+  },
+  "pins": [
+    {
+      "character": "yuanshu",
+      "at": "shouchun",
+      "note": "Declares himself emperor, and is abandoned."
+    },
+    {
+      "character": "caocao",
+      "at": "shouchun",
+      "from": "xuchang",
+      "note": "Borrows his quartermaster's head."
+    },
+    {
+      "character": "liubei",
+      "at": "xiaopei"
+    },
+    {
+      "character": "lvbu",
+      "at": "xiapi",
+      "note": "Joins the coalition against Yuan Shu."
+    },
+    {
+      "character": "sunce",
+      "at": "jianye",
+      "note": "Breaks with Yuan Shu over the title."
+    },
+    {
+      "character": "jiling",
+      "at": "shouchun"
+    }
+  ],
+  "focus": {
+    "lon": 116.0,
+    "lat": 33.0,
+    "zoom": 5.0
+  }
+}

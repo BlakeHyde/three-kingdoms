@@ -1,0 +1,135 @@
+{
+  "n": 5,
+  "title": "Cao Cao Rallies the Lords; Three Heroes Fight Lü Bu at Hulao Pass",
+  "year": "190",
+  "summary": [
+    "Cao Cao's forged summons brings eighteen lords and their armies to the camp at Suanzao. They elect Yuan Shao their chief, swear an oath, and immediately begin to quarrel about supplies.",
+    "At Sishui Pass Dong Zhuo's champion Hua Xiong kills every man sent against him. A nameless bowman in Gongsun Zan's train asks to try; Cao Cao pours him wine to send him off; he returns with the head and the wine is still warm.",
+    "At Hulao Pass Lü Bu breaks every commander in turn until all three brothers ride at him at once, and even then he only withdraws."
+  ],
+  "history": "The coalition existed and achieved almost nothing. Guan Yu never met Hua Xiong, who was killed by Sun Jian's troops, and the three-on-one at Hulao is pure novel — the most famous fight in the book has no history behind it at all.",
+  "control": {
+    "han": [
+      "xuchang",
+      "beihai"
+    ],
+    "dongzhuo": [
+      "luoyang",
+      "changan",
+      "jicheng",
+      "meiwu",
+      "hulao",
+      "sishui",
+      "hanzhong",
+      "jinyang"
+    ],
+    "yuanshao": [
+      "nanpi",
+      "ye",
+      "suanzao",
+      "henei"
+    ],
+    "gongsunzan": [
+      "ji",
+      "zhuo",
+      "pingyuan"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha"
+    ],
+    "liuzhang": [
+      "chengdu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang"
+    ],
+    "yuanshu": [
+      "shouchun",
+      "lujiang",
+      "wan",
+      "runan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "wei": [
+      "yanzhou",
+      "puyang"
+    ],
+    "taoqian": [
+      "tan",
+      "pengcheng",
+      "xiapi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "yuanshao",
+      "at": "suanzao",
+      "note": "Elected commander of the alliance."
+    },
+    {
+      "character": "caocao",
+      "at": "suanzao",
+      "note": "Forged the summons that raised it."
+    },
+    {
+      "character": "sunjian",
+      "at": "sishui",
+      "from": "jianye",
+      "note": "Leads the vanguard against Sishui Pass."
+    },
+    {
+      "character": "gongsunzan",
+      "at": "suanzao",
+      "from": "ji"
+    },
+    {
+      "character": "liubei",
+      "at": "hulao",
+      "from": "pingyuan",
+      "note": "Arrives in Gongsun Zan's train, unranked."
+    },
+    {
+      "character": "guanyu",
+      "at": "sishui",
+      "from": "pingyuan",
+      "note": "Kills Hua Xiong before the wine cools."
+    },
+    {
+      "character": "zhangfei",
+      "at": "hulao",
+      "from": "pingyuan"
+    },
+    {
+      "character": "huaxiong",
+      "at": "sishui",
+      "note": "Holds the pass until Guan Yu."
+    },
+    {
+      "character": "lvbu",
+      "at": "hulao",
+      "note": "Fights all three brothers at once."
+    },
+    {
+      "character": "dongzhuo",
+      "at": "luoyang"
+    },
+    {
+      "character": "yuanshu",
+      "at": "suanzao",
+      "from": "shouchun",
+      "note": "In charge of supply, and withholds it from Sun Jian."
+    }
+  ],
+  "focus": {
+    "lon": 113.6,
+    "lat": 34.8,
+    "zoom": 5.4
+  }
+}

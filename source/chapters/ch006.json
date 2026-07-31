@@ -1,0 +1,121 @@
+{
+  "n": 6,
+  "title": "Burning the Capital, Dong Zhuo Commits an Atrocity; Hiding the Seal, Sun Jian Breaks Faith",
+  "year": "190",
+  "summary": [
+    "Rather than hold Luoyang, Dong Zhuo burns it. Several million people are driven west along the road to Chang'an with cavalry at their backs; the imperial tombs are dug up for their grave goods; the city burns for days.",
+    "Sun Jian, first into the ruins, finds a woman's body in a palace well with a box at her neck, and in the box the Imperial Hereditary Seal. He swears an oath that he has nothing, and starts for home.",
+    "Yuan Shao, who has been told, tries to take it from him. The alliance breaks up without ever reaching Chang'an."
+  ],
+  "history": "The burning of Luoyang and the forced migration are historical, and the histories are no gentler about them than the novel is. Sun Jian's discovery of the seal is recorded in one source and doubted by others.",
+  "control": {
+    "han": [
+      "xuchang",
+      "beihai"
+    ],
+    "dongzhuo": [
+      "changan",
+      "jicheng",
+      "meiwu",
+      "hulao",
+      "sishui",
+      "luoyang",
+      "hanzhong",
+      "tongguan",
+      "jinyang"
+    ],
+    "yuanshao": [
+      "nanpi",
+      "ye",
+      "suanzao",
+      "henei"
+    ],
+    "gongsunzan": [
+      "ji",
+      "zhuo",
+      "pingyuan"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha"
+    ],
+    "liuzhang": [
+      "chengdu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang"
+    ],
+    "yuanshu": [
+      "shouchun",
+      "lujiang",
+      "wan",
+      "runan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "wei": [
+      "yanzhou",
+      "puyang"
+    ],
+    "taoqian": [
+      "tan",
+      "pengcheng",
+      "xiapi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "dongzhuo",
+      "at": "changan",
+      "from": "luoyang",
+      "note": "Burns the capital behind him."
+    },
+    {
+      "character": "lvbu",
+      "at": "changan",
+      "from": "luoyang"
+    },
+    {
+      "character": "emperorxian",
+      "at": "changan",
+      "from": "luoyang",
+      "note": "Carried west with the court."
+    },
+    {
+      "character": "wangyun",
+      "at": "changan",
+      "from": "luoyang"
+    },
+    {
+      "character": "sunjian",
+      "at": "luoyang",
+      "from": "sishui",
+      "note": "Finds the Imperial Seal in a well."
+    },
+    {
+      "character": "caocao",
+      "at": "luoyang",
+      "from": "suanzao",
+      "note": "Pursues alone and is ambushed; the other lords will not follow."
+    },
+    {
+      "character": "yuanshao",
+      "at": "suanzao"
+    },
+    {
+      "character": "liubei",
+      "at": "pingyuan",
+      "from": "hulao"
+    }
+  ],
+  "focus": {
+    "lon": 111.5,
+    "lat": 34.5,
+    "zoom": 4.8
+  }
+}

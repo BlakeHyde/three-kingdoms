@@ -1,0 +1,92 @@
+{
+  "n": 2,
+  "title": "Zhang Fei Whips the Government Inspector; He Jin Plots to Kill the Eunuchs",
+  "year": "184-189",
+  "summary": [
+    "The rebellion is broken and the brothers are given a county post so small it is an insult. When a government inspector arrives demanding a bribe, Zhang Fei ties him to a post and flogs him with a willow switch, and the three of them are fugitives again.",
+    "At court the Emperor Ling dies. The General-in-Chief He Jin, a butcher's son raised by his sister's place in the harem, resolves to destroy the ten eunuchs who run the palace — and is talked into summoning the frontier armies to help him do it."
+  ],
+  "history": "The flogging is the novel's invention, and a characteristic one: the histories give the deed to Liu Bei, who is a good deal less genial than the story lets him be.",
+  "control": {
+    "han": [
+      "luoyang",
+      "changan",
+      "ji",
+      "jinyang",
+      "xuchang",
+      "pengcheng",
+      "wan",
+      "runan",
+      "xiangyang",
+      "chengdu",
+      "hanzhong",
+      "jicheng",
+      "wu",
+      "kuaiji",
+      "jianye",
+      "changsha",
+      "beihai",
+      "ye",
+      "guangling",
+      "lujiang",
+      "shouchun",
+      "nanpi",
+      "yanzhou",
+      "danyang",
+      "jiangling",
+      "xiangping",
+      "puyang",
+      "tan",
+      "huguan"
+    ],
+    "yellowturban": [
+      "pingyuan"
+    ]
+  },
+  "pins": [
+    {
+      "character": "liubei",
+      "at": "pingyuan",
+      "note": "A county magistrate, briefly."
+    },
+    {
+      "character": "guanyu",
+      "at": "pingyuan"
+    },
+    {
+      "character": "zhangfei",
+      "at": "pingyuan",
+      "note": "Flogs the inspector and takes to the road."
+    },
+    {
+      "character": "hejin",
+      "at": "luoyang",
+      "note": "Summoning the frontier generals to the capital."
+    },
+    {
+      "character": "yuanshao",
+      "at": "luoyang",
+      "note": "Urging He Jin on."
+    },
+    {
+      "character": "caocao",
+      "at": "luoyang",
+      "note": "Alone in warning that this will end badly."
+    },
+    {
+      "character": "dongzhuo",
+      "at": "jicheng",
+      "note": "Receives the summons east."
+    },
+    {
+      "character": "zhangjue",
+      "at": "puyang",
+      "note": "Dies of illness; his brothers are hunted down."
+    }
+  ],
+  "focus": {
+    "lon": 114.0,
+    "lat": 35.5,
+    "zoom": 4.4
+  }
+}

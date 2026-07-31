@@ -1,0 +1,127 @@
+{
+  "n": 12,
+  "title": "Tao Qian Yields Xuzhou Three Times; Cao Cao Fights Lü Bu at a Great Battle",
+  "year": "194-195",
+  "summary": [
+    "Tao Qian, dying, tries three times to hand Xuzhou to Liu Bei, who three times refuses it, and accepts only when there is no one left to refuse to. It is the first territory he has ever held.",
+    "Cao Cao and Lü Bu tear Yan province apart between them. Cao Cao is nearly killed at Puyang, burned and unhorsed, and saved by Dian Wei; a locust year starves both armies into breaking off; and Lü Bu, beaten, goes to Xuzhou to ask shelter of Liu Bei — who gives it."
+  ],
+  "history": "The three refusals are the novel elaborating a real handover into a set-piece about Liu Bei's character. The locust famine of 194 is historical and was as decisive as any battle.",
+  "control": {
+    "han": [
+      "xuchang"
+    ],
+    "lijueguosi": [
+      "changan",
+      "meiwu",
+      "hulao",
+      "sishui",
+      "luoyang",
+      "tongguan"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "yuanshao": [
+      "nanpi",
+      "ye",
+      "jieqiao",
+      "henei",
+      "jinyang"
+    ],
+    "gongsunzan": [
+      "ji",
+      "zhuo",
+      "yijing"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling"
+    ],
+    "liuzhang": [
+      "chengdu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang"
+    ],
+    "yuanshu": [
+      "shouchun",
+      "lujiang",
+      "wan",
+      "runan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "wei": [
+      "yanzhou",
+      "puyang",
+      "guandu"
+    ],
+    "shu": [
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei"
+    ],
+    "kongrong": [
+      "beihai"
+    ]
+  },
+  "pins": [
+    {
+      "character": "liubei",
+      "at": "tan",
+      "note": "Accepts Xuzhou at the third asking."
+    },
+    {
+      "character": "guanyu",
+      "at": "tan"
+    },
+    {
+      "character": "zhangfei",
+      "at": "tan"
+    },
+    {
+      "character": "taoqian",
+      "at": "tan",
+      "note": "Dies, having given the province away."
+    },
+    {
+      "character": "caocao",
+      "at": "puyang",
+      "note": "Nearly burned to death in the gate."
+    },
+    {
+      "character": "dianwei",
+      "at": "puyang",
+      "note": "Carries him out."
+    },
+    {
+      "character": "lvbu",
+      "at": "puyang",
+      "note": "Beaten by famine as much as by Cao Cao."
+    },
+    {
+      "character": "chengong",
+      "at": "puyang"
+    },
+    {
+      "character": "diaochan",
+      "at": "puyang"
+    }
+  ],
+  "focus": {
+    "lon": 116.0,
+    "lat": 34.8,
+    "zoom": 5.2
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "n": 7,
+  "title": "Yuan Shao Fights Gongsun Zan at the Pan River; Sun Jian Crosses the Yangtze to Attack Liu Biao",
+  "year": "191-192",
+  "summary": [
+    "The alliance turns on itself. Yuan Shao takes Ji province by a trick and then meets Gongsun Zan at the bridge over the Pan River, where Gongsun Zan is unhorsed and about to die — and is saved by a young officer in white, a stranger, who gives his name as Zhao Yun of Changshan.",
+    "In the south, Yuan Shu goads Sun Jian into attacking Liu Biao. Sun Jian pursues too far into the hills at Xianshan and is crushed under a rockfall and a volley of arrows. He is thirty-seven."
+  ],
+  "history": "Both battles are historical. Zhao Yun's arrival at the bridge is the novel's staging — a way of putting him on the board early, and in Liu Bei's line of sight.",
+  "control": {
+    "han": [
+      "xuchang",
+      "beihai"
+    ],
+    "dongzhuo": [
+      "changan",
+      "jicheng",
+      "meiwu",
+      "hulao",
+      "sishui",
+      "luoyang",
+      "hanzhong",
+      "tongguan"
+    ],
+    "yuanshao": [
+      "nanpi",
+      "ye",
+      "jieqiao",
+      "henei",
+      "jinyang"
+    ],
+    "gongsunzan": [
+      "ji",
+      "zhuo",
+      "pingyuan",
+      "yijing"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling"
+    ],
+    "liuzhang": [
+      "chengdu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang"
+    ],
+    "yuanshu": [
+      "shouchun",
+      "lujiang",
+      "wan",
+      "runan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "wei": [
+      "yanzhou",
+      "puyang"
+    ],
+    "taoqian": [
+      "tan",
+      "pengcheng",
+      "xiapi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "yuanshao",
+      "at": "jieqiao",
+      "from": "suanzao",
+      "note": "Takes Ji province, then fights Gongsun Zan at the bridge."
+    },
+    {
+      "character": "gongsunzan",
+      "at": "jieqiao",
+      "from": "ji",
+      "note": "Unhorsed, and saved by a stranger."
+    },
+    {
+      "character": "zhaoyun",
+      "at": "jieqiao",
+      "note": "First appearance: a young officer in white."
+    },
+    {
+      "character": "yanliang",
+      "at": "jieqiao"
+    },
+    {
+      "character": "wenchou",
+      "at": "jieqiao"
+    },
+    {
+      "character": "sunjian",
+      "at": "xiangyang",
+      "from": "jianye",
+      "note": "Killed in the hills south of Xiangyang, aged thirty-seven."
+    },
+    {
+      "character": "sunce",
+      "at": "jianye",
+      "note": "Seventeen, and now head of the family."
+    },
+    {
+      "character": "liubiao",
+      "at": "xiangyang"
+    },
+    {
+      "character": "liubei",
+      "at": "pingyuan"
+    }
+  ],
+  "focus": {
+    "lon": 114.5,
+    "lat": 33.5,
+    "zoom": 4.4
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "n": 15,
+  "title": "Taishi Ci Fights the Little Conqueror; Sun Ce Cuts Out a Kingdom",
+  "year": "195-196",
+  "summary": [
+    "Sun Ce pawns his father's Imperial Seal to Yuan Shu for three thousand men and crosses the Yangtze with them. In a year he has the whole south-east.",
+    "At Shenting he and Taishi Ci fight alone in the hills until Sun Ce has Taishi Ci's halberd and Taishi Ci has Sun Ce's helmet, and neither can throw the other; Sun Ce takes him prisoner later and makes him a friend the same day. He lets him go on his word to return, and everyone tells him he is a fool, and Taishi Ci comes back at noon exactly."
+  ],
+  "history": "Substantially historical, including the release of Taishi Ci on parole. The seal was really used as security for the loan.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao"
+    ],
+    "lijueguosi": [
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "yuanshao": [
+      "nanpi",
+      "ye",
+      "jieqiao",
+      "henei",
+      "jinyang"
+    ],
+    "gongsunzan": [
+      "ji",
+      "zhuo",
+      "yijing"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling"
+    ],
+    "liuzhang": [
+      "chengdu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang"
+    ],
+    "yuanshu": [
+      "shouchun",
+      "lujiang",
+      "wan",
+      "runan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "lvbu": [
+      "tan",
+      "pengcheng",
+      "xiapi"
+    ],
+    "shu": [
+      "xiaopei"
+    ],
+    "kongrong": [
+      "beihai"
+    ]
+  },
+  "pins": [
+    {
+      "character": "sunce",
+      "at": "jianye",
+      "from": "shouchun",
+      "note": "Crosses the Yangtze with three thousand borrowed men."
+    },
+    {
+      "character": "zhouyu",
+      "at": "jianye",
+      "note": "Joins him with troops and grain; they are the same age."
+    },
+    {
+      "character": "taishici",
+      "at": "jianye",
+      "from": "beihai",
+      "note": "Fights Sun Ce to a standstill, then serves him."
+    },
+    {
+      "character": "huanggai",
+      "at": "jianye"
+    },
+    {
+      "character": "sunquan",
+      "at": "wu",
+      "note": "Fourteen."
+    },
+    {
+      "character": "yuanshu",
+      "at": "shouchun",
+      "note": "Holds the Imperial Seal as security, and begins to have ideas."
+    },
+    {
+      "character": "liubei",
+      "at": "xiaopei"
+    },
+    {
+      "character": "lvbu",
+      "at": "xiapi"
+    }
+  ],
+  "focus": {
+    "lon": 118.0,
+    "lat": 31.5,
+    "zoom": 5.2
+  }
+}

@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Natural Earth downloads. Re-fetched on demand by tools/clip_basemap.py; the clipped
+# output in web/data/basemap/ is what the site actually serves and that IS committed.
+data_cache/

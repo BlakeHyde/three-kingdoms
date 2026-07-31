@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Romance of the Three Kingdoms — an atlas</title>
+  <link rel="stylesheet" href="vendor/maplibre-gl.css">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <div id="app" class="loading">
+
+    <aside id="chapter-list" aria-label="Chapters">
+      <header>
+        <h1>Three Kingdoms</h1>
+        <p class="subtitle">三國演義 &middot; an atlas</p>
+      </header>
+      <ol id="chapters"></ol>
+      <p class="list-note">Chapters 21–120 are not yet mapped.</p>
+    </aside>
+
+    <main id="stage">
+      <div id="map"></div>
+
+      <div id="romanization">
+        <button id="romanization-toggle" aria-haspopup="true" aria-expanded="false">
+          <span id="romanization-current">Pinyin</span>
+          <svg width="10" height="6" viewBox="0 0 10 6" aria-hidden="true">
+            <path d="M1 1l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.5"/>
+          </svg>
+        </button>
+        <ul id="romanization-menu" role="menu" hidden></ul>
+      </div>
+
+      <div id="legend" aria-label="Factions"></div>
+
+      <nav id="pager">
+        <button id="prev" aria-label="Previous chapter">&larr;</button>
+        <span id="pager-label"></span>
+        <button id="next" aria-label="Next chapter">&rarr;</button>
+      </nav>
+    </main>
+
+    <aside id="detail" aria-live="polite"></aside>
+  </div>
+
+  <div id="splash"><span>Drawing the map…</span></div>
+
+  <script src="vendor/maplibre-gl.js"></script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,127 @@
+{
+  "n": 9,
+  "title": "Lü Bu Kills the Tyrant; Li Jue and Guo Si Sack the Capital",
+  "year": "192",
+  "summary": [
+    "Lü Bu kills Dong Zhuo in the palace gateway, in front of the court, with the abdication decree still in his hand. The body is exposed in the market; a lamp is set in its navel and burns for days on its own fat.",
+    "Then Wang Yun refuses amnesty to Dong Zhuo's officers, and Jia Xu tells them the only remaining option: 'Go back and take Chang'an. If it fails you can run then.' It does not fail. Wang Yun is killed, Lü Bu is driven out to wander, and Li Jue and Guo Si divide the Emperor between them."
+  ],
+  "history": "Almost all of this is historical, including the lamp. Jia Xu's advice is recorded, and later Chinese historians blamed him personally for another decade of war.",
+  "control": {
+    "han": [
+      "xuchang",
+      "beihai"
+    ],
+    "lijueguosi": [
+      "changan",
+      "jicheng",
+      "meiwu",
+      "hulao",
+      "sishui",
+      "luoyang",
+      "tongguan"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "yuanshao": [
+      "nanpi",
+      "ye",
+      "jieqiao",
+      "henei",
+      "jinyang"
+    ],
+    "gongsunzan": [
+      "ji",
+      "zhuo",
+      "pingyuan",
+      "yijing"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling"
+    ],
+    "liuzhang": [
+      "chengdu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang"
+    ],
+    "yuanshu": [
+      "shouchun",
+      "lujiang",
+      "wan",
+      "runan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "wei": [
+      "yanzhou",
+      "puyang"
+    ],
+    "taoqian": [
+      "tan",
+      "pengcheng",
+      "xiapi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "dongzhuo",
+      "at": "changan",
+      "from": "meiwu",
+      "note": "Killed in the palace gateway."
+    },
+    {
+      "character": "lvbu",
+      "at": "hulao",
+      "from": "changan",
+      "note": "Driven out; begins seven years of wandering."
+    },
+    {
+      "character": "diaochan",
+      "at": "hulao",
+      "from": "changan"
+    },
+    {
+      "character": "wangyun",
+      "at": "changan",
+      "note": "Refuses the amnesty, and is killed for it."
+    },
+    {
+      "character": "lijue",
+      "at": "changan",
+      "from": "meiwu"
+    },
+    {
+      "character": "guosi",
+      "at": "changan",
+      "from": "meiwu"
+    },
+    {
+      "character": "jiaxu",
+      "at": "changan",
+      "note": "Gives the advice that costs the empire another decade."
+    },
+    {
+      "character": "emperorxian",
+      "at": "changan",
+      "note": "Changes captors again."
+    },
+    {
+      "character": "liubei",
+      "at": "pingyuan"
+    }
+  ],
+  "focus": {
+    "lon": 110.0,
+    "lat": 34.4,
+    "zoom": 5.4
+  }
+}

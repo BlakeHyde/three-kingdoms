@@ -1,0 +1,121 @@
+{
+  "_doc": [
+    "Colour is assigned PROLEPTICALLY: Liu Bei carries Shu blue from chapter 1, twenty",
+    "years before there is a Shu, and Cao Cao carries Wei red while he is still a",
+    "colonel under He Jin. That keeps a character's colour fixed across all 120 chapters",
+    "at the cost of mild foreshadowing. Warlords who never found a kingdom get hues of",
+    "their own rather than borrowing one.",
+    "",
+    "Hues are OKLCH so that the per-character shade ramp in tools/build_data.py varies",
+    "lightness without the muddy dark spots you get ramping in HSL. `chroma` is the",
+    "faction's base saturation: the three kingdoms sit high, the transient warlords sit",
+    "lower so the map reads as three powers among noise rather than twenty equals.",
+    "",
+    "`rank` orders the legend and decides paint order where territories overlap."
+  ],
+
+  "factions": {
+    "han": {
+      "name": "Han court", "hanzi": "漢", "pinyin": "hàn",
+      "hue": 88, "chroma": 0.035, "rank": 0,
+      "note": "Deliberately the palest thing on the map -- near-neutral, so the warlords read as colour against it. The imperial government as an independent actor: whoever holds the Emperor. Shrinks to nothing after Cao Cao takes him to Xuchang in ch. 14."
+    },
+    "shu": {
+      "name": "Shu Han", "hanzi": "蜀漢", "pinyin": "shǔ hàn",
+      "hue": 250, "chroma": 0.13, "rank": 1,
+      "note": "Liu Bei's following, from two men in a Zhuo county garden to the western empire."
+    },
+    "wei": {
+      "name": "Cao Wei", "hanzi": "曹魏", "pinyin": "cáo wèi",
+      "hue": 20, "chroma": 0.13, "rank": 2,
+      "note": "Cao Cao's power, later the Wei dynasty."
+    },
+    "wu": {
+      "name": "Eastern Wu", "hanzi": "東吳", "pinyin": "dōng wú",
+      "hue": 160, "chroma": 0.12, "rank": 3,
+      "note": "The Sun family's south-east, from Sun Jian through Sun Ce to Sun Quan."
+    },
+
+    "yellowturban": {
+      "name": "Yellow Turbans", "hanzi": "黃巾", "pinyin": "huáng jīn",
+      "hue": 112, "chroma": 0.155, "rank": 10,
+      "note": "Zhang Jue's rising. Territory here means districts in revolt, not administration."
+    },
+    "dongzhuo": {
+      "name": "Dong Zhuo", "hanzi": "董卓", "pinyin": "dǒng zhuó",
+      "hue": 310, "chroma": 0.11, "rank": 11
+    },
+    "lijueguosi": {
+      "name": "Li Jue and Guo Si", "short": "Li and Guo", "hanzi": "李郭", "pinyin": "lǐ guō",
+      "hue": 300, "chroma": 0.07, "rank": 12,
+      "note": "Dong Zhuo's officers, who inherit Chang'an and the Emperor after ch. 9."
+    },
+    "yuanshao": {
+      "name": "Yuan Shao", "hanzi": "袁紹", "pinyin": "yuán shào",
+      "hue": 55, "chroma": 0.12, "rank": 13
+    },
+    "yuanshu": {
+      "name": "Yuan Shu", "hanzi": "袁術", "pinyin": "yuán shù",
+      "hue": 115, "chroma": 0.10, "rank": 14
+    },
+    "lvbu": {
+      "name": "Lü Bu", "hanzi": "呂布", "pinyin": "lǚ bù",
+      "hue": 350, "chroma": 0.12, "rank": 15
+    },
+    "gongsunzan": {
+      "name": "Gongsun Zan", "hanzi": "公孫瓚", "pinyin": "gōng sūn zàn",
+      "hue": 210, "chroma": 0.07, "rank": 16
+    },
+    "taoqian": {
+      "name": "Tao Qian", "hanzi": "陶謙", "pinyin": "táo qiān",
+      "hue": 190, "chroma": 0.07, "rank": 17,
+      "note": "Xuzhou, willed to Liu Bei in ch. 12."
+    },
+    "kongrong": {
+      "name": "Kong Rong", "hanzi": "孔融", "pinyin": "kǒng róng",
+      "hue": 225, "chroma": 0.05, "rank": 18
+    },
+    "liubiao": {
+      "name": "Liu Biao", "hanzi": "劉表", "pinyin": "liú biǎo",
+      "hue": 75, "chroma": 0.06, "rank": 19,
+      "note": "Jing province, the buffer Liu Bei shelters in for seven years."
+    },
+    "liuzhang": {
+      "name": "Liu Zhang", "hanzi": "劉璋", "pinyin": "liú zhāng",
+      "hue": 135, "chroma": 0.05, "rank": 20,
+      "note": "Yi province, inherited from his father Liu Yan. Absorbed by Liu Bei in ch. 65."
+    },
+    "xiliang": {
+      "name": "Ma Teng and Han Sui", "short": "Xiliang", "hanzi": "西涼", "pinyin": "xī liáng",
+      "hue": 330, "chroma": 0.09, "rank": 21,
+      "note": "The Liang province horsemen of the north-west."
+    },
+    "zhanglu": {
+      "name": "Zhang Lu", "hanzi": "張魯", "pinyin": "zhāng lǔ",
+      "hue": 285, "chroma": 0.05, "rank": 22,
+      "note": "The Five Pecks of Rice theocracy in Hanzhong."
+    },
+    "zhangxiu": {
+      "name": "Zhang Xiu", "hanzi": "張繡", "pinyin": "zhāng xiù",
+      "hue": 40, "chroma": 0.06, "rank": 23
+    },
+    "liaodong": {
+      "name": "Gongsun of Liaodong", "short": "Liaodong", "hanzi": "遼東", "pinyin": "liáo dōng",
+      "hue": 265, "chroma": 0.04, "rank": 24
+    },
+    "nanman": {
+      "name": "Nanman", "hanzi": "南蠻", "pinyin": "nán mán",
+      "hue": 145, "chroma": 0.08, "rank": 25,
+      "note": "Meng Huo's southern tribes, campaigned against in ch. 87-90."
+    },
+    "jiaozhou": {
+      "name": "Shi Xie", "hanzi": "交州", "pinyin": "jiāo zhōu",
+      "hue": 175, "chroma": 0.05, "rank": 26
+    },
+    "unaligned": {
+      "name": "Unaligned", "hanzi": "無主", "pinyin": "wú zhǔ",
+      "hue": 250, "chroma": 0.0, "rank": 99,
+      "note": "Fallback for figures with no standing allegiance."
+    }
+  }
+}

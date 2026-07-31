@@ -1,0 +1,104 @@
+{
+  "n": 4,
+  "title": "Deposing the Emperor, Dong Zhuo Installs Another; Cao Cao Presents a Sword and Flees",
+  "year": "189-190",
+  "summary": [
+    "Dong Zhuo deposes the young emperor, enthrones his nine-year-old brother as Emperor Xian, and has the mother and son poisoned. In council he answers objections by having the objector dragged out and killed.",
+    "Cao Cao takes a jewelled sword from Wang Yun and goes to Dong Zhuo's chamber to use it. Caught in the mirror's reflection, he kneels and presents the blade as a gift instead, then rides east before the story can be tested.",
+    "On the road he is sheltered by his father's sworn brother Lü Boshe, hears knives being sharpened, and kills the household — nine people — before he sees the pig tied up for the feast. He kills Lü Boshe too, on the road, to keep him from talking."
+  ],
+  "history": "The sword and the mirror are the novel's. Cao Cao's flight is historical; so is a version of the killing at Lü Boshe's house, which even the sympathetic sources record.",
+  "control": {
+    "han": [
+      "xuchang",
+      "pengcheng",
+      "runan",
+      "beihai",
+      "guangling",
+      "yanzhou",
+      "tan",
+      "puyang"
+    ],
+    "dongzhuo": [
+      "luoyang",
+      "changan",
+      "jicheng",
+      "meiwu",
+      "hanzhong",
+      "hulao",
+      "sishui",
+      "jinyang"
+    ],
+    "yuanshao": [
+      "nanpi",
+      "ye"
+    ],
+    "gongsunzan": [
+      "ji",
+      "zhuo"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha"
+    ],
+    "liuzhang": [
+      "chengdu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang"
+    ],
+    "yuanshu": [
+      "shouchun",
+      "lujiang",
+      "wan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "caocao",
+      "at": "luoyang",
+      "from": null,
+      "note": "Fails to kill Dong Zhuo; rides east to raise an army."
+    },
+    {
+      "character": "chengong",
+      "at": "pengcheng",
+      "note": "Releases Cao Cao, rides with him, and leaves him after Lü Boshe."
+    },
+    {
+      "character": "lvboshe",
+      "at": "pengcheng",
+      "note": "Killed on the road with his whole household."
+    },
+    {
+      "character": "dongzhuo",
+      "at": "luoyang"
+    },
+    {
+      "character": "lvbu",
+      "at": "luoyang"
+    },
+    {
+      "character": "emperorxian",
+      "at": "luoyang",
+      "note": "Enthroned at nine."
+    },
+    {
+      "character": "wangyun",
+      "at": "luoyang",
+      "note": "Lends the sword, and begins to wait."
+    }
+  ],
+  "focus": {
+    "lon": 113.5,
+    "lat": 34.6,
+    "zoom": 5.0
+  }
+}

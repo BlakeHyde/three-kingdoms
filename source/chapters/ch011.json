@@ -1,0 +1,143 @@
+{
+  "n": 11,
+  "title": "Liu Bei Rescues Kong Rong at Beihai; Lü Bu Defeats Cao Cao at Puyang",
+  "year": "193-194",
+  "summary": [
+    "Kong Rong, besieged in Beihai by rebels, is broken out by a single rider — Taishi Ci, repaying a kindness done to his mother — and then sends to Liu Bei for help. Liu Bei's reaction to being asked is the most revealing line he has: 'Does Kong Rong know there is a Liu Bei in the world?'",
+    "He goes on to Xuzhou to lift Cao Cao's siege, and finds it lifted for him: Lü Bu, prompted by Chen Gong, has taken Yan province while Cao Cao's back was turned, and Cao Cao must go home."
+  ],
+  "history": "Historical in outline. The novel gives Liu Bei the rescue of both Beihai and Xuzhou; the record is thinner and less flattering to everyone.",
+  "control": {
+    "han": [
+      "xuchang"
+    ],
+    "lijueguosi": [
+      "changan",
+      "meiwu",
+      "hulao",
+      "sishui",
+      "luoyang",
+      "tongguan"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "yuanshao": [
+      "nanpi",
+      "ye",
+      "jieqiao",
+      "henei",
+      "jinyang"
+    ],
+    "gongsunzan": [
+      "ji",
+      "zhuo",
+      "yijing"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling"
+    ],
+    "liuzhang": [
+      "chengdu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang"
+    ],
+    "yuanshu": [
+      "shouchun",
+      "lujiang",
+      "wan",
+      "runan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "wei": [
+      "guandu",
+      "xiaopei"
+    ],
+    "lvbu": [
+      "yanzhou",
+      "puyang"
+    ],
+    "taoqian": [
+      "tan",
+      "pengcheng",
+      "xiapi"
+    ],
+    "kongrong": [
+      "beihai"
+    ],
+    "shu": [
+      "pingyuan"
+    ]
+  },
+  "pins": [
+    {
+      "character": "liubei",
+      "at": "tan",
+      "from": "pingyuan",
+      "note": "Rides to Beihai, then to Xuzhou."
+    },
+    {
+      "character": "guanyu",
+      "at": "tan",
+      "from": "pingyuan"
+    },
+    {
+      "character": "zhangfei",
+      "at": "tan",
+      "from": "pingyuan"
+    },
+    {
+      "character": "zhaoyun",
+      "at": "ji",
+      "note": "Still Gongsun Zan's officer."
+    },
+    {
+      "character": "kongrong",
+      "at": "beihai",
+      "note": "Besieged, and rescued."
+    },
+    {
+      "character": "taishici",
+      "at": "beihai",
+      "note": "Breaks the siege line alone."
+    },
+    {
+      "character": "caocao",
+      "at": "puyang",
+      "from": "tan",
+      "note": "Abandons the Xuzhou campaign to save his own province."
+    },
+    {
+      "character": "lvbu",
+      "at": "puyang",
+      "from": "hulao",
+      "note": "Seizes Yan province behind Cao Cao."
+    },
+    {
+      "character": "chengong",
+      "at": "puyang",
+      "note": "The mind behind the seizure."
+    },
+    {
+      "character": "taoqian",
+      "at": "tan"
+    }
+  ],
+  "focus": {
+    "lon": 116.5,
+    "lat": 35.0,
+    "zoom": 5.0
+  }
+}

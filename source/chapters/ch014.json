@@ -1,0 +1,133 @@
+{
+  "n": 14,
+  "title": "Cao Cao Moves the Court to Xuchang; Lü Bu Takes Xuzhou by Night",
+  "year": "196",
+  "summary": [
+    "Cao Cao arrives at Luoyang, feeds the court, and proposes a move to Xuchang where the granaries are. The Emperor agrees, because there is nothing else to agree to. From this point Cao Cao issues orders in the Emperor's name and his rivals must either obey them or be rebels.",
+    "One such order sends Liu Bei against Yuan Shu. He goes, leaving Zhang Fei to hold Xuzhou; Zhang Fei gets drunk, whips his officer Cao Bao, and Cao Bao opens the gate to Lü Bu. Liu Bei comes back to nothing, and takes shelter in Xiaopei — from his own guest."
+  ],
+  "history": "The move to Xuchang is the pivot of the whole period: whoever held the Emperor could make his wars legal. Lü Bu's seizure of Xuzhou is historical; the drunken flogging is the novel's explanation for it.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao"
+    ],
+    "lijueguosi": [
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "yuanshao": [
+      "nanpi",
+      "ye",
+      "jieqiao",
+      "henei",
+      "jinyang"
+    ],
+    "gongsunzan": [
+      "ji",
+      "zhuo",
+      "yijing"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling"
+    ],
+    "liuzhang": [
+      "chengdu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang"
+    ],
+    "yuanshu": [
+      "shouchun",
+      "lujiang",
+      "wan",
+      "runan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "lvbu": [
+      "tan",
+      "pengcheng",
+      "xiapi"
+    ],
+    "shu": [
+      "xiaopei"
+    ],
+    "kongrong": [
+      "beihai"
+    ]
+  },
+  "pins": [
+    {
+      "character": "caocao",
+      "at": "xuchang",
+      "from": "luoyang",
+      "note": "Takes the Emperor to Xuchang, and the initiative with him."
+    },
+    {
+      "character": "emperorxian",
+      "at": "xuchang",
+      "from": "luoyang"
+    },
+    {
+      "character": "dongcheng",
+      "at": "xuchang",
+      "from": "luoyang"
+    },
+    {
+      "character": "xunyu",
+      "at": "xuchang",
+      "note": "Argued for the move."
+    },
+    {
+      "character": "liubei",
+      "at": "xiaopei",
+      "from": "tan",
+      "note": "Loses Xuzhou while away campaigning."
+    },
+    {
+      "character": "zhangfei",
+      "at": "xiaopei",
+      "from": "tan",
+      "note": "Lost the city drunk."
+    },
+    {
+      "character": "guanyu",
+      "at": "xiaopei",
+      "from": "tan"
+    },
+    {
+      "character": "lvbu",
+      "at": "xiapi",
+      "from": "puyang",
+      "note": "Takes Xuzhou from the man who sheltered him."
+    },
+    {
+      "character": "chengong",
+      "at": "xiapi"
+    }
+  ],
+  "focus": {
+    "lon": 115.5,
+    "lat": 34.4,
+    "zoom": 5.0
+  }
+}

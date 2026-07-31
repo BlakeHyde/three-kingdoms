@@ -1,0 +1,126 @@
+{
+  "n": 19,
+  "title": "Cao Cao Floods Xiapi; Lü Bu Dies at the White Gate Tower",
+  "year": "198-199",
+  "summary": [
+    "Cao Cao dams the Yi and the Si and lets them into the city. Lü Bu, who has stopped drinking and started forbidding it, alienates the last officers he has; they tie him up while he sleeps and open the gate.",
+    "At the White Gate Tower he offers to serve — 'you take the infantry, I will take the cavalry, and the empire is yours' — and Cao Cao wavers. He asks Liu Bei's opinion. Liu Bei says four words: 'Remember Ding Yuan and Dong Zhuo.' Lü Bu is strangled.",
+    "Chen Gong, offered his life, walks to the executioner without stopping. Zhang Liao curses everyone present and is untied by Cao Cao personally."
+  ],
+  "history": "Historical, including Liu Bei's intervention — the one moment in the novel where his mildness drops entirely and he simply has a man killed.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei"
+    ],
+    "lijueguosi": [
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "zhangxiu": [
+      "wan"
+    ],
+    "yuanshao": [
+      "nanpi",
+      "ye",
+      "jieqiao",
+      "henei",
+      "jinyang"
+    ],
+    "gongsunzan": [
+      "ji",
+      "zhuo",
+      "yijing"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling"
+    ],
+    "liuzhang": [
+      "chengdu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang"
+    ],
+    "yuanshu": [
+      "lujiang"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "kongrong": [
+      "beihai"
+    ]
+  },
+  "pins": [
+    {
+      "character": "lvbu",
+      "at": "xiapi",
+      "note": "Strangled at the White Gate Tower."
+    },
+    {
+      "character": "chengong",
+      "at": "xiapi",
+      "note": "Refuses his life."
+    },
+    {
+      "character": "diaochan",
+      "at": "xiapi",
+      "note": "Leaves the novel here without a word."
+    },
+    {
+      "character": "zhangliao",
+      "at": "xiapi",
+      "note": "Curses his captors, and is spared."
+    },
+    {
+      "character": "caocao",
+      "at": "xiapi"
+    },
+    {
+      "character": "liubei",
+      "at": "xiapi",
+      "note": "'Remember Ding Yuan and Dong Zhuo.'"
+    },
+    {
+      "character": "guanyu",
+      "at": "xiapi"
+    },
+    {
+      "character": "zhangfei",
+      "at": "xiapi"
+    },
+    {
+      "character": "xiahoudun",
+      "at": "xiapi"
+    }
+  ],
+  "focus": {
+    "lon": 117.0,
+    "lat": 34.3,
+    "zoom": 6.0
+  }
+}

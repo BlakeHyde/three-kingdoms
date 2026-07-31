@@ -1,0 +1,130 @@
+{
+  "n": 18,
+  "title": "Jia Xu Foresees a Victory; Xiahou Dun Eats His Own Eye",
+  "year": "198",
+  "summary": [
+    "Jia Xu, advising Zhang Xiu, tells him to pursue a retreating Cao Cao, and when that fails tells him to pursue again immediately — and is right both times, for reasons he explains afterwards with some patience.",
+    "Cao Cao turns on Lü Bu. At the siege lines Xiahou Dun takes an arrow through the left eye, pulls it out with the eyeball still on it, says 'the essence of my father and mother — I cannot throw it away', swallows it, and rides down the man who shot him."
+  ],
+  "history": "Xiahou Dun really did lose an eye to an arrow and was called 'blind Xiahou' for it, to his lasting annoyance. Eating it is the novel's contribution.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun"
+    ],
+    "lijueguosi": [
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "zhangxiu": [
+      "wan"
+    ],
+    "yuanshao": [
+      "nanpi",
+      "ye",
+      "jieqiao",
+      "henei",
+      "jinyang"
+    ],
+    "gongsunzan": [
+      "ji",
+      "zhuo",
+      "yijing"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling"
+    ],
+    "liuzhang": [
+      "chengdu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang"
+    ],
+    "yuanshu": [
+      "lujiang"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "lvbu": [
+      "tan",
+      "pengcheng",
+      "xiapi"
+    ],
+    "shu": [
+      "xiaopei"
+    ],
+    "kongrong": [
+      "beihai"
+    ]
+  },
+  "pins": [
+    {
+      "character": "jiaxu",
+      "at": "wan",
+      "note": "Right twice in a row, for reasons nobody else can see."
+    },
+    {
+      "character": "zhangxiu",
+      "at": "wan"
+    },
+    {
+      "character": "caocao",
+      "at": "xiapi",
+      "from": "wan",
+      "note": "Turns on Lü Bu at last."
+    },
+    {
+      "character": "xiahoudun",
+      "at": "xiapi",
+      "note": "Loses an eye and swallows it."
+    },
+    {
+      "character": "lvbu",
+      "at": "xiapi",
+      "note": "Besieged."
+    },
+    {
+      "character": "chengong",
+      "at": "xiapi"
+    },
+    {
+      "character": "liubei",
+      "at": "xiaopei",
+      "note": "Joins the siege."
+    },
+    {
+      "character": "guanyu",
+      "at": "xiapi"
+    },
+    {
+      "character": "zhangfei",
+      "at": "xiapi"
+    }
+  ],
+  "focus": {
+    "lon": 115.5,
+    "lat": 34.0,
+    "zoom": 5.2
+  }
+}

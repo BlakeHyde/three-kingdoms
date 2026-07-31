@@ -1,0 +1,106 @@
+{
+  "n": 8,
+  "title": "Wang Yun Lays the Chain Stratagem; Dong Zhuo Storms out of the Phoenix Pavilion",
+  "year": "192",
+  "summary": [
+    "Wang Yun, weeping alone in his garden at the state of the empire, finds his singing-girl Diaochan weeping too, and asks her to do a thing no army has managed.",
+    "He promises her to Lü Bu and then presents her to Dong Zhuo, and lets each of them find out. She plays them against each other with complete composure — a look here, a tear there — until Lü Bu, hidden in the Phoenix Pavilion, sees what he takes for proof, and Dong Zhuo hurls a halberd at his head."
+  ],
+  "history": "Diaochan is fictional. The histories record only that Lü Bu had an affair with one of Dong Zhuo's maids and lived in fear of being found out — which was enough for Wang Yun to work with.",
+  "control": {
+    "han": [
+      "xuchang",
+      "beihai"
+    ],
+    "dongzhuo": [
+      "changan",
+      "jicheng",
+      "meiwu",
+      "hulao",
+      "sishui",
+      "luoyang",
+      "hanzhong",
+      "tongguan"
+    ],
+    "yuanshao": [
+      "nanpi",
+      "ye",
+      "jieqiao",
+      "henei",
+      "jinyang"
+    ],
+    "gongsunzan": [
+      "ji",
+      "zhuo",
+      "pingyuan",
+      "yijing"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling"
+    ],
+    "liuzhang": [
+      "chengdu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang"
+    ],
+    "yuanshu": [
+      "shouchun",
+      "lujiang",
+      "wan",
+      "runan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "wei": [
+      "yanzhou",
+      "puyang"
+    ],
+    "taoqian": [
+      "tan",
+      "pengcheng",
+      "xiapi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "wangyun",
+      "at": "changan",
+      "note": "Sets the chain stratagem in motion."
+    },
+    {
+      "character": "diaochan",
+      "at": "changan",
+      "note": "Promised to Lü Bu, given to Dong Zhuo."
+    },
+    {
+      "character": "dongzhuo",
+      "at": "meiwu",
+      "note": "Between the capital and his treasure fortress."
+    },
+    {
+      "character": "lvbu",
+      "at": "changan"
+    },
+    {
+      "character": "emperorxian",
+      "at": "changan"
+    },
+    {
+      "character": "liubei",
+      "at": "pingyuan"
+    }
+  ],
+  "focus": {
+    "lon": 109.5,
+    "lat": 34.4,
+    "zoom": 6.0
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "n": 20,
+  "title": "Cao Cao Hunts at Xutian; Dong Cheng Receives the Girdle Edict",
+  "year": "199",
+  "summary": [
+    "At the imperial hunt Cao Cao rides level with the Emperor, takes the Emperor's own bow to shoot the deer, and then keeps the bow. When the officers cheer the kill, he moves in front of the Emperor to receive it. Guan Yu reaches for his blade and Liu Bei stops him with a look.",
+    "That night the Emperor bites his finger and writes an edict in blood, sews it into a jade girdle, and gives the girdle to his father-in-law Dong Cheng as a gift, in public, with Cao Cao watching. Seven men eventually sign it. One of them is Liu Bei, who immediately starts growing vegetables to look harmless."
+  ],
+  "history": "The girdle edict and Dong Cheng's conspiracy are historical, and so is its failure. The hunt at Xutian is the novel's staging of what the conspiracy was about.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan"
+    ],
+    "lijueguosi": [
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "yuanshao": [
+      "nanpi",
+      "ye",
+      "jieqiao",
+      "henei",
+      "jinyang",
+      "ji",
+      "zhuo"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling"
+    ],
+    "liuzhang": [
+      "chengdu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "kongrong": [
+      "beihai"
+    ]
+  },
+  "pins": [
+    {
+      "character": "caocao",
+      "at": "xuchang",
+      "note": "Takes the Emperor's bow, and keeps it."
+    },
+    {
+      "character": "emperorxian",
+      "at": "xuchang",
+      "note": "Writes the edict in his own blood."
+    },
+    {
+      "character": "dongcheng",
+      "at": "xuchang",
+      "note": "Receives the girdle."
+    },
+    {
+      "character": "liubei",
+      "at": "xuchang",
+      "from": "xiapi",
+      "note": "Signs, then grows vegetables."
+    },
+    {
+      "character": "guanyu",
+      "at": "xuchang",
+      "from": "xiapi",
+      "note": "Reaches for his blade at the hunt."
+    },
+    {
+      "character": "zhangfei",
+      "at": "xuchang",
+      "from": "xiapi"
+    },
+    {
+      "character": "mateng",
+      "at": "xuchang",
+      "from": "jicheng",
+      "note": "Signs the edict and rides home."
+    },
+    {
+      "character": "yuanshao",
+      "at": "ye",
+      "note": "Has finished Gongsun Zan and turns south."
+    }
+  ],
+  "focus": {
+    "lon": 114.0,
+    "lat": 34.2,
+    "zoom": 5.2
+  }
+}
