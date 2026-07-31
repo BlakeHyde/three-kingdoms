@@ -1,0 +1,114 @@
+{
+  "n": 35,
+  "title": "Water Mirror Names Two Men; Shan Fu Comes to Xinye",
+  "year": "207",
+  "summary": [
+    "Sheltering overnight with the recluse Sima Hui, Liu Bei is told the reason he has spent twenty years losing: he has soldiers and no strategist. 'Sleeping Dragon or Young Phoenix — either one of them would be enough to settle the empire.' He will not say who they are.",
+    "Shortly afterwards a singing madman on the road turns out to be a strategist calling himself Shan Fu, and Liu Bei's fortunes change within the month."
+  ],
+  "history": "Sima Hui and the two nicknames are historical. The novel arranges them into a prophecy that the next ten chapters spend cashing in.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "huguan"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling",
+      "lingling",
+      "guiyang",
+      "fancheng"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "shu": [
+      "xinye"
+    ]
+  },
+  "pins": [
+    {
+      "character": "liubei",
+      "at": "xinye",
+      "from": "tanxi"
+    },
+    {
+      "character": "simahui",
+      "at": "longzhong",
+      "note": "'Sleeping Dragon or Young Phoenix would be enough.'"
+    },
+    {
+      "character": "xushu",
+      "at": "xinye",
+      "note": "Arrives calling himself Shan Fu."
+    },
+    {
+      "character": "guanyu",
+      "at": "xinye"
+    },
+    {
+      "character": "zhangfei",
+      "at": "xinye"
+    }
+  ],
+  "focus": {
+    "lon": 112.3,
+    "lat": 32.3,
+    "zoom": 6.0
+  }
+}

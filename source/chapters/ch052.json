@@ -1,0 +1,109 @@
+{
+  "n": 52,
+  "title": "Zhao Yun Takes Guiyang and Declines the Governor's Sister-in-Law",
+  "year": "209",
+  "summary": [
+    "The southern commanderies fall one after another. At Guiyang the surrendering governor offers Zhao Yun his widowed sister-in-law along with the seals, and Zhao Yun refuses — on the grounds that the man is a new subordinate, that she is a widow, and that accepting would look exactly like what it would be."
+  ],
+  "history": "Historical, and recorded because it was thought remarkable. Zhao Yun's reasoning in the sources is the same as the novel's.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu"
+    ],
+    "shu": [
+      "jiangling",
+      "xiakou",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xinye"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhaoyun",
+      "at": "guiyang",
+      "from": "jiangling",
+      "note": "Takes the city and declines the marriage."
+    },
+    {
+      "character": "zhugeliang",
+      "at": "lingling"
+    },
+    {
+      "character": "zhangfei",
+      "at": "wuling"
+    },
+    {
+      "character": "liubei",
+      "at": "jiangling"
+    },
+    {
+      "character": "zhouyu",
+      "at": "baqiu",
+      "note": "Watching the province go."
+    }
+  ],
+  "focus": {
+    "lon": 112.5,
+    "lat": 28.0,
+    "zoom": 5.4
+  }
+}

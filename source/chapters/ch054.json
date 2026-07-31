@@ -1,0 +1,112 @@
+{
+  "n": 54,
+  "title": "The Trap at Ganlu Temple Becomes a Wedding",
+  "year": "209",
+  "summary": [
+    "Zhou Yu's plan is to offer Sun Quan's sister to the widowed Liu Bei, hold him in Wu as a hostage-son-in-law, and trade him back for Jing province. Zhuge Liang sends him anyway with three sealed bags of instructions and Zhao Yun to open them.",
+    "Liu Bei charms the Dowager, who inspects him at Ganlu Temple and likes what she sees, and the sham marriage becomes a real one over Zhou Yu's objections. The bride keeps a hundred armed maids in her bedchamber."
+  ],
+  "history": "The marriage is historical and so is Lady Sun's armed household, which the sources say frightened Liu Bei considerably.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu"
+    ],
+    "shu": [
+      "jiangling",
+      "xiakou",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xinye"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "liubei",
+      "at": "jianye",
+      "from": "jiangling",
+      "note": "Walks into the trap and marries out of it."
+    },
+    {
+      "character": "sunshangxiang",
+      "at": "jianye",
+      "note": "Keeps a hundred armed maids in her rooms."
+    },
+    {
+      "character": "zhaoyun",
+      "at": "jianye",
+      "note": "Carrying three sealed bags."
+    },
+    {
+      "character": "sunquan",
+      "at": "jianye"
+    },
+    {
+      "character": "zhouyu",
+      "at": "baqiu",
+      "note": "Whose plan this was."
+    }
+  ],
+  "focus": {
+    "lon": 119.0,
+    "lat": 31.5,
+    "zoom": 5.4
+  }
+}

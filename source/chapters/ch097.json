@@ -1,0 +1,110 @@
+{
+  "n": 97,
+  "title": "The Second Memorial; Chencang Will Not Fall",
+  "year": "228-229",
+  "summary": [
+    "Zhuge Liang goes north again, and the whole expedition breaks on one small fortress. Chencang is held by a single stubborn officer with a thousand men who has prepared for exactly this, and every method Shu tries — ladders, towers, tunnels, fire — is answered within the hour.",
+    "Twenty days later the grain runs out and the army goes home. It is the pattern of every remaining campaign: Shu can beat any Wei army in the field and cannot feed itself long enough to matter."
+  ],
+  "history": "Historical. The logistics are the real story of the northern expeditions, and the novel is honest about it even while celebrating the stratagems.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhugeliang",
+      "at": "chencang",
+      "from": "hanzhong",
+      "note": "Broken by one fortress and a supply line."
+    },
+    {
+      "character": "weiyan",
+      "at": "chencang"
+    },
+    {
+      "character": "jiangwei",
+      "at": "chencang"
+    },
+    {
+      "character": "caozhen",
+      "at": "changan"
+    },
+    {
+      "character": "simayi",
+      "at": "luoyang",
+      "note": "Advises simply waiting."
+    }
+  ],
+  "focus": {
+    "lon": 107.1,
+    "lat": 34.4,
+    "zoom": 5.4
+  }
+}

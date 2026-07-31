@@ -1,0 +1,97 @@
+{
+  "n": 48,
+  "title": "Cao Cao Sings on the Yangtze and Kills a Man for Saying So",
+  "year": "208",
+  "summary": [
+    "The night before the battle Cao Cao holds a banquet on the water, takes a spear, and sings his own poem to the moon — 'the moon is bright, the stars are few, the crows fly south'. An officer remarks that crows flying south at night is an ill omen on the eve of a battle. Cao Cao runs him through with the spear, and goes on singing.",
+    "He apologises in the morning and buries him well."
+  ],
+  "history": "The poem is Cao Cao's own and survives. The killing is the novel's, and it is placed here to remind you what he is on the night before he loses.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "xiangyang",
+      "fancheng",
+      "xinye",
+      "jiangling",
+      "wulin"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "xiakou",
+      "baqiu",
+      "xiakou"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "shu": [
+      "xiakou"
+    ]
+  },
+  "pins": [
+    {
+      "character": "caocao",
+      "at": "wulin",
+      "note": "Sings, and kills a man for listening carefully."
+    },
+    {
+      "character": "zhouyu",
+      "at": "chaisang"
+    },
+    {
+      "character": "huanggai",
+      "at": "chaisang",
+      "note": "Waiting for wind."
+    }
+  ],
+  "focus": {
+    "lon": 114.0,
+    "lat": 29.9,
+    "zoom": 6.2
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "n": 29,
+  "title": "The Little Conqueror Executes a Daoist; Sun Quan Inherits the South-East",
+  "year": "200",
+  "summary": [
+    "Sun Ce has the Daoist Yu Ji executed for the crime of being more beloved than himself, and is haunted to death for it — starting at his own reflection, tearing open a healing arrow wound, dead at twenty-six.",
+    "He leaves the south-east to his eighteen-year-old brother with the clearest advice in the book: for matters of the field, ask Zhou Yu; for holding what we have, ask Zhang Zhao."
+  ],
+  "history": "Sun Ce really did die at twenty-six of an assassin's arrow wound. The haunting is the novel's explanation for a death that was otherwise merely unlucky.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "baima",
+      "yanjin"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling",
+      "lingling",
+      "guiyang",
+      "xinye",
+      "fancheng"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "yuanshao": [
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan"
+    ]
+  },
+  "pins": [
+    {
+      "character": "sunce",
+      "at": "jianye",
+      "note": "Dead at twenty-six."
+    },
+    {
+      "character": "sunquan",
+      "at": "jianye",
+      "note": "Eighteen, and now responsible for all of it."
+    },
+    {
+      "character": "zhouyu",
+      "at": "chaisang",
+      "from": "baqiu",
+      "note": "Comes at once."
+    },
+    {
+      "character": "zhangzhao",
+      "at": "jianye"
+    },
+    {
+      "character": "yuji",
+      "at": "jianye",
+      "note": "Executed, and does not stay dead."
+    },
+    {
+      "character": "taishici",
+      "at": "jianye"
+    }
+  ],
+  "focus": {
+    "lon": 118.5,
+    "lat": 31.5,
+    "zoom": 5.4
+  }
+}

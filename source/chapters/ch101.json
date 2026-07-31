@@ -1,0 +1,110 @@
+{
+  "n": 101,
+  "title": "Wooden Oxen Carry the Grain; Zhang He Dies at Mumen",
+  "year": "231",
+  "summary": [
+    "Zhuge Liang's answer to the supply problem is a fleet of wooden transport carts — 'wooden oxen and flowing horses' — that need no fodder and can be immobilised by removing a tongue, so captured ones are useless.",
+    "Withdrawing again, he leaves an ambush in the Mumen defile. Zhang He, the last of Cao Cao's great generals and ordered by Sima Yi not to pursue, pursues anyway and is shot dead in the road."
+  ],
+  "history": "The wooden oxen are historical, though what they actually were is still argued about. Zhang He's death at Mumen is historical, and the sources agree he was ordered not to go.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhugeliang",
+      "at": "hanzhong",
+      "note": "Builds transport that eats nothing."
+    },
+    {
+      "character": "zhanghe",
+      "at": "mumen",
+      "note": "Pursues against orders, and is shot in the road."
+    },
+    {
+      "character": "simayi",
+      "at": "changan",
+      "note": "Who told him not to."
+    },
+    {
+      "character": "weiyan",
+      "at": "mumen"
+    },
+    {
+      "character": "jiangwei",
+      "at": "hanzhong"
+    }
+  ],
+  "focus": {
+    "lon": 105.6,
+    "lat": 34.4,
+    "zoom": 5.4
+  }
+}

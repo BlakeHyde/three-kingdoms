@@ -1,0 +1,108 @@
+{
+  "n": 41,
+  "title": "Zhao Yun Alone at Changban; Liu Bei Throws His Son on the Ground",
+  "year": "208",
+  "summary": [
+    "The column is caught and destroyed. Zhao Yun goes back into it alone, three times, and comes out at evening with Liu Bei's infant son inside his armour, having cut through the whole of Cao Cao's centre — who were under orders to take him alive, because Cao Cao wanted him.",
+    "Liu Bei takes the child and throws it on the ground: 'For the sake of this infant I nearly lost a great commander.'"
+  ],
+  "history": "Zhao Yun really did bring the child out. Throwing it down is the novel's, and readers have argued for six centuries about whether it is sincere.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "xiangyang",
+      "fancheng",
+      "xinye",
+      "jiangling",
+      "wulin"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "xiakou",
+      "baqiu",
+      "xiakou"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "shu": [
+      "xiakou"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhaoyun",
+      "at": "jiangling",
+      "note": "Goes back into the army three times."
+    },
+    {
+      "character": "liubei",
+      "at": "jiangling",
+      "note": "Throws the child on the ground."
+    },
+    {
+      "character": "liushan",
+      "at": "jiangling",
+      "note": "An infant, carried out inside armour."
+    },
+    {
+      "character": "caocao",
+      "at": "jiangling",
+      "from": "xiangyang",
+      "note": "Orders him taken alive, and so loses him."
+    },
+    {
+      "character": "zhangfei",
+      "at": "jiangling"
+    }
+  ],
+  "focus": {
+    "lon": 112.3,
+    "lat": 30.9,
+    "zoom": 6.0
+  }
+}

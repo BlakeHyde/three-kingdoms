@@ -1,0 +1,112 @@
+{
+  "n": 86,
+  "title": "Deng Zhi Faces the Cauldron; Xu Sheng Burns a Fleet with Painted Walls",
+  "year": "223-224",
+  "summary": [
+    "Deng Zhi goes to Wu to propose that the two states who have just spent a year destroying each other should ally again. Sun Quan has a cauldron of oil heated to receive him; Deng Zhi walks up to it and laughs, and the alliance is remade and holds for forty years.",
+    "Cao Pi comes down to the river in person and finds the far bank fortified for hundreds of li — walls, battlements, spears. They are made of reed matting and paint, put up in one night, and by the time he works it out Xu Sheng's fireships are among his fleet."
+  ],
+  "history": "The alliance is historical and was the single most consequential diplomatic act of the period. The painted walls are the novel's.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "dengzhi",
+      "at": "jianye",
+      "from": "chengdu",
+      "note": "Laughs at a cauldron of boiling oil, and remakes the alliance."
+    },
+    {
+      "character": "sunquan",
+      "at": "jianye",
+      "note": "Who had the oil heated."
+    },
+    {
+      "character": "xusheng",
+      "at": "ruxu",
+      "note": "Fortifies a riverbank with reed matting and paint."
+    },
+    {
+      "character": "caopi",
+      "at": "ruxu",
+      "from": "luoyang",
+      "note": "Turned back by scenery."
+    },
+    {
+      "character": "zhugeliang",
+      "at": "chengdu"
+    }
+  ],
+  "focus": {
+    "lon": 117.5,
+    "lat": 31.8,
+    "zoom": 4.8
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "n": 85,
+  "title": "Liu Bei Entrusts His Son at Baidi; Five Armies Are Turned Back",
+  "year": "223",
+  "summary": [
+    "Dying at Baidi, Liu Bei says the thing that has been argued about ever since: if his son is worth supporting, support him — and if he is not, take the throne yourself. Zhuge Liang puts his head on the floor and weeps until it bleeds.",
+    "Cao Pi sends five armies at once against a leaderless Shu. Zhuge Liang, who has not left his residence in days and is found feeding fish in his garden, has already turned four of them back without a battle."
+  ],
+  "history": "The deathbed offer is in the histories, word for word. Whether it was sincere or the most elegant loyalty test ever devised is the oldest argument in the field.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "liubei",
+      "at": "baidi",
+      "note": "'If he is not worth it, take the throne yourself.'"
+    },
+    {
+      "character": "zhugeliang",
+      "at": "baidi",
+      "from": "chengdu",
+      "note": "Weeps until his forehead bleeds."
+    },
+    {
+      "character": "liushan",
+      "at": "chengdu",
+      "note": "Seventeen, and emperor."
+    },
+    {
+      "character": "zhaoyun",
+      "at": "baidi"
+    },
+    {
+      "character": "caopi",
+      "at": "luoyang",
+      "note": "Sends five armies, and gets none of them home."
+    },
+    {
+      "character": "machao",
+      "at": "jicheng",
+      "note": "Holds the western road by existing."
+    }
+  ],
+  "focus": {
+    "lon": 108.0,
+    "lat": 31.0,
+    "zoom": 4.8
+  }
+}

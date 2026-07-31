@@ -1,0 +1,111 @@
+{
+  "n": 117,
+  "title": "Deng Ai Crosses Yinping; Zhuge Zhan Dies at Mianzhu",
+  "year": "263",
+  "summary": [
+    "With Jiange unassailable, Deng Ai takes twenty thousand men over seven hundred li of trackless mountain that nobody garrisons because nobody believes an army can cross it. Where the cliffs are sheer he wraps himself in felt and rolls down first.",
+    "He comes out behind every defence Shu has. Zhuge Liang's son and grandson meet him at Mianzhu with the last field army and are killed there, having refused a marquisate to surrender."
+  ],
+  "history": "Historical, felt and all. It is one of the most audacious operations in Chinese military history and it ended the war in a fortnight.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "dengai",
+      "at": "mianzhu",
+      "from": "tazhong",
+      "note": "Rolls down a cliff wrapped in felt, behind every defence Shu has."
+    },
+    {
+      "character": "zhugezhan",
+      "at": "mianzhu",
+      "note": "Refuses a marquisate, and dies with his son."
+    },
+    {
+      "character": "jiangwei",
+      "at": "jiange",
+      "note": "Holding a gate that no longer matters."
+    },
+    {
+      "character": "zhonghui",
+      "at": "jiange"
+    },
+    {
+      "character": "liushan",
+      "at": "chengdu"
+    }
+  ],
+  "focus": {
+    "lon": 104.8,
+    "lat": 31.6,
+    "zoom": 5.2
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "n": 24,
+  "title": "Cao Cao Kills the Empress; Liu Bei Flees to Yuan Shao",
+  "year": "200",
+  "summary": [
+    "The girdle conspiracy is discovered. Dong Cheng and his fellow signatories are executed with their households, and the pregnant Empress Dong is dragged out of the palace and strangled in front of the Emperor, who is told to be quiet.",
+    "Cao Cao then falls on Xuzhou. The brothers are scattered in a night: Zhang Fei into the hills, Liu Bei north to Yuan Shao, and Guan Yu cut off on a hill with Liu Bei's wives."
+  ],
+  "history": "The purge of Dong Cheng's conspiracy is historical, including the killing of the Emperor's pregnant consort.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "baima",
+      "yanjin"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling",
+      "lingling",
+      "guiyang",
+      "xinye",
+      "fancheng"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "yuanshao": [
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan"
+    ]
+  },
+  "pins": [
+    {
+      "character": "dongcheng",
+      "at": "xuchang",
+      "note": "Executed with his household."
+    },
+    {
+      "character": "emperorxian",
+      "at": "xuchang",
+      "note": "Watches his consort strangled."
+    },
+    {
+      "character": "caocao",
+      "at": "xiapi",
+      "from": "xuchang",
+      "note": "Breaks Xuzhou and scatters the brothers."
+    },
+    {
+      "character": "liubei",
+      "at": "ye",
+      "from": "xiapi",
+      "note": "Flees north to the enemy."
+    },
+    {
+      "character": "guanyu",
+      "at": "xiapi",
+      "note": "Cut off on a hill with his brother's wives."
+    },
+    {
+      "character": "zhangfei",
+      "at": "gucheng",
+      "from": "xiaopei",
+      "note": "Vanishes into the hills."
+    },
+    {
+      "character": "yuanshao",
+      "at": "ye"
+    }
+  ],
+  "focus": {
+    "lon": 115.5,
+    "lat": 35.0,
+    "zoom": 5.0
+  }
+}

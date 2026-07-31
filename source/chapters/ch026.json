@@ -1,0 +1,109 @@
+{
+  "n": 26,
+  "title": "Yuan Shao Loses a Second Champion; Guan Yu Hangs Up His Seal and Goes",
+  "year": "200",
+  "summary": [
+    "Wen Chou goes the way of Yan Liang. Yuan Shao, having now lost both his best men to a man riding under Cao Cao's banner, twice orders Liu Bei's execution and is twice talked out of it.",
+    "Then a letter reaches Guan Yu telling him where his brother is. He seals up every gift he has been given, leaves the inventory on the table with his seal of office on top, and rides out with the two carriages. Cao Cao will not allow pursuit."
+  ],
+  "history": "Historical in outline, and the histories agree on the detail that matters: he left the rewards behind.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "baima",
+      "yanjin"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling",
+      "lingling",
+      "guiyang",
+      "xinye",
+      "fancheng"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "yuanshao": [
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan"
+    ]
+  },
+  "pins": [
+    {
+      "character": "guanyu",
+      "at": "xuchang",
+      "from": "baima",
+      "note": "Hangs up his seal and leaves the gifts behind."
+    },
+    {
+      "character": "wenchou",
+      "at": "yanjin",
+      "note": "Killed."
+    },
+    {
+      "character": "caocao",
+      "at": "xuchang",
+      "note": "Forbids pursuit."
+    },
+    {
+      "character": "liubei",
+      "at": "ye",
+      "note": "Twice nearly executed by his own host."
+    },
+    {
+      "character": "yuanshao",
+      "at": "ye"
+    }
+  ],
+  "focus": {
+    "lon": 114.5,
+    "lat": 34.8,
+    "zoom": 5.4
+  }
+}

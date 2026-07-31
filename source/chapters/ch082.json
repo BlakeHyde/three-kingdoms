@@ -1,0 +1,110 @@
+{
+  "n": 82,
+  "title": "Sun Quan Submits to Wei to Buy a Free Hand",
+  "year": "221-222",
+  "summary": [
+    "Sun Quan, facing the whole of Shu with Wei at his back, accepts a Wei title and calls himself a subject — a humiliation he takes without visible difficulty, because it costs nothing and buys him one front instead of two.",
+    "Liu Bei comes down the gorges taking city after city. For a season it looks as though grief is a workable strategy."
+  ],
+  "history": "Historical. Sun Quan's willingness to be seen to submit whenever it was useful is one of the more consistent things about him.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "sunquan",
+      "at": "jianye",
+      "note": "Calls himself a subject of Wei, and buys a free hand."
+    },
+    {
+      "character": "caopi",
+      "at": "luoyang",
+      "note": "Accepts the submission, and does nothing with it."
+    },
+    {
+      "character": "liubei",
+      "at": "yiling",
+      "from": "baidi",
+      "note": "Comes down the gorges taking everything."
+    },
+    {
+      "character": "guanxing",
+      "at": "yiling"
+    },
+    {
+      "character": "zhangbao",
+      "at": "yiling"
+    }
+  ],
+  "focus": {
+    "lon": 113.0,
+    "lat": 31.5,
+    "zoom": 4.6
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "n": 114,
+  "title": "Cao Mao Drives His Own Chariot at the Usurper",
+  "year": "260",
+  "summary": [
+    "The young emperor Cao Mao, who has said publicly that Sima Zhao's ambition is obvious to every passer-by, gets into a chariot with a few hundred palace servants and goes to kill him personally. He is intercepted in the street and run through by an officer named Cheng Ji, on Jia Chong's order.",
+    "Sima Zhao executes Cheng Ji's three clans for it, weeps at the funeral, and installs another child."
+  ],
+  "history": "Historical, and it is the moment the Wei dynasty ends in fact. 'Sima Zhao's intentions are known to every passer-by' is still a Chinese idiom.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "caomao",
+      "at": "luoyang",
+      "note": "Drives his own chariot at the usurper, and is run through in the street."
+    },
+    {
+      "character": "simazhao",
+      "at": "luoyang",
+      "note": "Weeps, and executes the man who obeyed him."
+    },
+    {
+      "character": "jiangwei",
+      "at": "qishan"
+    },
+    {
+      "character": "dengai",
+      "at": "qishan"
+    }
+  ],
+  "focus": {
+    "lon": 112.5,
+    "lat": 34.6,
+    "zoom": 5.0
+  }
+}

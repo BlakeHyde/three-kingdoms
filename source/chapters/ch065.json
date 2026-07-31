@@ -1,0 +1,116 @@
+{
+  "n": 65,
+  "title": "Ma Chao Comes Over; Liu Zhang Gives Up Yi Province",
+  "year": "214",
+  "summary": [
+    "Ma Chao and Zhang Fei fight at Jiameng from midday until torches are lit and neither can put the other down. Then Li Hui talks Ma Chao into changing sides — he has nowhere else to go, and Zhang Lu is already trying to have him killed.",
+    "Ma Chao rides to Chengdu's walls and calls up, and Liu Zhang surrenders the next day rather than see the city stormed. Liu Bei has a province at last, twenty-nine years after the peach garden."
+  ],
+  "history": "Historical: Ma Chao's defection really did end the siege without a fight, because Liu Zhang's nerve broke at the sight of him.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu"
+    ],
+    "shu": [
+      "jiangling",
+      "xiakou",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xinye",
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "machao",
+      "at": "chengdu",
+      "from": "jiameng",
+      "note": "Changes sides, and ends a siege by arriving."
+    },
+    {
+      "character": "zhangfei",
+      "at": "jiameng",
+      "note": "Fights him to a standstill by torchlight."
+    },
+    {
+      "character": "liuzhang",
+      "at": "chengdu",
+      "note": "Surrenders rather than see the city stormed."
+    },
+    {
+      "character": "liubei",
+      "at": "chengdu",
+      "from": "luocheng",
+      "note": "Has a province, twenty-nine years after the peach garden."
+    },
+    {
+      "character": "zhugeliang",
+      "at": "chengdu"
+    },
+    {
+      "character": "fazheng",
+      "at": "chengdu",
+      "note": "Who arranged most of it."
+    }
+  ],
+  "focus": {
+    "lon": 104.5,
+    "lat": 31.0,
+    "zoom": 5.4
+  }
+}

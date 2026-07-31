@@ -1,0 +1,114 @@
+{
+  "n": 28,
+  "title": "Zhang Fei Doubts His Brother at Gucheng; the Oath Is Made Good",
+  "year": "200",
+  "summary": [
+    "Zhang Fei, holding a small town, hears that Guan Yu is coming and rides out to kill him — convinced he has sold himself to Cao Cao. Guan Yu is given the time it takes a drum to beat three times to prove otherwise, and a pursuing Cao Cao officer arrives at exactly the right moment to lose his head.",
+    "The brothers are together again, with Zhao Yun joining them at last, and Guan Ping and Zhou Cang picked up on the road. It has taken them the better part of a year to find each other."
+  ],
+  "history": "Gucheng is the novel's. The reunion is real; the drumbeat is theatre.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "baima",
+      "yanjin"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling",
+      "lingling",
+      "guiyang",
+      "xinye",
+      "fancheng"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "yuanshao": [
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan"
+    ]
+  },
+  "pins": [
+    {
+      "character": "guanyu",
+      "at": "gucheng",
+      "from": "hulao",
+      "note": "Given three drumbeats to prove himself."
+    },
+    {
+      "character": "zhangfei",
+      "at": "gucheng",
+      "note": "Rides out to kill him."
+    },
+    {
+      "character": "liubei",
+      "at": "gucheng",
+      "from": "ye",
+      "note": "Slips away from Yuan Shao."
+    },
+    {
+      "character": "zhaoyun",
+      "at": "gucheng",
+      "note": "Joins Liu Bei for good."
+    },
+    {
+      "character": "guanping",
+      "at": "gucheng"
+    },
+    {
+      "character": "zhoucang",
+      "at": "gucheng"
+    }
+  ],
+  "focus": {
+    "lon": 114.2,
+    "lat": 33.8,
+    "zoom": 5.4
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "n": 60,
+  "title": "Zhang Song Offers the Map of Shu",
+  "year": "211",
+  "summary": [
+    "Liu Zhang, frightened of Zhang Lu in Hanzhong and of Cao Cao behind him, sends Zhang Song to Xuchang to ask for help. Cao Cao, who has just beaten Ma Chao and is in no mood to be polite to an ugly little man from the provinces, humiliates him and throws him out.",
+    "Zhang Song had come with a map of every road, ford and granary in Yi province in his sleeve, intending to give it to Cao Cao. He gives it to Liu Bei instead, and invites him in."
+  ],
+  "history": "Historical, including the map and the humiliation. Cao Cao lost the west by being rude to a man he did not think mattered.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu"
+    ],
+    "shu": [
+      "jiangling",
+      "xiakou",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xinye"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhangsong",
+      "at": "chengdu",
+      "from": "xuchang",
+      "note": "Offers the map to one man, is insulted, and gives it to another."
+    },
+    {
+      "character": "caocao",
+      "at": "xuchang",
+      "from": "changan",
+      "note": "Throws out the man carrying Yi province in his sleeve."
+    },
+    {
+      "character": "liubei",
+      "at": "jiangling",
+      "note": "Invited in through the front door."
+    },
+    {
+      "character": "liuzhang",
+      "at": "chengdu",
+      "note": "Asks for the help that destroys him."
+    },
+    {
+      "character": "zhangren",
+      "at": "luocheng",
+      "note": "Argues against letting him in."
+    }
+  ],
+  "focus": {
+    "lon": 110.0,
+    "lat": 32.0,
+    "zoom": 4.6
+  }
+}

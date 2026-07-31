@@ -1,0 +1,114 @@
+{
+  "n": 30,
+  "title": "Yuan Shao Loses Guandu; the Granaries at Wuchao Burn",
+  "year": "200",
+  "summary": [
+    "The armies lock at Guandu and Cao Cao, outnumbered and nearly out of grain, is close to withdrawing. Then Xu You, insulted once too often by Yuan Shao, walks into his camp at midnight — and Cao Cao comes out barefoot to meet him.",
+    "Xu You gives him the location of the granaries. Cao Cao burns Wuchao that night with five thousand men wearing Yuan Shao's colours, and by morning the largest army in China is starving and coming apart. It never recovers."
+  ],
+  "history": "The decisive battle of northern China, and the novel follows the record closely, including Cao Cao's bare feet.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "baima",
+      "yanjin"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling",
+      "lingling",
+      "guiyang",
+      "xinye",
+      "fancheng"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "yuanshao": [
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "huguan"
+    ]
+  },
+  "pins": [
+    {
+      "character": "caocao",
+      "at": "guandu",
+      "note": "Outnumbered, out of grain, and one defection from winning."
+    },
+    {
+      "character": "yuanshao",
+      "at": "guandu",
+      "from": "ye",
+      "note": "Loses the north in a night."
+    },
+    {
+      "character": "xuyou",
+      "at": "wuchao",
+      "from": "guandu",
+      "note": "Walks over at midnight with the location of the granaries."
+    },
+    {
+      "character": "xunyu",
+      "at": "xuchang",
+      "note": "Writes the letter telling him to hold."
+    },
+    {
+      "character": "zhanghe",
+      "at": "guandu",
+      "note": "Goes over to Cao Cao."
+    },
+    {
+      "character": "shenpei",
+      "at": "ye"
+    }
+  ],
+  "focus": {
+    "lon": 114.3,
+    "lat": 34.9,
+    "zoom": 5.8
+  }
+}

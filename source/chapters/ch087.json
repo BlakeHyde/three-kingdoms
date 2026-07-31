@@ -1,0 +1,117 @@
+{
+  "n": 87,
+  "title": "The Southern Campaign Begins; Meng Huo Is Captured the First Time",
+  "year": "225",
+  "summary": [
+    "With the northern border quiet, Zhuge Liang goes south to settle the tribes for good. Ma Su gives him the strategy in one line: attack the hearts, not the walls — a rebellion put down by force will simply happen again when the army leaves.",
+    "Meng Huo is captured in the first engagement, refuses to submit on the grounds that he was tricked rather than beaten, and is untied and sent home."
+  ],
+  "history": "The campaign is historical and the seven captures are recorded, if briefly. 'Attack the heart' is the strategy the sources credit, and it worked: the south stayed quiet.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ],
+    "nanman": [
+      "nanzhong"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhugeliang",
+      "at": "nanzhong",
+      "from": "chengdu",
+      "note": "Goes south to settle it permanently."
+    },
+    {
+      "character": "menghuo",
+      "at": "nanzhong",
+      "note": "Captured, and released, for the first of seven times."
+    },
+    {
+      "character": "masu",
+      "at": "chengdu",
+      "note": "'Attack the hearts, not the walls.'"
+    },
+    {
+      "character": "zhaoyun",
+      "at": "nanzhong"
+    },
+    {
+      "character": "weiyan",
+      "at": "nanzhong"
+    },
+    {
+      "character": "madai",
+      "at": "nanzhong"
+    }
+  ],
+  "focus": {
+    "lon": 103.5,
+    "lat": 26.0,
+    "zoom": 4.8
+  }
+}

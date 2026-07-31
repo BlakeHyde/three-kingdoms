@@ -1,0 +1,113 @@
+{
+  "n": 55,
+  "title": "Zhou Yu Loses the Lady and the Army Too",
+  "year": "210",
+  "summary": [
+    "Liu Bei, comfortable in Wu and losing interest in leaving, is prodded out of it by the second sealed bag. He and his wife go over the border at New Year with pursuit behind them, and Lady Sun stops the pursuing officers herself — they are her brother's men and she is her mother's daughter, and they let her through.",
+    "Zhou Yu's own troops, catching them at the bank, are met by Zhuge Liang's boats and a chant from the far shore: the Chief Commander's grand scheme has lost him the lady and the army too. He coughs blood."
+  ],
+  "history": "The escape is historical. The taunting chant is the novel's, and it is the line Zhou Yu is remembered by.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu"
+    ],
+    "shu": [
+      "jiangling",
+      "xiakou",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xinye"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "liubei",
+      "at": "jiangling",
+      "from": "jianye",
+      "note": "Goes over the border at New Year."
+    },
+    {
+      "character": "sunshangxiang",
+      "at": "jiangling",
+      "from": "jianye",
+      "note": "Faces down her brother's officers herself."
+    },
+    {
+      "character": "zhaoyun",
+      "at": "jiangling"
+    },
+    {
+      "character": "zhouyu",
+      "at": "baqiu",
+      "note": "Coughs blood on the riverbank."
+    },
+    {
+      "character": "zhugeliang",
+      "at": "jiangling",
+      "note": "Waiting with boats and a chant."
+    }
+  ],
+  "focus": {
+    "lon": 114.5,
+    "lat": 30.8,
+    "zoom": 5.2
+  }
+}

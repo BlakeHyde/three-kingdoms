@@ -1,0 +1,113 @@
+{
+  "n": 109,
+  "title": "Sima Shi Deposes an Emperor",
+  "year": "254-255",
+  "summary": [
+    "Jiang Wei traps Sima Zhao on a mountain with no water and very nearly ends the Sima family; the Qiang cavalry he was relying on change sides at the wrong hour and he loses it.",
+    "In Luoyang, Cao Fang plots against Sima Shi with three courtiers, is discovered, and is deposed and sent away — the first time a Wei emperor is removed by his own minister, and the last time anyone is surprised by it."
+  ],
+  "history": "Historical. The deposition of Cao Fang made explicit what the coup of 249 had already settled.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "jiangwei",
+      "at": "qishan",
+      "from": "hanzhong",
+      "note": "Nearly ends the Sima family, and is betrayed by allies."
+    },
+    {
+      "character": "simazhao",
+      "at": "qishan",
+      "note": "Trapped on a waterless mountain."
+    },
+    {
+      "character": "simashi",
+      "at": "luoyang",
+      "note": "Deposes an emperor."
+    },
+    {
+      "character": "caofang",
+      "at": "luoyang",
+      "note": "Removed and sent away."
+    },
+    {
+      "character": "caomao",
+      "at": "luoyang",
+      "note": "Installed in his place."
+    }
+  ],
+  "focus": {
+    "lon": 107.0,
+    "lat": 34.5,
+    "zoom": 4.4
+  }
+}

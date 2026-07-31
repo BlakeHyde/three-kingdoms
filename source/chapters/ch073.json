@@ -1,0 +1,115 @@
+{
+  "n": 73,
+  "title": "Liu Bei Becomes King of Hanzhong; Guan Yu Moves on Fancheng",
+  "year": "219",
+  "summary": [
+    "Liu Bei takes the title King of Hanzhong, which is as far as he can go without saying the other word. Guan Yu is made first of the Five Tiger Generals, and objects to sharing the rank with Huang Zhong until it is explained to him carefully.",
+    "Then he crosses the river and moves on Fancheng, and for a few months the Longzhong plan is working exactly as drawn."
+  ],
+  "history": "Historical. Guan Yu's irritation at Huang Zhong's promotion is recorded and is entirely in character.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu"
+    ],
+    "shu": [
+      "jiangling",
+      "xiakou",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xinye",
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "shangyong"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "liubei",
+      "at": "hanzhong",
+      "note": "King of Hanzhong."
+    },
+    {
+      "character": "guanyu",
+      "at": "fancheng",
+      "from": "jiangling",
+      "note": "Crosses the river, and the plan is working."
+    },
+    {
+      "character": "guanping",
+      "at": "fancheng"
+    },
+    {
+      "character": "caoren",
+      "at": "fancheng",
+      "note": "Shut up in the city."
+    },
+    {
+      "character": "zhugeliang",
+      "at": "chengdu",
+      "from": "hanzhong"
+    },
+    {
+      "character": "huangzhong",
+      "at": "chengdu"
+    }
+  ],
+  "focus": {
+    "lon": 110.0,
+    "lat": 32.0,
+    "zoom": 4.8
+  }
+}

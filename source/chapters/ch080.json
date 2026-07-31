@@ -1,0 +1,117 @@
+{
+  "n": 80,
+  "title": "Cao Pi Deposes the Emperor; Liu Bei Takes the Throne",
+  "year": "220-221",
+  "summary": [
+    "Emperor Xian, having been a hostage since he was nine, is made to abdicate in favour of Cao Pi with a ceremony of three refusals and three requests. Four hundred years of Han end on a raised platform in front of an audience that has been told what to shout.",
+    "In Chengdu the news arrives as a report that the Emperor has been murdered. Liu Bei goes into mourning, refuses the throne twice, and takes it on the third asking as Emperor of Han — the dynasty continuing, in his account, without interruption."
+  ],
+  "history": "Historical. Emperor Xian was not in fact killed; he lived out a comfortable retirement and outlived Liu Bei by more than a decade, which nobody in Chengdu bothered to check.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "shangyong"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "caopi",
+      "at": "luoyang",
+      "from": "ye",
+      "note": "Founds Wei, and ends four centuries of Han."
+    },
+    {
+      "character": "emperorxian",
+      "at": "xuchang",
+      "note": "Abdicates, and is widely reported dead."
+    },
+    {
+      "character": "liubei",
+      "at": "chengdu",
+      "note": "Takes the throne on the third asking."
+    },
+    {
+      "character": "zhugeliang",
+      "at": "chengdu",
+      "note": "Who did the asking."
+    },
+    {
+      "character": "sunquan",
+      "at": "jianye",
+      "note": "Waiting to see."
+    },
+    {
+      "character": "zhangfei",
+      "at": "chengdu",
+      "note": "Wants the war now."
+    }
+  ],
+  "focus": {
+    "lon": 112.0,
+    "lat": 33.0,
+    "zoom": 4.4
+  }
+}

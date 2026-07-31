@@ -1,0 +1,120 @@
+{
+  "n": 22,
+  "title": "Yuan Shao and Cao Cao Both Take the Field; Chen Lin's Proclamation Cures a Headache",
+  "year": "200",
+  "summary": [
+    "Yuan Shao moves south at last with an army the histories put at a hundred thousand. Chen Lin writes the denunciation that goes ahead of it, a document so comprehensively insulting about Cao Cao's ancestry that Cao Cao, reading it in bed with a migraine, sits up cured and laughing.",
+    "Liu Bei's recovered province does not last the season."
+  ],
+  "history": "Chen Lin's proclamation survives and is as savage as the novel says. Cao Cao later spared him, on the grounds that he had been shooting at the right target.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "wan",
+      "henei"
+    ],
+    "yuanshao": [
+      "ye",
+      "nanpi",
+      "jieqiao",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling",
+      "lingling",
+      "guiyang",
+      "xinye",
+      "fancheng"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "kongrong": [
+      "beihai"
+    ],
+    "shu": [
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei"
+    ]
+  },
+  "pins": [
+    {
+      "character": "yuanshao",
+      "at": "ye",
+      "note": "Marches south."
+    },
+    {
+      "character": "chenlin",
+      "at": "ye",
+      "note": "Writes the denunciation."
+    },
+    {
+      "character": "caocao",
+      "at": "guandu",
+      "from": "xuchang",
+      "note": "Cured of a headache by an insult."
+    },
+    {
+      "character": "liubei",
+      "at": "xiapi"
+    },
+    {
+      "character": "guanyu",
+      "at": "xiapi"
+    },
+    {
+      "character": "yanliang",
+      "at": "baima"
+    },
+    {
+      "character": "wenchou",
+      "at": "yanjin"
+    }
+  ],
+  "focus": {
+    "lon": 114.8,
+    "lat": 35.2,
+    "zoom": 5.4
+  }
+}

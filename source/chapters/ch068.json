@@ -1,0 +1,110 @@
+{
+  "n": 68,
+  "title": "Gan Ning Raids a Camp with a Hundred Riders; Zuo Ci Torments Cao Cao",
+  "year": "215-216",
+  "summary": [
+    "Gan Ning takes a hundred men with white goose feathers in their helmets straight through Cao Cao's camp at midnight and comes back without losing one. Sun Quan: 'Cao Cao has his Zhang Liao. I have my Gan Xingba.'",
+    "At Xuchang the Daoist Zuo Ci makes a fool of Cao Cao at a banquet — producing perch out of an empty basin, oranges that are hollow, and finally himself, in every direction at once."
+  ],
+  "history": "The hundred riders are historical. Zuo Ci is folklore, imported to show Cao Cao, at the height of his power, unable to catch one old man.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "hanzhong",
+      "dingjun",
+      "tiandang"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu"
+    ],
+    "shu": [
+      "jiangling",
+      "xiakou",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xinye",
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "ganning",
+      "at": "hefei",
+      "from": "jianye",
+      "note": "A hundred riders, white feathers, and no losses."
+    },
+    {
+      "character": "sunquan",
+      "at": "ruxu",
+      "note": "'Cao Cao has his Zhang Liao. I have my Gan Xingba.'"
+    },
+    {
+      "character": "zhangliao",
+      "at": "hefei"
+    },
+    {
+      "character": "zuoci",
+      "at": "xuchang",
+      "note": "Cannot be caught, executed, or got rid of."
+    },
+    {
+      "character": "caocao",
+      "at": "xuchang",
+      "from": "hanzhong"
+    }
+  ],
+  "focus": {
+    "lon": 116.0,
+    "lat": 32.5,
+    "zoom": 4.8
+  }
+}

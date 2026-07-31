@@ -1,0 +1,110 @@
+{
+  "n": 67,
+  "title": "Cao Cao Takes Hanzhong; Zhang Liao Breaks Wu at Xiaoyao Ford Again",
+  "year": "215",
+  "summary": [
+    "Zhang Lu's theocracy in Hanzhong falls. He seals the treasuries before he goes rather than burn them — a courtesy Cao Cao repays by treating him well.",
+    "Cao Cao now stands one range of mountains above Liu Bei's brand-new province, and Sima Yi urges him to go straight down into it. He declines, with the remark that a man who has Long should not covet Shu."
+  ],
+  "history": "Historical, and the refusal is one of the great might-have-beens: Yi province was newly conquered and unsteady, and Cao Cao never got so close again.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "hanzhong",
+      "dingjun",
+      "tiandang"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu"
+    ],
+    "shu": [
+      "jiangling",
+      "xiakou",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xinye",
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhanglu",
+      "at": "hanzhong",
+      "note": "Seals the treasuries instead of burning them."
+    },
+    {
+      "character": "caocao",
+      "at": "hanzhong",
+      "from": "changan",
+      "note": "'A man who has Long should not covet Shu.'"
+    },
+    {
+      "character": "simayi",
+      "at": "hanzhong",
+      "note": "Urges him to go down into Yi province at once."
+    },
+    {
+      "character": "zhangliao",
+      "at": "hefei"
+    },
+    {
+      "character": "liubei",
+      "at": "chengdu",
+      "note": "One range of mountains away."
+    }
+  ],
+  "focus": {
+    "lon": 107.0,
+    "lat": 33.0,
+    "zoom": 5.2
+  }
+}

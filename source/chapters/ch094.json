@@ -1,0 +1,112 @@
+{
+  "n": 94,
+  "title": "The Qiang Are Broken in the Snow; Sima Yi Is Recalled",
+  "year": "228",
+  "summary": [
+    "Wei hires the Qiang and their armoured chariots. Zhuge Liang lets them chase him into a snowfield seeded with pits under the drifts, and the iron carts go in.",
+    "Wei's answer is to recall Sima Yi, whom Cao Rui has dismissed on suspicion of ambition. Hearing of the appointment, Zhuge Liang says the only thing that has ever worried him has just been given an army."
+  ],
+  "history": "Sima Yi's dismissal and recall are historical; so is the assessment that he was the only Wei commander Zhuge Liang treated as a genuine problem.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong",
+      "qishan",
+      "jieting"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhugeliang",
+      "at": "qishan",
+      "note": "Buries chariots in a snowfield."
+    },
+    {
+      "character": "simayi",
+      "at": "luoyang",
+      "note": "Recalled from disgrace, and given the west."
+    },
+    {
+      "character": "caorui",
+      "at": "luoyang",
+      "note": "Who had dismissed him for ambition."
+    },
+    {
+      "character": "mengda",
+      "at": "shangyong",
+      "note": "Plots to return to Shu, and is far too slow about it."
+    },
+    {
+      "character": "jiangwei",
+      "at": "qishan"
+    }
+  ],
+  "focus": {
+    "lon": 108.0,
+    "lat": 34.0,
+    "zoom": 4.6
+  }
+}

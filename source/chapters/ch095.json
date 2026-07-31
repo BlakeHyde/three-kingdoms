@@ -1,0 +1,111 @@
+{
+  "n": 95,
+  "title": "Ma Su Loses Jieting; the Empty City",
+  "year": "228",
+  "summary": [
+    "Ma Su is given the one position the whole expedition depends on, with written orders to camp astride the road and hold the water. He camps on a hill instead, because the classics say to take the high ground. Sima Yi surrounds the hill, cuts the water, and waits.",
+    "With his supply line gone and the army scattered, Zhuge Liang is caught at Xicheng with a few clerks and no soldiers. He opens all four gates, sets two men to sweep the road, and sits on the wall playing the zither. Sima Yi comes up, listens, and withdraws his entire army."
+  ],
+  "history": "Jieting is historical and was the disaster the novel says. The empty city is a later legend attached to the wrong campaign — and it works as fiction because Sima Yi's caution was real.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "masu",
+      "at": "jieting",
+      "note": "Camps on a hill, and loses the campaign."
+    },
+    {
+      "character": "zhanghe",
+      "at": "jieting",
+      "note": "Cuts the water, and waits."
+    },
+    {
+      "character": "simayi",
+      "at": "jieting",
+      "note": "Listens to a man playing the zither, and withdraws."
+    },
+    {
+      "character": "zhugeliang",
+      "at": "qishan",
+      "note": "Opens all four gates."
+    },
+    {
+      "character": "jiangwei",
+      "at": "qishan"
+    }
+  ],
+  "focus": {
+    "lon": 105.7,
+    "lat": 34.8,
+    "zoom": 5.6
+  }
+}

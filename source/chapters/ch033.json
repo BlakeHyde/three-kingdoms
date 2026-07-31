@@ -1,0 +1,114 @@
+{
+  "n": 33,
+  "title": "Cao Cao Pacifies the North; Guo Jia Wins a Campaign after His Own Death",
+  "year": "205-207",
+  "summary": [
+    "The last Yuan brothers flee to Liaodong. Cao Cao does not pursue: on the advice Guo Jia left behind him, sealed, he simply halts and waits — and Gongsun Kang, calculating that two guests are more dangerous than one enemy, sends their heads down instead.",
+    "Guo Jia dies on the road home at thirty-seven. Cao Cao mourns him harder than he mourned his own son."
+  ],
+  "history": "The posthumous stratagem is historical, and so is Cao Cao's grief. He would say after Red Cliffs that if Guo Jia had lived it would not have happened.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "huguan"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling",
+      "lingling",
+      "guiyang",
+      "fancheng"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "shu": [
+      "xinye"
+    ]
+  },
+  "pins": [
+    {
+      "character": "caocao",
+      "at": "ji",
+      "note": "Halts, and lets the frontier do his killing."
+    },
+    {
+      "character": "guojia",
+      "at": "ji",
+      "note": "Dies at thirty-seven, having won one more campaign in a sealed letter."
+    },
+    {
+      "character": "gongsunyuan",
+      "at": "xiangping",
+      "note": "Sends the heads down."
+    },
+    {
+      "character": "liubei",
+      "at": "xinye"
+    },
+    {
+      "character": "sunquan",
+      "at": "jianye"
+    }
+  ],
+  "focus": {
+    "lon": 117.0,
+    "lat": 38.5,
+    "zoom": 4.6
+  }
+}

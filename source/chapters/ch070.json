@@ -1,0 +1,109 @@
+{
+  "n": 70,
+  "title": "Zhang Fei Drinks His Way Through Zhang He; Huang Zhong Takes Mount Tiandang",
+  "year": "218",
+  "summary": [
+    "Zhang Fei, facing an opponent who will not come down off a mountain, camps in front of him and drinks for fifty days in plain view, until Zhang He comes down to take advantage of a drunkard — and finds that the man at the table is a straw figure.",
+    "Huang Zhong, now over sixty and tired of being called old, takes Mount Tiandang and its granaries by letting himself be underestimated for a fortnight."
+  ],
+  "history": "Both are historical victories; the staged drunkenness is the novel's, and it is exactly the sort of joke Zhang Fei's reputation invites.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "hanzhong",
+      "dingjun",
+      "tiandang"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu"
+    ],
+    "shu": [
+      "jiangling",
+      "xiakou",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xinye",
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhangfei",
+      "at": "hanzhong",
+      "from": "chengdu",
+      "note": "Drinks in plain view for fifty days, out of straw."
+    },
+    {
+      "character": "zhanghe",
+      "at": "hanzhong",
+      "note": "Comes down to take advantage of a drunkard."
+    },
+    {
+      "character": "huangzhong",
+      "at": "tiandang",
+      "note": "Over sixty, and tired of hearing about it."
+    },
+    {
+      "character": "fazheng",
+      "at": "tiandang"
+    },
+    {
+      "character": "caocao",
+      "at": "changan"
+    }
+  ],
+  "focus": {
+    "lon": 106.9,
+    "lat": 33.1,
+    "zoom": 5.8
+  }
+}

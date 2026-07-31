@@ -1,0 +1,115 @@
+{
+  "n": 119,
+  "title": "Jiang Wei's Last Plan; Sima Yan Takes the Throne",
+  "year": "264-265",
+  "summary": [
+    "Jiang Wei surrenders to Zhong Hui and immediately begins working on him — flattering his ambition, encouraging him to denounce Deng Ai, and steering him towards a revolt that would leave Shu's officers armed and Wei's western army leaderless. Deng Ai is arrested; Zhong Hui declares; and it very nearly works.",
+    "The Wei troops mutiny instead. Zhong Hui is killed, Deng Ai is murdered on the road, and Jiang Wei falls with his sword in his hand, having got closer to restoring Shu after its fall than he ever did before it. In Luoyang, Sima Yan deposes the last Cao emperor and founds the Jin dynasty.",
+    "Liu Shan, asked at a banquet in Luoyang whether he thinks of Shu, replies that he is having such a good time here that he never thinks of it at all."
+  ],
+  "history": "All historical, including Liu Shan's answer — which may have been idiocy or may have been the only survival strategy available to him.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping",
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong",
+      "yinping",
+      "tazhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "jiangwei",
+      "at": "chengdu",
+      "from": "jiange",
+      "note": "Nearly restores Shu after its fall, and dies with his sword out."
+    },
+    {
+      "character": "zhonghui",
+      "at": "chengdu",
+      "note": "Declares, and is killed by his own troops."
+    },
+    {
+      "character": "dengai",
+      "at": "chengdu",
+      "note": "Arrested on a forgery, and murdered on the road."
+    },
+    {
+      "character": "simayan",
+      "at": "luoyang",
+      "note": "Deposes the last Cao emperor and founds Jin."
+    },
+    {
+      "character": "liushan",
+      "at": "luoyang",
+      "from": "chengdu",
+      "note": "'I am so happy here that I never think of Shu.'"
+    }
+  ],
+  "focus": {
+    "lon": 108.0,
+    "lat": 33.0,
+    "zoom": 4.2
+  }
+}

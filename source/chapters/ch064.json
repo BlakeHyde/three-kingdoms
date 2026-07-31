@@ -1,0 +1,115 @@
+{
+  "n": 64,
+  "title": "Zhang Ren Is Taken at the Bridge and Will Not Kneel",
+  "year": "214",
+  "summary": [
+    "Zhuge Liang comes west and takes Zhang Ren by drawing him across a bridge and cutting it behind him. Offered service, Zhang Ren answers that a loyal officer does not serve two masters, and is executed at his own request. Liu Bei has him buried by the bridge.",
+    "Luocheng falls. There is nothing between the army and Chengdu but Ma Chao, who is coming down from the north — for Zhang Lu."
+  ],
+  "history": "Zhang Ren was real and did refuse to surrender. The novel gives him the best death in the western campaign.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu"
+    ],
+    "shu": [
+      "jiangling",
+      "xiakou",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xinye"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhangren",
+      "at": "luocheng",
+      "note": "'A loyal officer does not serve two masters.'"
+    },
+    {
+      "character": "zhugeliang",
+      "at": "luocheng",
+      "from": "jiangling"
+    },
+    {
+      "character": "zhangfei",
+      "at": "luocheng"
+    },
+    {
+      "character": "zhaoyun",
+      "at": "luocheng"
+    },
+    {
+      "character": "liubei",
+      "at": "luocheng",
+      "from": "fuguan"
+    },
+    {
+      "character": "machao",
+      "at": "jiameng",
+      "note": "Coming down for Zhang Lu, and about to change sides."
+    }
+  ],
+  "focus": {
+    "lon": 104.6,
+    "lat": 31.0,
+    "zoom": 5.8
+  }
+}

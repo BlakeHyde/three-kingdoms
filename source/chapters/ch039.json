@@ -1,0 +1,117 @@
+{
+  "n": 39,
+  "title": "Bowang Burns: the Sleeping Dragon's First Battle",
+  "year": "208",
+  "summary": [
+    "Guan Yu and Zhang Fei are not persuaded by a twenty-seven-year-old in a carriage until Xiahou Dun's ten thousand come up the Bowang road, are drawn into a defile, and are set alight from both sides. After that they take their orders without comment."
+  ],
+  "history": "The Bowang ambush happened, but Liu Bei ran it himself, several years before Zhuge Liang joined him. The novel hands his subordinate the credit to make an entrance of it.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "huguan"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "xiakou"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling",
+      "lingling",
+      "guiyang",
+      "fancheng"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "shu": [
+      "xinye",
+      "bowang"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhugeliang",
+      "at": "bowang",
+      "from": "longzhong",
+      "note": "Wins his first battle without drawing a sword."
+    },
+    {
+      "character": "xiahoudun",
+      "at": "bowang",
+      "from": "xuchang",
+      "note": "Walks into the defile."
+    },
+    {
+      "character": "guanyu",
+      "at": "bowang",
+      "note": "Stops arguing."
+    },
+    {
+      "character": "zhangfei",
+      "at": "bowang"
+    },
+    {
+      "character": "liubei",
+      "at": "xinye"
+    }
+  ],
+  "focus": {
+    "lon": 112.8,
+    "lat": 33.1,
+    "zoom": 6.0
+  }
+}

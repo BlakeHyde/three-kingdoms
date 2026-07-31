@@ -1,0 +1,111 @@
+{
+  "n": 105,
+  "title": "Wei Yan Shouts Three Times; Ma Dai Is Standing Behind Him",
+  "year": "234-237",
+  "summary": [
+    "Wei Yan, passed over, burns the gallery roads and declares against the withdrawal. Confronted, he is invited to do what Zhuge Liang predicted he would do: shout 'who dares kill me?' three times in front of the army. He gets to the third, and Ma Dai — who has been riding beside him for a fortnight under sealed orders — takes his head off.",
+    "In Luoyang, Cao Rui builds pleasure gardens and moves bronze statues, and Wei begins to rot from the top."
+  ],
+  "history": "Wei Yan's death is historical, though it was a succession quarrel rather than a revolt. The silk-bag stratagem is the novel's, and it is Zhuge Liang's last word.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "weiyan",
+      "at": "hanzhong",
+      "note": "'Who dares kill me?' — three times."
+    },
+    {
+      "character": "madai",
+      "at": "hanzhong",
+      "note": "Riding beside him under sealed orders."
+    },
+    {
+      "character": "jiangwei",
+      "at": "hanzhong"
+    },
+    {
+      "character": "jiangwan",
+      "at": "chengdu",
+      "note": "Takes over the government."
+    },
+    {
+      "character": "caorui",
+      "at": "luoyang",
+      "note": "Builds gardens."
+    }
+  ],
+  "focus": {
+    "lon": 108.0,
+    "lat": 33.5,
+    "zoom": 4.6
+  }
+}

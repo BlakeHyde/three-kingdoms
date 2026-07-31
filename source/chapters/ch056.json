@@ -1,0 +1,111 @@
+{
+  "n": 56,
+  "title": "The Bronze Bird Terrace; Zhou Yu's Third Scheme",
+  "year": "210",
+  "summary": [
+    "Cao Cao opens his great terrace at Ye with an archery contest and a banquet, and is presented with a memorial urging him to take the imperial title. He declines, in language that leaves the question open.",
+    "Zhou Yu tries once more: Wu will march west and take Yi province for Liu Bei, if Liu Bei will let the army pass through Jing on the way. Zhuge Liang thanks him warmly and prepares an ambush at every ford."
+  ],
+  "history": "The terrace is real and Cao Zhi's poem for its opening survives. The 'borrow a road' scheme is the novel's.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu"
+    ],
+    "shu": [
+      "jiangling",
+      "xiakou",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xinye"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "caocao",
+      "at": "ye",
+      "note": "Opens his terrace, and declines the throne in a way that invites asking again."
+    },
+    {
+      "character": "caozhi",
+      "at": "ye",
+      "note": "Writes the poem for the opening."
+    },
+    {
+      "character": "caopi",
+      "at": "ye"
+    },
+    {
+      "character": "zhouyu",
+      "at": "baqiu",
+      "note": "Asks to borrow a road."
+    },
+    {
+      "character": "zhugeliang",
+      "at": "jiangling",
+      "note": "Thanks him, and mines the fords."
+    }
+  ],
+  "focus": {
+    "lon": 114.5,
+    "lat": 33.0,
+    "zoom": 4.6
+  }
+}

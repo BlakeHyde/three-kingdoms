@@ -1,0 +1,114 @@
+{
+  "n": 84,
+  "title": "Lu Xun Burns Seven Hundred Li of Camps; the Stone Maze Holds",
+  "year": "222",
+  "summary": [
+    "Lu Xun does nothing for eight months, until the summer heat drives Liu Bei's army off the water and into the shade of the forests in forty linked camps along seven hundred li of gorge. Then he attacks with fire on a night of high wind.",
+    "The army of Shu is destroyed in a night. Liu Bei escapes to Baidi with a handful of men; the pursuit is stopped by a heap of stones on a riverbank that Zhuge Liang had laid out years earlier, which Lu Xun rides into and cannot ride out of."
+  ],
+  "history": "The battle is historical and is the third of the three great fire-battles that decide the period. The stone maze is the novel's — the histories mention only piled stones, and readers did the rest.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "luxun",
+      "at": "yiling",
+      "note": "Waits eight months, then burns seven hundred li in one night."
+    },
+    {
+      "character": "liubei",
+      "at": "baidi",
+      "from": "yiling",
+      "note": "Escapes with a handful of men."
+    },
+    {
+      "character": "zhangbao",
+      "at": "yiling"
+    },
+    {
+      "character": "guanxing",
+      "at": "baidi"
+    },
+    {
+      "character": "zhugeliang",
+      "at": "chengdu",
+      "note": "Whose stones stop the pursuit."
+    },
+    {
+      "character": "sunquan",
+      "at": "jianye"
+    }
+  ],
+  "focus": {
+    "lon": 111.5,
+    "lat": 30.9,
+    "zoom": 5.6
+  }
+}

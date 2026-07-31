@@ -90,6 +90,22 @@
     "nanzhong":  { "hanzi": "南中", "lon": 102.85, "lat": 24.88, "kind": "city", "weight": 2, "note": "Meng Huo's country." },
     "jiaozhi":   { "hanzi": "交趾", "lon": 105.85, "lat": 21.03, "kind": "city", "weight": 2, "note": "Shi Xie's far south." },
     "henei": { "hanzi": "河內", "lon": 113.18, "lat": 35.10, "kind": "city", "weight": 2, "note": "Henei, north of the Yellow River opposite Luoyang. Wang Kuang's coalition contingent musters here." },
+    "gucheng":     { "hanzi": "古城", "lon": 114.02, "lat": 33.6, "kind": "city", "weight": 1, "note": "Where Zhang Fei, believing Guan Yu a turncoat, makes him kill a messenger to prove himself, ch. 28." },
+    "cangting":    { "hanzi": "倉亭", "lon": 115.6, "lat": 36.05, "kind": "battle", "weight": 0, "note": "Yuan Shao's second defeat, ch. 31." },
+    "tanxi":       { "hanzi": "檀溪", "lon": 112.08, "lat": 32.02, "kind": "battle", "weight": 0, "note": "The stream Liu Bei's horse Dilu leaps in a single bound, ch. 34." },
+    "longzhong":   { "hanzi": "隆中", "lon": 112.0, "lat": 31.98, "kind": "city", "weight": 0, "note": "Zhuge Liang's farm. Liu Bei calls three times, ch. 37-38." },
+    "wulin":       { "hanzi": "烏林", "lon": 113.62, "lat": 29.92, "kind": "battle", "weight": 0, "note": "The north bank at Red Cliffs, where Cao Cao's fleet burned." },
+    "huarong":     { "hanzi": "華容", "lon": 112.9, "lat": 30.2, "kind": "battle", "weight": 0, "note": "The narrow road where Guan Yu lets Cao Cao go, ch. 50." },
+    "leiyang":     { "hanzi": "耒陽", "lon": 112.85, "lat": 26.42, "kind": "city", "weight": 1, "note": "The county Pang Tong governs in a single morning, drunk, ch. 57." },
+    "luocheng":    { "hanzi": "雒城", "lon": 104.25, "lat": 30.99, "kind": "battle", "weight": 0, "note": "The siege where Pang Tong is killed, ch. 63." },
+    "fuguan":      { "hanzi": "涪關", "lon": 104.7, "lat": 31.5, "kind": "pass", "weight": 1, "note": "The gate into Yi province that Liu Bei takes by treachery, ch. 62." },
+    "tiandang":    { "hanzi": "天蕩山", "lon": 106.7, "lat": 33.1, "kind": "battle", "weight": 0, "note": "Huang Zhong's first Hanzhong victory, ch. 70." },
+    "yiling":      { "hanzi": "夷陵", "lon": 111.3, "lat": 30.7, "kind": "battle", "weight": 0, "note": "Where Lu Xun burns Liu Bei's seven hundred li of camps, ch. 84." },
+    "lushui":      { "hanzi": "瀘水", "lon": 101.8, "lat": 26.5, "kind": "battle", "weight": 0, "note": "The pestilential river Zhuge Liang crosses into Meng Huo's country, ch. 88." },
+    "tazhong":     { "hanzi": "沓中", "lon": 103.5, "lat": 33.9, "kind": "city", "weight": 1, "note": "Where Jiang Wei is farming, in internal exile, when Wei invades, ch. 115." },
+    "yinping":     { "hanzi": "陰平", "lon": 104.5, "lat": 32.9, "kind": "pass", "weight": 1, "note": "The trackless mountain road Deng Ai takes to bypass Jiange, ch. 117." },
+    "mumen":       { "hanzi": "木門", "lon": 105.3, "lat": 34.5, "kind": "battle", "weight": 0, "note": "Zhang He rides into the ambush that kills him, ch. 101." },
+    "shangfang":   { "hanzi": "上方谷", "lon": 107.7, "lat": 34.3, "kind": "battle", "weight": 0, "note": "Sima Yi is trapped and burning when the rain comes, ch. 103." },
     "suanzao":   { "hanzi": "酸棗", "lon": 114.85, "lat": 35.05, "kind": "battle", "weight": 0, "note": "The allied camp at Suanzao where the coalition against Dong Zhuo swears its oath, ch. 5." }
   }
 }

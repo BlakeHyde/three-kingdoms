@@ -1,0 +1,110 @@
+{
+  "n": 90,
+  "title": "The Rattan Armour Burns; Meng Huo Submits",
+  "year": "225",
+  "summary": [
+    "Meng Huo's last allies wear armour of rattan soaked in oil, which turns blades and floats men across rivers. Zhuge Liang draws thirty thousand of them into a dry valley and fires both ends, and the armour that would not take a sword burns like kindling.",
+    "Watching it, he says he has done a thing that will shorten his life. Meng Huo, taken a seventh time, finally kneels — and the south is governed thereafter by its own people, with no garrison left behind."
+  ],
+  "history": "The seven captures and releases are in the sources, and so is the decision to leave no occupying force. It held: there was no second southern rebellion in Zhuge Liang's lifetime.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhugeliang",
+      "at": "nanzhong",
+      "note": "Burns thirty thousand men, and says it will cost him years."
+    },
+    {
+      "character": "menghuo",
+      "at": "nanzhong",
+      "note": "Kneels at the seventh asking."
+    },
+    {
+      "character": "zhurong",
+      "at": "nanzhong"
+    },
+    {
+      "character": "weiyan",
+      "at": "nanzhong",
+      "note": "The bait, for fifteen consecutive retreats."
+    },
+    {
+      "character": "madai",
+      "at": "nanzhong"
+    }
+  ],
+  "focus": {
+    "lon": 102.8,
+    "lat": 25.2,
+    "zoom": 5.0
+  }
+}

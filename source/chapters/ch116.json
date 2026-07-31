@@ -1,0 +1,112 @@
+{
+  "n": 116,
+  "title": "Two Armies Cross the Mountains",
+  "year": "263",
+  "summary": [
+    "Zhong Hui comes down the main road with a hundred thousand men and Deng Ai holds Jiang Wei in the west so he cannot get back. Hanzhong falls in weeks — the outer forts had been reorganised, on Jiang Wei's own advice, into a scheme that depended on a mobile field army that no longer existed.",
+    "Jiang Wei extracts himself by a forced march and gets to Jiange in time to shut the gate. Zhong Hui's hundred thousand stop dead in front of it."
+  ],
+  "history": "Historical, including the failure of the reorganised defences.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhonghui",
+      "at": "hanzhong",
+      "from": "changan",
+      "note": "A hundred thousand men, stopped by one gate."
+    },
+    {
+      "character": "jiangwei",
+      "at": "jiange",
+      "from": "tazhong",
+      "note": "Gets there first, by a forced march."
+    },
+    {
+      "character": "dengai",
+      "at": "tazhong",
+      "note": "Sent to hold him, and does not."
+    },
+    {
+      "character": "liushan",
+      "at": "chengdu"
+    },
+    {
+      "character": "zhugezhan",
+      "at": "chengdu"
+    }
+  ],
+  "focus": {
+    "lon": 106.0,
+    "lat": 33.0,
+    "zoom": 4.8
+  }
+}

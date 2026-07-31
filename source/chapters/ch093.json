@@ -1,0 +1,111 @@
+{
+  "n": 93,
+  "title": "Jiang Wei Outthinks the Sleeping Dragon; Wang Lang Dies of an Argument",
+  "year": "228",
+  "summary": [
+    "At Tianshui a young Wei officer anticipates Zhuge Liang's feint and beats it — the first time in the book anyone has. Zhuge Liang takes the city by a forgery specifically to acquire him, and Jiang Wei comes over.",
+    "Then the seventy-six-year-old Wang Lang rides out to persuade Shu's army to surrender by force of rhetoric, and is answered so comprehensively — his whole career recited back to him as a list of accommodations — that he falls off his horse dead."
+  ],
+  "history": "Jiang Wei's defection is historical. Wang Lang died in his bed, two years later, of nothing in particular.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong",
+      "qishan",
+      "jieting"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "jiangwei",
+      "at": "qishan",
+      "note": "Anticipates Zhuge Liang, and is recruited for it."
+    },
+    {
+      "character": "zhugeliang",
+      "at": "qishan",
+      "note": "Acquires an heir by forgery."
+    },
+    {
+      "character": "wanglang",
+      "at": "qishan",
+      "note": "Rides out to win by argument, and dies of losing."
+    },
+    {
+      "character": "caozhen",
+      "at": "changan"
+    },
+    {
+      "character": "zhaoyun",
+      "at": "qishan"
+    }
+  ],
+  "focus": {
+    "lon": 105.3,
+    "lat": 34.6,
+    "zoom": 5.4
+  }
+}

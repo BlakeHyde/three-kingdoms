@@ -1,0 +1,122 @@
+{
+  "n": 38,
+  "title": "The Longzhong Plan; Sun Quan Avenges His Father at Last",
+  "year": "207-208",
+  "summary": [
+    "At the third asking Zhuge Liang receives him, and lays out on a map the shape of the next seventy years: Cao Cao holds the north and cannot be fought head-on; Sun Quan holds the river and should be an ally, not a target; Jing and Yi provinces are weakly held by men who cannot keep them; take those two, hold the passes, wait for the north to falter, and come out in two columns.",
+    "Meanwhile Sun Quan finally kills Huang Zu, and the head that killed his father goes on his father's altar."
+  ],
+  "history": "The Longzhong Plan is historical and is close to the novel's version. It also very nearly worked.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "huguan"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "xiakou"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling",
+      "lingling",
+      "guiyang",
+      "fancheng"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "shu": [
+      "xinye"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhugeliang",
+      "at": "longzhong",
+      "note": "Lays out the next seventy years on a map."
+    },
+    {
+      "character": "liubei",
+      "at": "longzhong",
+      "note": "Comes a third time."
+    },
+    {
+      "character": "sunquan",
+      "at": "xiakou",
+      "from": "jianye",
+      "note": "Kills Huang Zu at last."
+    },
+    {
+      "character": "zhouyu",
+      "at": "xiakou"
+    },
+    {
+      "character": "ganning",
+      "at": "xiakou",
+      "note": "Changes sides, and brings the river with him."
+    },
+    {
+      "character": "huangzu",
+      "at": "xiakou",
+      "note": "Killed; his head goes on Sun Jian's altar."
+    }
+  ],
+  "focus": {
+    "lon": 114.0,
+    "lat": 31.5,
+    "zoom": 5.0
+  }
+}

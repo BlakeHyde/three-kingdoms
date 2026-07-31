@@ -1,0 +1,111 @@
+{
+  "n": 74,
+  "title": "Pang De Brings His Own Coffin; the Seven Armies Drown",
+  "year": "219",
+  "summary": [
+    "Pang De comes to relieve Fancheng carrying a coffin, to make it clear he does not intend to come back, and puts an arrow into Guan Yu's arm.",
+    "Then the autumn rains come. Guan Yu, who has spent a fortnight quietly moving boats upstream, cuts the dykes on the Han. Seven armies drown in a night; Yu Jin surrenders from a treetop; Pang De fights on a raft until it capsizes and is executed still refusing to kneel."
+  ],
+  "history": "Historical, including the flood — though the sources suggest Guan Yu exploited it rather than engineered it. The reputation it won him was enormous, and it is what frightened Wu into acting.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu"
+    ],
+    "shu": [
+      "jiangling",
+      "xiakou",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xinye",
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "shangyong"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "guanyu",
+      "at": "fancheng",
+      "note": "Cuts the dykes, and drowns seven armies."
+    },
+    {
+      "character": "pangde",
+      "at": "fancheng",
+      "note": "Brings a coffin, and uses it."
+    },
+    {
+      "character": "yujin",
+      "at": "fancheng",
+      "note": "Surrenders from a treetop."
+    },
+    {
+      "character": "caoren",
+      "at": "fancheng"
+    },
+    {
+      "character": "caocao",
+      "at": "luoyang",
+      "from": "changan",
+      "note": "Discusses moving the capital away from him."
+    }
+  ],
+  "focus": {
+    "lon": 112.1,
+    "lat": 32.0,
+    "zoom": 6.2
+  }
+}

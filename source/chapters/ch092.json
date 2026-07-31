@@ -1,0 +1,113 @@
+{
+  "n": 92,
+  "title": "Zhao Yun Kills Five Generals in One Morning; Three Commanderies Revolt",
+  "year": "228",
+  "summary": [
+    "Zhao Yun, refused a command on grounds of age, takes the vanguard anyway and kills five Wei officers in a single engagement — one of them a father, then his son, then his three brothers, in order, as they come at him one after another.",
+    "Three commanderies west of Chang'an go over to Shu without a fight. For a few weeks the northern expedition looks unstoppable."
+  ],
+  "history": "Zhao Yun's last campaign is historical, and so is the revolt of the three commanderies. The five kills in a morning are the novel enjoying itself.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong",
+      "qishan",
+      "jieting"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhaoyun",
+      "at": "qishan",
+      "from": "hanzhong",
+      "note": "Five officers in one morning, at over seventy."
+    },
+    {
+      "character": "zhugeliang",
+      "at": "qishan",
+      "from": "hanzhong"
+    },
+    {
+      "character": "weiyan",
+      "at": "qishan",
+      "note": "Proposes the Ziwu valley raid, and is refused."
+    },
+    {
+      "character": "caozhen",
+      "at": "changan",
+      "note": "Losing commanderies weekly."
+    },
+    {
+      "character": "caorui",
+      "at": "luoyang"
+    }
+  ],
+  "focus": {
+    "lon": 105.5,
+    "lat": 34.5,
+    "zoom": 5.0
+  }
+}

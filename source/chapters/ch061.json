@@ -1,0 +1,113 @@
+{
+  "n": 61,
+  "title": "Zhao Yun Stops a Boat on the River; Sun Quan and Cao Cao Face Each Other at Ruxu",
+  "year": "212-213",
+  "summary": [
+    "Lady Sun is recalled to Wu and takes Liu Bei's small son with her. Zhao Yun and Zhang Fei catch the boat mid-river, and Zhao Yun takes the child out of her arms — the second time he has carried Liu Shan out of somewhere.",
+    "At Ruxu, Cao Cao looks across the water at Sun Quan's fleet drawn up in perfect order and says the line that follows Sun Quan through history: 'To have a son one would wish for one like Sun Zhongmou.'"
+  ],
+  "history": "Both historical, and Cao Cao's remark is recorded — it was meant as praise and as a complaint about his own sons.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu"
+    ],
+    "shu": [
+      "jiangling",
+      "xiakou",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xinye"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "sunshangxiang",
+      "at": "ruxu",
+      "from": "jiangling",
+      "note": "Leaves, and takes the child."
+    },
+    {
+      "character": "zhaoyun",
+      "at": "jiangling",
+      "note": "Takes Liu Shan out of a boat, having once taken him out of an army."
+    },
+    {
+      "character": "zhangfei",
+      "at": "jiangling"
+    },
+    {
+      "character": "sunquan",
+      "at": "ruxu",
+      "from": "jianye"
+    },
+    {
+      "character": "caocao",
+      "at": "ruxu",
+      "from": "xuchang",
+      "note": "'To have a son one would wish for one like Sun Zhongmou.'"
+    }
+  ],
+  "focus": {
+    "lon": 117.0,
+    "lat": 31.5,
+    "zoom": 5.0
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "n": 106,
+  "title": "Gongsun Yuan Is Destroyed; Sima Yi Pretends to Be Senile",
+  "year": "238-249",
+  "summary": [
+    "Sima Yi takes Liaodong in a hundred days and executes the Gongsun family root and branch. Then Cao Rui dies at thirty-five, leaving a child on the throne and two regents who hate each other.",
+    "Cao Shuang sidelines Sima Yi, who takes to his bed, spills his porridge down himself in front of Cao Shuang's spy, and mishears every question. The spy reports that the old man will not last the month. Sima Yi waits for the whole family to leave the city on a tomb-sweeping visit, closes the gates behind them, and takes the state in one morning."
+  ],
+  "history": "Historical in every detail, including the porridge. It is the coup that ends the Cao dynasty in all but name.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "gongsunyuan",
+      "at": "xiangping",
+      "note": "Destroyed root and branch."
+    },
+    {
+      "character": "simayi",
+      "at": "luoyang",
+      "from": "xiangping",
+      "note": "Spills his porridge on purpose, and takes the state."
+    },
+    {
+      "character": "caoshuang",
+      "at": "luoyang",
+      "note": "Leaves the city to sweep the tombs."
+    },
+    {
+      "character": "caofang",
+      "at": "luoyang",
+      "note": "A child, and a formality."
+    },
+    {
+      "character": "simashi",
+      "at": "luoyang"
+    },
+    {
+      "character": "simazhao",
+      "at": "luoyang"
+    }
+  ],
+  "focus": {
+    "lon": 114.0,
+    "lat": 36.0,
+    "zoom": 4.2
+  }
+}

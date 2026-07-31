@@ -1,0 +1,115 @@
+{
+  "n": 77,
+  "title": "Guan Yu Dies at Maicheng; Lü Meng Does Not Long Outlive Him",
+  "year": "219-220",
+  "summary": [
+    "Guan Yu breaks out of Maicheng with a few dozen riders, is taken in a net of ropes on the road, and is executed with his son. He is about sixty. Sun Quan sends the head to Cao Cao, who understands he is being handed the blame and buries it with the honours due a nobleman.",
+    "At the victory banquet Lü Meng rises from his seat, seizes Sun Quan by the collar in Guan Yu's voice, and falls dead."
+  ],
+  "history": "The death is historical. The possession is not, but Lü Meng did die within months, which was enough for the story to do the rest.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "shangyong"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "guanyu",
+      "at": "maicheng",
+      "note": "Taken in a net of ropes."
+    },
+    {
+      "character": "guanping",
+      "at": "maicheng",
+      "note": "Executed with him."
+    },
+    {
+      "character": "zhoucang",
+      "at": "maicheng"
+    },
+    {
+      "character": "lvmeng",
+      "at": "jianye",
+      "note": "Dies at the victory banquet."
+    },
+    {
+      "character": "sunquan",
+      "at": "jianye",
+      "note": "Sends the head to Cao Cao, and the blame with it."
+    },
+    {
+      "character": "caocao",
+      "at": "luoyang",
+      "note": "Buries it with honours, and is not fooled."
+    }
+  ],
+  "focus": {
+    "lon": 112.5,
+    "lat": 31.0,
+    "zoom": 5.2
+  }
+}

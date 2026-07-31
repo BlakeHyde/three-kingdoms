@@ -1,0 +1,110 @@
+{
+  "n": 72,
+  "title": "Chicken Ribs: Cao Cao Gives Up Hanzhong and Kills His Secretary for Knowing It",
+  "year": "219",
+  "summary": [
+    "Cao Cao, stuck in a campaign he cannot win and will not admit to losing, gives the night's watchword as 'chicken ribs'. Yang Xiu, who has spent years demonstrating that he can read his master's mind, tells the camp to pack: there is no meat on a chicken rib but it is a shame to throw it away.",
+    "He is right, and Cao Cao has him executed for it. The army withdraws from Hanzhong a few days later, exactly as Yang Xiu predicted."
+  ],
+  "history": "Historical, watchword and all. Yang Xiu had also been backing the wrong son in the succession, which the novel leaves in the background.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu"
+    ],
+    "shu": [
+      "jiangling",
+      "xiakou",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xinye",
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "shangyong"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "yangxiu",
+      "at": "hanzhong",
+      "note": "Right once too often."
+    },
+    {
+      "character": "caocao",
+      "at": "changan",
+      "from": "hanzhong",
+      "note": "Withdraws, exactly as predicted."
+    },
+    {
+      "character": "liubei",
+      "at": "hanzhong",
+      "note": "Has the western passes."
+    },
+    {
+      "character": "zhugeliang",
+      "at": "hanzhong"
+    },
+    {
+      "character": "weiyan",
+      "at": "hanzhong"
+    }
+  ],
+  "focus": {
+    "lon": 107.5,
+    "lat": 33.3,
+    "zoom": 5.6
+  }
+}

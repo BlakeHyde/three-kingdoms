@@ -1,0 +1,116 @@
+{
+  "n": 31,
+  "title": "Cao Cao Breaks Yuan Shao at Cangting; Liu Bei Takes Shelter with Liu Biao",
+  "year": "200-201",
+  "summary": [
+    "Yuan Shao, ill and diminished, is beaten again at Cangting and goes home to die of it. Cao Cao turns on Liu Bei, who has nowhere left in the north to stand.",
+    "He goes south to Liu Biao, a distant kinsman, who receives him warmly and gives him the border town of Xinye — which is to say, puts him between Jing province and Cao Cao."
+  ],
+  "history": "Historical. Liu Bei's seven years at Xinye are the longest he stays anywhere before Yi province.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "cangting",
+      "baima",
+      "yanjin"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling",
+      "lingling",
+      "guiyang",
+      "fancheng"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "yuanshao": [
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "huguan"
+    ],
+    "shu": [
+      "xinye"
+    ]
+  },
+  "pins": [
+    {
+      "character": "caocao",
+      "at": "cangting",
+      "from": "guandu"
+    },
+    {
+      "character": "yuanshao",
+      "at": "ye",
+      "from": "cangting",
+      "note": "Beaten a second time, and dying."
+    },
+    {
+      "character": "liubei",
+      "at": "xinye",
+      "from": "runan",
+      "note": "Given a border town to be a shield."
+    },
+    {
+      "character": "guanyu",
+      "at": "xinye"
+    },
+    {
+      "character": "zhangfei",
+      "at": "xinye"
+    },
+    {
+      "character": "liubiao",
+      "at": "xiangyang",
+      "note": "Receives his kinsman, and uses him."
+    }
+  ],
+  "focus": {
+    "lon": 114.0,
+    "lat": 34.0,
+    "zoom": 4.8
+  }
+}

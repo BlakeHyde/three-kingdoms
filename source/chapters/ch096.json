@@ -1,0 +1,112 @@
+{
+  "n": 96,
+  "title": "Ma Su Is Executed; Zhou Fang Cuts Off His Hair",
+  "year": "228",
+  "summary": [
+    "Zhuge Liang executes Ma Su, who was his closest friend's brother and the best young mind in Shu, and weeps doing it — then demotes himself three ranks for having appointed him against advice.",
+    "In the east, Zhou Fang of Wu offers to defect and cuts off his own hair in front of Wei's envoys to prove his sincerity, which for a man of his time is very nearly self-mutilation. Cao Xiu believes him and marches into Shiting with a hundred thousand men."
+  ],
+  "history": "Both historical, including the haircut and Zhuge Liang's self-demotion.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "masu",
+      "at": "hanzhong",
+      "note": "Executed by the man who taught him."
+    },
+    {
+      "character": "zhugeliang",
+      "at": "hanzhong",
+      "from": "qishan",
+      "note": "Demotes himself three ranks."
+    },
+    {
+      "character": "caoxiu",
+      "at": "shouchun",
+      "note": "Believes a man who cut off his own hair."
+    },
+    {
+      "character": "luxun",
+      "at": "shouchun",
+      "note": "Waiting at Shiting."
+    },
+    {
+      "character": "sunquan",
+      "at": "jianye"
+    }
+  ],
+  "focus": {
+    "lon": 112.0,
+    "lat": 32.5,
+    "zoom": 4.4
+  }
+}

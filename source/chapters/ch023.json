@@ -1,0 +1,119 @@
+{
+  "n": 23,
+  "title": "Mi Heng Reviles the Traitor Naked; Ji Ping Is Tortured for a Poisoning",
+  "year": "200",
+  "summary": [
+    "The scholar Mi Heng, sent to insult Cao Cao, strips to the skin in open court and gives an accounting of every officer present. Cao Cao declines to kill him and sends him to Liu Biao instead, who sends him to Huang Zu, who does it — which was the intention all along.",
+    "The court physician Ji Ping, party to Dong Cheng's conspiracy, puts poison in Cao Cao's medicine. He is taken, tortured through a night, loses his fingers and his tongue, and names nobody."
+  ],
+  "history": "Both are historical, and Cao Cao's use of a third party to kill Mi Heng is exactly as the novel gives it.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "wan",
+      "henei"
+    ],
+    "yuanshao": [
+      "ye",
+      "nanpi",
+      "jieqiao",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling",
+      "lingling",
+      "guiyang",
+      "xinye",
+      "fancheng"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "kongrong": [
+      "beihai"
+    ],
+    "shu": [
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei"
+    ]
+  },
+  "pins": [
+    {
+      "character": "miheng",
+      "at": "xuchang",
+      "note": "Strips in open court, and is sent away to be killed by others."
+    },
+    {
+      "character": "jiping",
+      "at": "xuchang",
+      "note": "Tortured through a night; names nobody."
+    },
+    {
+      "character": "dongcheng",
+      "at": "xuchang"
+    },
+    {
+      "character": "caocao",
+      "at": "xuchang",
+      "from": "guandu"
+    },
+    {
+      "character": "emperorxian",
+      "at": "xuchang"
+    },
+    {
+      "character": "liubiao",
+      "at": "xiangyang"
+    },
+    {
+      "character": "huangzu",
+      "at": "xiakou"
+    }
+  ],
+  "focus": {
+    "lon": 113.5,
+    "lat": 33.5,
+    "zoom": 5.0
+  }
+}

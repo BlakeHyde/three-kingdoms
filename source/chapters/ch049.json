@@ -1,0 +1,108 @@
+{
+  "n": 49,
+  "title": "Praying for the East Wind",
+  "year": "208",
+  "summary": [
+    "Everything is ready and the wind is wrong: in the eleventh month it blows from the north-west, and a fire-attack would burn Wu's own fleet. Zhou Yu takes to his bed with an illness no physician can name, and Zhuge Liang writes him a prescription of sixteen characters — and undertakes to borrow three days of south-east wind.",
+    "He builds an altar, goes up it in Daoist robes, and at midnight the wind changes. He is off the altar and gone downriver before Zhou Yu's assassins reach the top step."
+  ],
+  "history": "The wind change is real meteorology — a winter monsoon reversal that a Yangtze sailor could have predicted. The altar is the novel's, and it is what turned Zhuge Liang from a strategist into a wizard in the popular imagination.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "xiangyang",
+      "fancheng",
+      "xinye",
+      "jiangling",
+      "wulin"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "xiakou",
+      "baqiu",
+      "xiakou"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "shu": [
+      "xiakou"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhugeliang",
+      "at": "chibi",
+      "note": "Borrows three days of south-east wind, and leaves before he can be thanked."
+    },
+    {
+      "character": "zhouyu",
+      "at": "chibi",
+      "from": "chaisang",
+      "note": "Ill of a wind direction."
+    },
+    {
+      "character": "huanggai",
+      "at": "chibi",
+      "note": "Sails with oil and kindling under the hatches."
+    },
+    {
+      "character": "caocao",
+      "at": "wulin"
+    },
+    {
+      "character": "zhaoyun",
+      "at": "chibi",
+      "note": "Waiting downstream with a boat."
+    }
+  ],
+  "focus": {
+    "lon": 113.9,
+    "lat": 29.8,
+    "zoom": 6.4
+  }
+}

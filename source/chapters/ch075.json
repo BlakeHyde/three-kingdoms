@@ -1,0 +1,111 @@
+{
+  "n": 75,
+  "title": "Hua Tuo Scrapes the Bone; Lü Meng Crosses the River in White",
+  "year": "219",
+  "summary": [
+    "The arrow wound is poisoned to the bone. Hua Tuo proposes to cut it open and scrape the bone clean, and Guan Yu declines the ropes and the post, plays a board game through the operation, and drinks and jokes while the blade grates.",
+    "Downriver, Lü Meng announces an illness and hands over to the young and harmless-seeming Lu Xun, who writes Guan Yu a flattering letter. The Jing garrisons are thinned to reinforce Fancheng — and Wu's soldiers come up the river dressed as white-robed merchants, take the beacon towers without a signal being lit, and Jing province falls without a battle."
+  ],
+  "history": "The bone-scraping is in the histories, although Hua Tuo was dead by then. The white-clothed crossing is historical and is the most elegant operation of the entire war.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "shangyong"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "guanyu",
+      "at": "fancheng",
+      "note": "Plays a board game while his bone is scraped."
+    },
+    {
+      "character": "huatuo",
+      "at": "fancheng",
+      "note": "Offers no ropes, and is not asked for any."
+    },
+    {
+      "character": "lvmeng",
+      "at": "jiangling",
+      "from": "jianye",
+      "note": "Takes the province dressed as a merchant."
+    },
+    {
+      "character": "luxun",
+      "at": "jiangling",
+      "note": "Writes a flattering letter, and is believed."
+    },
+    {
+      "character": "sunquan",
+      "at": "jianye"
+    }
+  ],
+  "focus": {
+    "lon": 112.5,
+    "lat": 31.0,
+    "zoom": 5.4
+  }
+}

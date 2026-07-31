@@ -1,0 +1,113 @@
+{
+  "n": 58,
+  "title": "Ma Chao Avenges His Father; Cao Cao Cuts Off His Beard",
+  "year": "211",
+  "summary": [
+    "Cao Cao has Ma Teng killed at Xuchang, and Ma Chao comes down out of Liang province with the Qiang cavalry to settle it. At Tong Pass he breaks Cao Cao's army and chases him personally through his own men.",
+    "Cao Cao throws off his red cloak because they are calling for the man in red, cuts off his beard because they are calling for the man with the beard, and escapes wrapped in a flag."
+  ],
+  "history": "Historical in outline, and the cloak and beard are recorded — though the sources put a little more dignity into it than the novel does.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu"
+    ],
+    "shu": [
+      "jiangling",
+      "xiakou",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xinye"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "machao",
+      "at": "tongguan",
+      "from": "jicheng",
+      "note": "Comes down out of Liang province for his father."
+    },
+    {
+      "character": "mateng",
+      "at": "xuchang",
+      "note": "Killed, which starts it."
+    },
+    {
+      "character": "caocao",
+      "at": "tongguan",
+      "from": "xuchang",
+      "note": "Loses his cloak, his beard and nearly his life."
+    },
+    {
+      "character": "hansui",
+      "at": "tongguan"
+    },
+    {
+      "character": "xuchu",
+      "at": "tongguan",
+      "note": "Gets him across the river under fire."
+    }
+  ],
+  "focus": {
+    "lon": 110.3,
+    "lat": 34.5,
+    "zoom": 6.0
+  }
+}

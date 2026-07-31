@@ -1,0 +1,113 @@
+{
+  "n": 59,
+  "title": "Xu Chu Fights Stripped to the Waist; a Letter Is Blotted on Purpose",
+  "year": "211",
+  "summary": [
+    "Xu Chu strips off his armour to fight Ma Chao and takes two arrows for it. Then Jia Xu ends the campaign without another battle: Cao Cao writes a friendly letter to Han Sui and smudges out the important passages himself before sending it.",
+    "Ma Chao reads it over Han Sui's shoulder, sees a letter that has been carefully edited, and concludes the obvious wrong thing. The coalition destroys itself within the week."
+  ],
+  "history": "The altered letter is in the histories and is Jia Xu at his most characteristic: he wins by handing the enemy something to misread.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu"
+    ],
+    "shu": [
+      "jiangling",
+      "xiakou",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xinye"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "xuchu",
+      "at": "tongguan",
+      "note": "Fights stripped to the waist, and takes two arrows."
+    },
+    {
+      "character": "machao",
+      "at": "jicheng",
+      "from": "tongguan",
+      "note": "Reads a letter, and destroys his own alliance."
+    },
+    {
+      "character": "hansui",
+      "at": "jicheng"
+    },
+    {
+      "character": "jiaxu",
+      "at": "tongguan",
+      "note": "Wins the campaign with an inkbrush."
+    },
+    {
+      "character": "caocao",
+      "at": "changan",
+      "from": "tongguan",
+      "note": "Takes the north-west."
+    }
+  ],
+  "focus": {
+    "lon": 108.5,
+    "lat": 34.4,
+    "zoom": 5.6
+  }
+}

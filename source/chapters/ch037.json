@@ -1,0 +1,111 @@
+{
+  "n": 37,
+  "title": "Twice to the Thatched Cottage, and Twice Turned Away",
+  "year": "207",
+  "summary": [
+    "Liu Bei rides to Longzhong and finds the man out. He rides again through snow and finds his brother instead. Guan Yu thinks it beneath him and Zhang Fei wants to tie the man up and carry him back; Liu Bei goes a third time in the spring."
+  ],
+  "history": "The three visits are historical, and were remembered as extraordinary precisely because a general did not do this.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "huguan"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling",
+      "lingling",
+      "guiyang",
+      "fancheng"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "shu": [
+      "xinye"
+    ]
+  },
+  "pins": [
+    {
+      "character": "liubei",
+      "at": "longzhong",
+      "from": "xinye",
+      "note": "Calls twice, and is not received."
+    },
+    {
+      "character": "guanyu",
+      "at": "longzhong",
+      "note": "Thinks it beneath him."
+    },
+    {
+      "character": "zhangfei",
+      "at": "longzhong",
+      "note": "Offers to fetch the man with rope."
+    },
+    {
+      "character": "zhugeliang",
+      "at": "longzhong",
+      "note": "Out, both times."
+    }
+  ],
+  "focus": {
+    "lon": 112.1,
+    "lat": 32.0,
+    "zoom": 6.6
+  }
+}

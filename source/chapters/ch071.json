@@ -1,0 +1,111 @@
+{
+  "n": 71,
+  "title": "Huang Zhong Kills Xiahou Yuan at Dingjun; Zhao Yun Opens His Gates",
+  "year": "219",
+  "summary": [
+    "Huang Zhong is talked into fighting by being told he is too old for it, takes the high ground above Dingjun, waits until the afternoon heat has emptied Xiahou Yuan's men of fight, and comes down the hill in one movement. Xiahou Yuan is cut from shoulder to waist before he can get his horse turned.",
+    "Zhao Yun, pursued back to his camp with a fraction of his men, orders the gates thrown open, the banners lowered and every man to stand silent. Cao Cao's pursuit halts at the open gate, decides it is an ambush, and is destroyed retreating."
+  ],
+  "history": "Both historical. Liu Bei's comment on hearing of the victory was that he had wanted the commander, not the deputy — Xiahou Yuan was the better prize.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "hanzhong",
+      "dingjun",
+      "tiandang"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu"
+    ],
+    "shu": [
+      "jiangling",
+      "xiakou",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xinye",
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "huangzhong",
+      "at": "dingjun",
+      "from": "tiandang",
+      "note": "Comes down the hill once, and that is enough."
+    },
+    {
+      "character": "xiahouyuan",
+      "at": "dingjun",
+      "note": "Cut from shoulder to waist."
+    },
+    {
+      "character": "zhaoyun",
+      "at": "dingjun",
+      "note": "Opens his gates and stands silent."
+    },
+    {
+      "character": "liubei",
+      "at": "hanzhong",
+      "from": "chengdu"
+    },
+    {
+      "character": "fazheng",
+      "at": "dingjun",
+      "note": "Chose the hour."
+    }
+  ],
+  "focus": {
+    "lon": 106.7,
+    "lat": 33.1,
+    "zoom": 6.2
+  }
+}

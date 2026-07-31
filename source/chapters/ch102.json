@@ -1,0 +1,111 @@
+{
+  "n": 102,
+  "title": "The Flowing Horses; Sima Yi Will Not Come Out",
+  "year": "234",
+  "summary": [
+    "The last expedition. Zhuge Liang settles his army on the Wei river plain and starts farming it — soldiers and local people working the same fields, so that for the first time the army can feed itself indefinitely.",
+    "Sima Yi refuses every provocation. Sent a set of women's clothes and invited to wear them if he will not fight, he puts them on in front of the messenger, asks politely after Zhuge Liang's health and how much he sleeps and eats — and on being told, remarks to his staff that a man who does that much on that little food will not last long."
+  ],
+  "history": "Historical, dress and all. Sima Yi's deduction from the eating habits is recorded, and he was right.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhugeliang",
+      "at": "wuzhang",
+      "from": "hanzhong",
+      "note": "Farms the Wei plain, and cannot be brought to battle."
+    },
+    {
+      "character": "simayi",
+      "at": "wuzhang",
+      "note": "Wears the dress, and asks how much his enemy eats."
+    },
+    {
+      "character": "weiyan",
+      "at": "wuzhang"
+    },
+    {
+      "character": "jiangwei",
+      "at": "wuzhang"
+    },
+    {
+      "character": "caorui",
+      "at": "luoyang",
+      "note": "Forbids his commander to fight, at his commander's request."
+    }
+  ],
+  "focus": {
+    "lon": 107.6,
+    "lat": 34.3,
+    "zoom": 5.6
+  }
+}

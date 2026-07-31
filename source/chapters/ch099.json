@@ -1,0 +1,110 @@
+{
+  "n": 99,
+  "title": "The Third Expedition; Sima Yi Loses a Field Battle and Stops Fighting Them",
+  "year": "230-231",
+  "summary": [
+    "Zhuge Liang takes two commanderies and beats Sima Yi in the open field, comprehensively, in front of his own army.",
+    "Sima Yi draws the correct conclusion and never fights him in the open again. From here on Wei's strategy in the west is a wall, a ditch, and a calendar."
+  ],
+  "history": "Historical. Sima Yi's refusal to engage was sound and deeply unpopular with his own officers, who accused him of cowardice to his face.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhugeliang",
+      "at": "qishan",
+      "from": "hanzhong",
+      "note": "Beats Sima Yi in the open, once."
+    },
+    {
+      "character": "simayi",
+      "at": "qishan",
+      "note": "Never does that again."
+    },
+    {
+      "character": "zhanghe",
+      "at": "qishan"
+    },
+    {
+      "character": "jiangwei",
+      "at": "qishan"
+    },
+    {
+      "character": "caozhen",
+      "at": "changan"
+    }
+  ],
+  "focus": {
+    "lon": 105.4,
+    "lat": 34.4,
+    "zoom": 5.0
+  }
+}

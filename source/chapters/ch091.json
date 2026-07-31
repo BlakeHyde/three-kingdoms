@@ -1,0 +1,116 @@
+{
+  "n": 91,
+  "title": "The Sacrifice at the Lu; the Memorial on Setting Out",
+  "year": "225-227",
+  "summary": [
+    "Coming home, the army cannot cross the Lu for the storm raised by the unburied dead. Told that the river wants forty-nine heads, Zhuge Liang has flour cakes stuffed with meat moulded into the shape of heads and thrown in instead, and the water goes down.",
+    "Then he submits the memorial: an account of a mat-weaver who called on him three times, an instruction to his lord's son about which ministers to trust, and a statement of intent. It is the most famous prose document in the language, and it ends with him unable to see the page for tears."
+  ],
+  "history": "The memorial is real and survives entire. The novel quotes it at length and does not need to improve it.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhugeliang",
+      "at": "hanzhong",
+      "from": "nanzhong",
+      "note": "Submits the memorial, and marches north."
+    },
+    {
+      "character": "liushan",
+      "at": "chengdu",
+      "note": "Told, in writing, which of his ministers to trust."
+    },
+    {
+      "character": "zhaoyun",
+      "at": "hanzhong",
+      "note": "Over seventy, and refuses to be left behind."
+    },
+    {
+      "character": "weiyan",
+      "at": "hanzhong"
+    },
+    {
+      "character": "masu",
+      "at": "hanzhong"
+    },
+    {
+      "character": "caorui",
+      "at": "luoyang",
+      "note": "Emperor of Wei."
+    }
+  ],
+  "focus": {
+    "lon": 107.0,
+    "lat": 32.0,
+    "zoom": 4.6
+  }
+}

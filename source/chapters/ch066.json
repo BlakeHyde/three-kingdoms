@@ -1,0 +1,108 @@
+{
+  "n": 66,
+  "title": "Guan Yu Goes to the Feast with a Single Blade; the Empress Is Killed",
+  "year": "215",
+  "summary": [
+    "Lu Su invites Guan Yu across the river to discuss the return of Jing province, with swordsmen behind the screens. Guan Yu comes with one blade and one boat, keeps hold of Lu Su's wrist through the whole banquet, and walks him down to the water as a shield.",
+    "At Xuchang the Empress Fu's letter asking her father to act against Cao Cao is found. She is dragged from behind a false wall by the hair and beaten to death; her two sons are poisoned; her family are killed to the hundredth degree."
+  ],
+  "history": "The single-blade meeting is historical, though the sources give the nerve to Lu Su. The killing of Empress Fu is also historical, and the novel does not exaggerate it.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu"
+    ],
+    "shu": [
+      "jiangling",
+      "xiakou",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xinye",
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "guanyu",
+      "at": "jiangling",
+      "note": "One blade, one boat, and a firm grip on his host's wrist."
+    },
+    {
+      "character": "lusu",
+      "at": "jiangling",
+      "note": "Walked down to the water as a shield."
+    },
+    {
+      "character": "emperorxian",
+      "at": "xuchang",
+      "note": "Watches his wife dragged out by the hair."
+    },
+    {
+      "character": "caocao",
+      "at": "xuchang"
+    },
+    {
+      "character": "liubei",
+      "at": "chengdu"
+    }
+  ],
+  "focus": {
+    "lon": 114.0,
+    "lat": 31.5,
+    "zoom": 4.8
+  }
+}

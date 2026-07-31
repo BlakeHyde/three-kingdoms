@@ -1,0 +1,112 @@
+{
+  "n": 57,
+  "title": "Zhou Yu Dies at Baqiu; the Young Phoenix Governs a County in a Morning",
+  "year": "210",
+  "summary": [
+    "Zhou Yu's third scheme fails like the others, and the wound reopens. He dies at thirty-six at Baqiu, and his last words are a complaint to heaven: 'Since it made me, why did it also make Liang?'",
+    "Zhuge Liang attends the funeral and delivers a eulogy so sincere that Wu's officers cannot bring themselves to kill him at it. On the way home he recruits Pang Tong, whom Sun Quan has rejected for being ugly and Liu Bei has parked in a small county — where he clears a hundred days of arrears in one morning, drunk, to make a point."
+  ],
+  "history": "Zhou Yu died at thirty-six on campaign. The rivalry with Zhuge Liang, and the dying complaint, are the novel's invention: the histories show them barely interacting, and Zhou Yu magnanimous.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu"
+    ],
+    "shu": [
+      "jiangling",
+      "xiakou",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xinye"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhouyu",
+      "at": "baqiu",
+      "note": "'Since it made me, why did it also make Liang?'"
+    },
+    {
+      "character": "zhugeliang",
+      "at": "baqiu",
+      "from": "jiangling",
+      "note": "Weeps at the funeral of a man he outmanoeuvred."
+    },
+    {
+      "character": "lusu",
+      "at": "baqiu",
+      "note": "Succeeds him, and keeps the alliance alive."
+    },
+    {
+      "character": "pangtong",
+      "at": "leiyang",
+      "note": "Clears a hundred days of arrears in one morning, drunk."
+    },
+    {
+      "character": "liubei",
+      "at": "jiangling"
+    }
+  ],
+  "focus": {
+    "lon": 113.0,
+    "lat": 29.4,
+    "zoom": 5.6
+  }
+}

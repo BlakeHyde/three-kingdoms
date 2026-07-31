@@ -1,0 +1,116 @@
+{
+  "n": 36,
+  "title": "Xu Shu Is Taken by a Forged Letter, and Names His Successor",
+  "year": "207",
+  "summary": [
+    "Shan Fu — really Xu Shu — beats Cao Ren twice in a fortnight, which tells Cao Cao exactly who he is dealing with. Cao Cao therefore takes his mother, and forges her handwriting to call him north.",
+    "He goes, because he is a son. His mother, learning why he came, hangs herself for the shame of it. Riding away he turns back once, to tell Liu Bei the name of the man in the thatched cottage at Longzhong."
+  ],
+  "history": "Historical, including the forged letter. The novel adds the mother's suicide, and the recommendation on the road.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "huguan"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling",
+      "lingling",
+      "guiyang",
+      "fancheng"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "shu": [
+      "xinye"
+    ]
+  },
+  "pins": [
+    {
+      "character": "xushu",
+      "at": "xuchang",
+      "from": "xinye",
+      "note": "Goes north to a forged letter, and names Zhuge Liang on the way out."
+    },
+    {
+      "character": "liubei",
+      "at": "xinye"
+    },
+    {
+      "character": "caocao",
+      "at": "xuchang",
+      "note": "Forges a mother's hand."
+    },
+    {
+      "character": "caoren",
+      "at": "fancheng",
+      "note": "Beaten twice in a fortnight."
+    },
+    {
+      "character": "zhugeliang",
+      "at": "longzhong",
+      "note": "Farming, and waiting."
+    }
+  ],
+  "focus": {
+    "lon": 113.0,
+    "lat": 33.0,
+    "zoom": 5.2
+  }
+}

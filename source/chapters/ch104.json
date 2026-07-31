@@ -1,0 +1,112 @@
+{
+  "n": 104,
+  "title": "The Lamp Goes Out; a Dead Zhuge Frightens a Living Zhongda",
+  "year": "234",
+  "summary": [
+    "Knowing he is dying, Zhuge Liang sets out seven lamps in his tent to petition heaven for twelve more years. On the sixth night Wei Yan bursts in with an alarm and knocks over the principal lamp. He dies at fifty-four, having left written instructions for everything that is to happen next.",
+    "The army withdraws in perfect order with his carved likeness seated in the command carriage. Sima Yi, pursuing, sees it, concludes the death was a feint, and runs — which becomes a proverb in his own lifetime."
+  ],
+  "history": "The death and the orderly withdrawal are historical, and so is the proverb: the sources record it as a joke Sima Yi made about himself.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhugeliang",
+      "at": "wuzhang",
+      "note": "Dies at fifty-four, having written down what happens next."
+    },
+    {
+      "character": "weiyan",
+      "at": "wuzhang",
+      "note": "Knocks over the lamp."
+    },
+    {
+      "character": "jiangwei",
+      "at": "wuzhang",
+      "note": "Takes the withdrawal, and the inheritance."
+    },
+    {
+      "character": "simayi",
+      "at": "wuzhang",
+      "note": "Runs from a wooden statue."
+    },
+    {
+      "character": "madai",
+      "at": "wuzhang",
+      "note": "Carrying a sealed order."
+    }
+  ],
+  "focus": {
+    "lon": 107.6,
+    "lat": 34.3,
+    "zoom": 5.8
+  }
+}

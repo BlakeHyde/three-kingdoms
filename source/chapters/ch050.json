@@ -1,0 +1,115 @@
+{
+  "n": 50,
+  "title": "Red Cliffs Burns; Guan Yu Lets Cao Cao Go at Huarong",
+  "year": "208",
+  "summary": [
+    "Huang Gai's squadron comes in under a false flag with the wind behind it, fires the leading ships, and the chained fleet cannot scatter. The river burns from bank to bank. Cao Cao loses an army that had never been beaten and runs north through the marshes with a few hundred men, laughing twice at his enemies' stupidity and being ambushed both times.",
+    "At the Huarong road Guan Yu is waiting with orders to kill him — and Cao Cao reminds him of the horse, the gowns, and the passes he was let through. Guan Yu turns his horse aside and lets the whole column pass."
+  ],
+  "history": "The battle and the fire are historical; Cao Cao's escape through the marshes is too. The meeting at Huarong is invented — the novel's way of paying off Guan Yu's debt and setting the ledger straight before he dies.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "xiangyang",
+      "fancheng"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "xiakou",
+      "baqiu",
+      "xiakou",
+      "chibi",
+      "wulin",
+      "jiangling"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "shu": [
+      "xiakou",
+      "xinye"
+    ]
+  },
+  "pins": [
+    {
+      "character": "huanggai",
+      "at": "chibi",
+      "note": "Sails in under a false flag."
+    },
+    {
+      "character": "zhouyu",
+      "at": "chibi",
+      "note": "Wins the battle of the age at thirty-three."
+    },
+    {
+      "character": "caocao",
+      "at": "huarong",
+      "from": "wulin",
+      "note": "Loses an army, and laughs twice too often."
+    },
+    {
+      "character": "guanyu",
+      "at": "huarong",
+      "note": "Lets him go, and pays for it later."
+    },
+    {
+      "character": "zhugeliang",
+      "at": "xiakou",
+      "note": "Gave him the orders knowing he would disobey them."
+    },
+    {
+      "character": "zhangliao",
+      "at": "huarong",
+      "note": "Gets him out."
+    }
+  ],
+  "focus": {
+    "lon": 113.5,
+    "lat": 30.0,
+    "zoom": 5.8
+  }
+}

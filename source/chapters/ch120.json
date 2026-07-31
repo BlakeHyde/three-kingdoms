@@ -1,0 +1,106 @@
+{
+  "n": 120,
+  "title": "Du Yu Splits the Bamboo; the Empire Is One Again",
+  "year": "265-280",
+  "summary": [
+    "Wu lasts another seventeen years under Sun Hao, who boils critics in oil and flays faces, and whose officers desert in numbers.",
+    "In 280 Jin comes down the Yangtze in six columns. Wu's great iron chains across the river are melted with fire rafts and its stakes swept aside; Du Yu, urged to wait for winter, answers that the thing is like splitting bamboo — after the first few joints it splits of its own accord. Sun Hao comes out with his coffin. The empire, long divided, is one again — for thirty-six years."
+  ],
+  "history": "Historical, chains and all. The novel closes on the same line it opened with, and the reader is expected to notice that it is a wheel rather than a conclusion.",
+  "control": {
+    "jin": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping",
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi",
+      "nanzhong",
+      "yinping",
+      "tazhong"
+    ]
+  },
+  "pins": [
+    {
+      "character": "sunhao",
+      "at": "jianye",
+      "note": "Boils his critics, and loses his officers."
+    },
+    {
+      "character": "duyu",
+      "at": "jianye",
+      "from": "xiangyang",
+      "note": "'After the first few joints it splits of its own accord.'"
+    },
+    {
+      "character": "simayan",
+      "at": "luoyang",
+      "note": "Rules a united empire, briefly."
+    },
+    {
+      "character": "liushan",
+      "at": "luoyang",
+      "note": "Dies comfortably in Luoyang, eight years after Shu."
+    }
+  ],
+  "focus": {
+    "lon": 114.0,
+    "lat": 32.0,
+    "zoom": 4.0
+  }
+}

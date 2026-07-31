@@ -1,0 +1,107 @@
+{
+  "n": 46,
+  "title": "Straw Boats Borrow Arrows; Huang Gai Asks to Be Beaten",
+  "year": "208",
+  "summary": [
+    "Zhou Yu, who would rather Zhuge Liang were dead than allied, orders him to produce a hundred thousand arrows in three days. Zhuge Liang agrees to do it in two, takes twenty boats stuffed with straw and screened with cloth out into the fog, drums at Cao Cao's camp until they are stuck full, and comes home thanking him for the loan.",
+    "Then Huang Gai proposes to be flogged nearly to death in open council, so that his defection will be believed."
+  ],
+  "history": "Both are famous and both are fiction. The arrow episode is borrowed from a real incident involving Sun Quan and moved wholesale to a better character.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "xiangyang",
+      "fancheng",
+      "xinye",
+      "jiangling",
+      "wulin"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "xiakou",
+      "baqiu",
+      "xiakou"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "shu": [
+      "xiakou"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhugeliang",
+      "at": "chaisang",
+      "note": "Borrows a hundred thousand arrows and returns none."
+    },
+    {
+      "character": "zhouyu",
+      "at": "chaisang",
+      "note": "Sets an impossible task, and is answered."
+    },
+    {
+      "character": "huanggai",
+      "at": "chaisang",
+      "note": "Asks to be flogged."
+    },
+    {
+      "character": "caocao",
+      "at": "wulin",
+      "note": "Lends the arrows."
+    },
+    {
+      "character": "lusu",
+      "at": "chaisang"
+    }
+  ],
+  "focus": {
+    "lon": 114.3,
+    "lat": 30.0,
+    "zoom": 5.8
+  }
+}

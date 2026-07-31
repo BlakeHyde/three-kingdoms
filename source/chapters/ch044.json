@@ -1,0 +1,109 @@
+{
+  "n": 44,
+  "title": "Zhuge Liang Provokes Zhou Yu with a Poem",
+  "year": "208",
+  "summary": [
+    "Zhou Yu, who has already decided on war, pretends otherwise to see what Zhuge Liang is made of. Zhuge Liang suggests that the whole thing could be settled by sending Cao Cao two women — and recites a line from Cao Zhi's poem about the Bronze Bird Terrace naming the two Qiao.",
+    "One of them is Sun Ce's widow. The other is Zhou Yu's wife. Zhou Yu comes off his seat swearing to fight."
+  ],
+  "history": "The poem predates the terrace and says nothing of the kind; the novel is misreading it on purpose, and Zhou Yu — who had decided on war days earlier — is letting himself be moved.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "xiangyang",
+      "fancheng",
+      "xinye",
+      "jiangling",
+      "wulin"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "xiakou",
+      "baqiu",
+      "xiakou"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "shu": [
+      "xiakou"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhouyu",
+      "at": "chaisang",
+      "from": "baqiu",
+      "note": "Provoked, entirely willingly."
+    },
+    {
+      "character": "zhugeliang",
+      "at": "chaisang",
+      "note": "Misquotes a poem on purpose."
+    },
+    {
+      "character": "sunquan",
+      "at": "chaisang",
+      "note": "Cuts the corner off his desk to end the argument."
+    },
+    {
+      "character": "lusu",
+      "at": "chaisang"
+    },
+    {
+      "character": "caocao",
+      "at": "wulin",
+      "from": "jiangling",
+      "note": "Builds a fleet he does not understand."
+    }
+  ],
+  "focus": {
+    "lon": 115.5,
+    "lat": 30.0,
+    "zoom": 5.6
+  }
+}

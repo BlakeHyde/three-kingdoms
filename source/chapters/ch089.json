@@ -1,0 +1,113 @@
+{
+  "n": 89,
+  "title": "The Dumb Spring; the Fourth and Fifth Captures",
+  "year": "225",
+  "summary": [
+    "Pursuing deeper, the army drinks from a silent green spring and is struck mute and dying. A hermit — Meng Huo's own elder brother, living apart from all of it — shows them the herb and the sweet well that cure it.",
+    "Meng Huo is taken twice more, once through his own uncle's treachery and once by walking into an ambush he had been told about, and is released both times, growing steadily angrier."
+  ],
+  "history": "The poisoned springs are folklore built on something real: the southern campaign's worst enemy was the water.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ],
+    "nanman": [
+      "nanzhong"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhugeliang",
+      "at": "nanzhong",
+      "from": "lushui",
+      "note": "Poisoned by a spring, and cured by a hermit."
+    },
+    {
+      "character": "menghuo",
+      "at": "nanzhong",
+      "note": "Fourth and fifth captures; angrier each time."
+    },
+    {
+      "character": "zhurong",
+      "at": "nanzhong",
+      "note": "Takes two Shu officers prisoner, and trades them for her husband."
+    },
+    {
+      "character": "madai",
+      "at": "nanzhong"
+    },
+    {
+      "character": "weiyan",
+      "at": "nanzhong"
+    }
+  ],
+  "focus": {
+    "lon": 102.5,
+    "lat": 25.5,
+    "zoom": 5.2
+  }
+}

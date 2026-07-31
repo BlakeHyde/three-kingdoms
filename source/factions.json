@@ -36,6 +36,12 @@
       "note": "The Sun family's south-east, from Sun Jian through Sun Ce to Sun Quan."
     },
 
+    "jin": {
+      "name": "Jin", "hanzi": "晉", "pinyin": "jìn",
+      "hue": 45, "chroma": 0.11, "rank": 4,
+      "note": "The Sima family's dynasty, proclaimed in ch. 119. Sima Yi, Shi and Zhao stay Wei-coloured: they served Wei for their whole careers, and the novel treats them as Wei's commanders."
+    },
+
     "yellowturban": {
       "name": "Yellow Turbans", "hanzi": "黃巾", "pinyin": "huáng jīn",
       "hue": 112, "chroma": 0.155, "rank": 10,

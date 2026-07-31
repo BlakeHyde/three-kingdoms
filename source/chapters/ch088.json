@@ -1,0 +1,112 @@
+{
+  "n": 88,
+  "title": "Crossing the Lu; the Second and Third Captures",
+  "year": "225",
+  "summary": [
+    "The army crosses the Lu river at night, because by day the water is hot enough and foul enough to kill men who drink it. Meng Huo is betrayed by his own officers and delivered up a second time, and objects that being handed over by traitors is not the same as being beaten; he is released again.",
+    "His brother tries a false surrender with two hundred armed men. Zhuge Liang serves them drugged wine and Meng Huo is carried in asleep, for the third time."
+  ],
+  "history": "The river crossing is historical and the conditions were genuinely lethal; the campaign lost more men to disease than to fighting.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ],
+    "nanman": [
+      "nanzhong"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhugeliang",
+      "at": "lushui",
+      "from": "nanzhong",
+      "note": "Crosses at night, because the water kills by day."
+    },
+    {
+      "character": "menghuo",
+      "at": "lushui",
+      "note": "Taken a second and a third time, and released twice."
+    },
+    {
+      "character": "madai",
+      "at": "lushui"
+    },
+    {
+      "character": "weiyan",
+      "at": "lushui"
+    },
+    {
+      "character": "zhaoyun",
+      "at": "lushui"
+    }
+  ],
+  "focus": {
+    "lon": 102.0,
+    "lat": 26.4,
+    "zoom": 5.4
+  }
+}

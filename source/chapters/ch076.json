@@ -1,0 +1,116 @@
+{
+  "n": 76,
+  "title": "Xu Huang Breaks the Siege; the Army Melts Away",
+  "year": "219",
+  "summary": [
+    "Xu Huang relieves Fancheng — an old friend of Guan Yu's, who talks with him pleasantly across the lines and then offers a reward for his head. The siege breaks.",
+    "Falling back, Guan Yu finds his own province behind him and his soldiers' families being treated kindly in it. The army dissolves on the road, a few hundred at a time, until he reaches Maicheng with a few hundred men."
+  ],
+  "history": "Historical, including Lü Meng's decision to treat the captured families well, which destroyed Guan Yu's army more thoroughly than any battle.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "shangyong"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "guanyu",
+      "at": "maicheng",
+      "from": "fancheng",
+      "note": "His army dissolves on the road home."
+    },
+    {
+      "character": "xuhuang",
+      "at": "fancheng",
+      "note": "Talks pleasantly, then offers money for his head."
+    },
+    {
+      "character": "guanping",
+      "at": "maicheng"
+    },
+    {
+      "character": "lvmeng",
+      "at": "jiangling",
+      "note": "Treats the families well, and wins."
+    },
+    {
+      "character": "liufeng",
+      "at": "shangyong",
+      "note": "Does not march."
+    },
+    {
+      "character": "mengda",
+      "at": "shangyong",
+      "note": "Advises him not to."
+    }
+  ],
+  "focus": {
+    "lon": 111.8,
+    "lat": 31.0,
+    "zoom": 5.6
+  }
+}

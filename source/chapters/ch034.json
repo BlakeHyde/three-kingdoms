@@ -1,0 +1,114 @@
+{
+  "n": 34,
+  "title": "The Leap at the Tan Stream",
+  "year": "207",
+  "summary": [
+    "Liu Biao's wife's family decide to be rid of Liu Bei at a banquet. Warned mid-course, he goes over the wall to his horse and finds the road blocked by the Tan Stream, deep and fast and thirty feet across.",
+    "The horse Dilu, which he has been warned is unlucky and will one day kill its master, gathers itself and clears it."
+  ],
+  "history": "The leap is legend rather than record, and the novel knows it — the whole point of Dilu is the prophecy it is busy contradicting.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "huguan"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling",
+      "lingling",
+      "guiyang",
+      "fancheng"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "shu": [
+      "xinye"
+    ]
+  },
+  "pins": [
+    {
+      "character": "liubei",
+      "at": "tanxi",
+      "from": "xiangyang",
+      "note": "Clears thirty feet of water on an unlucky horse."
+    },
+    {
+      "character": "caimao",
+      "at": "xiangyang",
+      "note": "Arranges the banquet."
+    },
+    {
+      "character": "liubiao",
+      "at": "xiangyang"
+    },
+    {
+      "character": "liuqi",
+      "at": "xiangyang"
+    },
+    {
+      "character": "liucong",
+      "at": "xiangyang"
+    }
+  ],
+  "focus": {
+    "lon": 112.2,
+    "lat": 32.1,
+    "zoom": 6.4
+  }
+}

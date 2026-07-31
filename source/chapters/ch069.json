@@ -1,0 +1,108 @@
+{
+  "n": 69,
+  "title": "Guan Lu Reads the Future; Five Officers Try to Burn the Capital",
+  "year": "217-218",
+  "summary": [
+    "The diviner Guan Lu tells Cao Cao's fortune with unpleasant accuracy and declines all reward. Five loyalist officers, taking his reading as a signal, raise a fire in Xuchang and try to kill Cao Cao during it.",
+    "It fails. Cao Cao assembles the entire court and orders those who helped put the fire out to stand on one side and those who stayed indoors on the other; then he executes everyone on the first side, on the grounds that they were carrying weapons."
+  ],
+  "history": "The plot is historical. The trick with the two sides is the novel's, and it is the single most chilling thing Cao Cao does in the book.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "hanzhong",
+      "dingjun",
+      "tiandang"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu"
+    ],
+    "shu": [
+      "jiangling",
+      "xiakou",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xinye",
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "guanlu",
+      "at": "xuchang",
+      "note": "Reads the future accurately, and declines payment."
+    },
+    {
+      "character": "caocao",
+      "at": "xuchang",
+      "note": "Executes the men who fought the fire."
+    },
+    {
+      "character": "emperorxian",
+      "at": "xuchang"
+    },
+    {
+      "character": "liubei",
+      "at": "chengdu"
+    },
+    {
+      "character": "zhugeliang",
+      "at": "chengdu",
+      "note": "Beginning to move on Hanzhong."
+    }
+  ],
+  "focus": {
+    "lon": 113.8,
+    "lat": 34.0,
+    "zoom": 5.2
+  }
+}

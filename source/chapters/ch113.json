@@ -1,0 +1,110 @@
+{
+  "n": 113,
+  "title": "Ding Feng Sets a Trap; Deng Ai Sets a Better One",
+  "year": "258-262",
+  "summary": [
+    "In Wu, Zhuge Ke's arrogance gets him assassinated at a banquet and the regency changes hands again. In the west Jiang Wei and Deng Ai fight a series of engagements that neither can convert into anything, each of them reading the other perfectly and neither able to do much about it.",
+    "Shu is running out of grain, officers and patience."
+  ],
+  "history": "Historical. The later campaigns achieved nothing and cost Shu more than it had.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhugeke",
+      "at": "jianye",
+      "note": "Assassinated at a banquet."
+    },
+    {
+      "character": "dingfeng",
+      "at": "jianye",
+      "note": "Who arranges it."
+    },
+    {
+      "character": "jiangwei",
+      "at": "qishan"
+    },
+    {
+      "character": "dengai",
+      "at": "qishan"
+    },
+    {
+      "character": "liushan",
+      "at": "chengdu",
+      "note": "Listening to eunuchs."
+    }
+  ],
+  "focus": {
+    "lon": 110.0,
+    "lat": 32.0,
+    "zoom": 4.2
+  }
+}

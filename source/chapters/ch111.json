@@ -1,0 +1,107 @@
+{
+  "n": 111,
+  "title": "Deng Ai Reads Jiang Wei's Mind",
+  "year": "255-257",
+  "summary": [
+    "Jiang Wei comes north again and meets, for the first time, a commander who anticipates him move for move. Deng Ai — a stammering farmer's son who rose on competence alone — occupies every position Jiang Wei intends to use, a day before he intends to use it.",
+    "From here to the end of the book, the war in the west is these two men."
+  ],
+  "history": "Historical. Deng Ai's origins and his stammer are recorded, as is the fact that Wei's aristocracy never quite forgave him for either.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "jiangwei",
+      "at": "qishan",
+      "from": "hanzhong",
+      "note": "Meets his match."
+    },
+    {
+      "character": "dengai",
+      "at": "qishan",
+      "note": "A stammering farmer's son who gets there first."
+    },
+    {
+      "character": "simazhao",
+      "at": "luoyang"
+    },
+    {
+      "character": "zhugedan",
+      "at": "shouchun",
+      "note": "Beginning to fear his turn is coming."
+    }
+  ],
+  "focus": {
+    "lon": 105.8,
+    "lat": 34.4,
+    "zoom": 5.0
+  }
+}

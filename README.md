@@ -2,12 +2,13 @@
 
 A chapter-by-chapter map of *Romance of the Three Kingdoms* (三國演義). Each chapter
 shows the political situation as filled territory, pins the major figures where the
-narrative puts them, and draws a dashed arc for anyone who moves during it.
+narrative puts them, and draws a dashed arc for anyone who moves during it — from the
+peach garden oath to Du Yu's fleet coming down the Yangtze 96 years later.
 
 Names can be read in **Pinyin, Wade–Giles, Yale, Vietnamese, Korean or Japanese**
 (menu, upper right), always shown alongside the hanzi.
 
-Chapters 1–20 are mapped. 21–120 are listed but empty — see *Adding a chapter*.
+All 120 chapters are mapped.
 
 ```
 uv run tools/clip_basemap.py     # once: fetch + clip the basemap

@@ -1,0 +1,113 @@
+{
+  "n": 115,
+  "title": "Jiang Wei Is Recalled and Sent to Farm",
+  "year": "262-263",
+  "summary": [
+    "The ninth campaign is going well when the recall comes, bought as usual by the eunuch Huang Hao. Jiang Wei comes home to find a plan afoot to replace him, and takes his officers off to Tazhong to grow wheat rather than stay in the capital and be murdered.",
+    "This leaves the northern passes held by nobody in particular, which Wei notices immediately."
+  ],
+  "history": "Historical. Jiang Wei's internal exile left the Shu frontier effectively unmanned in the year Wei chose to invade.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "jiangwei",
+      "at": "tazhong",
+      "from": "qishan",
+      "note": "Goes off to grow wheat rather than be murdered at court."
+    },
+    {
+      "character": "liushan",
+      "at": "chengdu",
+      "note": "Signs the recall."
+    },
+    {
+      "character": "dengai",
+      "at": "changan",
+      "note": "Notices the passes are empty."
+    },
+    {
+      "character": "zhonghui",
+      "at": "changan",
+      "note": "Given an army of a hundred thousand."
+    },
+    {
+      "character": "simazhao",
+      "at": "luoyang",
+      "note": "Orders the conquest of Shu."
+    }
+  ],
+  "focus": {
+    "lon": 105.0,
+    "lat": 33.5,
+    "zoom": 4.6
+  }
+}

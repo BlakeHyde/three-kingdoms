@@ -1,0 +1,110 @@
+{
+  "n": 103,
+  "title": "Fire in Shangfang Valley, and Then Rain",
+  "year": "234",
+  "summary": [
+    "Zhuge Liang builds a supply depot in a gourd-shaped valley, garrisons it visibly with the wooden transports, and lets Sima Yi discover it. Sima Yi comes in with his two sons; the mouth is sealed, the mines are fired, and the whole valley burns.",
+    "Then a thunderstorm breaks directly overhead and puts it out, and they ride out through the ash. Zhuge Liang, watching from the ridge: 'Man may plan, but heaven decides.'"
+  ],
+  "history": "Invented. It exists so that the book can say out loud what it has been circling for twenty chapters: that Zhuge Liang is not losing to Sima Yi.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "simayi",
+      "at": "shangfang",
+      "note": "Rides into the trap, and rides out through rain."
+    },
+    {
+      "character": "zhugeliang",
+      "at": "wuzhang",
+      "note": "'Man may plan, but heaven decides.'"
+    },
+    {
+      "character": "simashi",
+      "at": "shangfang"
+    },
+    {
+      "character": "simazhao",
+      "at": "shangfang"
+    },
+    {
+      "character": "weiyan",
+      "at": "shangfang",
+      "note": "Whose torch was late."
+    }
+  ],
+  "focus": {
+    "lon": 107.7,
+    "lat": 34.3,
+    "zoom": 6.0
+  }
+}

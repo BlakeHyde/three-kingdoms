@@ -1,0 +1,101 @@
+{
+  "n": 47,
+  "title": "Pang Tong Chains the Fleet Together",
+  "year": "208",
+  "summary": [
+    "Cao Cao's northern soldiers are seasick and dying. Pang Tong, arriving as a friendly scholar, offers the obvious remedy: chain the ships together in ranks and plank them over, and the fleet becomes as steady as dry land.",
+    "It works exactly as promised. It also makes the fleet one object, which cannot be moved and cannot be separated."
+  ],
+  "history": "Pang Tong was real and Cao Cao's ships were linked; whether anyone talked him into it is the novel's contribution.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "xiangyang",
+      "fancheng",
+      "xinye",
+      "jiangling",
+      "wulin"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "xiakou",
+      "baqiu",
+      "xiakou"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "shu": [
+      "xiakou"
+    ]
+  },
+  "pins": [
+    {
+      "character": "pangtong",
+      "at": "wulin",
+      "note": "Sells him a cure that is also a trap."
+    },
+    {
+      "character": "caocao",
+      "at": "wulin",
+      "note": "Chains his fleet into one target."
+    },
+    {
+      "character": "zhouyu",
+      "at": "chaisang"
+    },
+    {
+      "character": "zhugeliang",
+      "at": "chaisang"
+    }
+  ],
+  "focus": {
+    "lon": 114.0,
+    "lat": 29.9,
+    "zoom": 6.0
+  }
+}

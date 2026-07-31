@@ -1,0 +1,110 @@
+{
+  "n": 78,
+  "title": "Hua Tuo Dies in Prison; Cao Cao Dies at Luoyang",
+  "year": "220",
+  "summary": [
+    "Cao Cao's headaches become unbearable and Hua Tuo proposes to open his skull. Cao Cao, who has spent his life expecting to be murdered, concludes this is an assassination and has him beaten to death in prison; the medical writings Hua Tuo leaves to his jailer are burned by the jailer's wife.",
+    "Cao Cao dies at sixty-six, having divided his perfumes among his women and given instructions about his shoes. He never took the imperial title."
+  ],
+  "history": "Historical, including Hua Tuo's death and the perfumes. The will's preoccupation with small domestic matters is real and has puzzled readers for eighteen centuries.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "shangyong"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "huatuo",
+      "at": "xuchang",
+      "note": "Beaten to death for proposing surgery."
+    },
+    {
+      "character": "caocao",
+      "at": "luoyang",
+      "note": "Dies at sixty-six, dividing his perfumes."
+    },
+    {
+      "character": "caopi",
+      "at": "ye",
+      "note": "Inherits everything but the title."
+    },
+    {
+      "character": "simayi",
+      "at": "luoyang"
+    },
+    {
+      "character": "emperorxian",
+      "at": "xuchang",
+      "note": "Has one year left."
+    }
+  ],
+  "focus": {
+    "lon": 113.0,
+    "lat": 34.4,
+    "zoom": 5.0
+  }
+}

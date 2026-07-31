@@ -1,0 +1,107 @@
+{
+  "n": 43,
+  "title": "The Sleeping Dragon Debates the Scholars of Wu",
+  "year": "208",
+  "summary": [
+    "Zhuge Liang crosses to Chaisang with nothing to offer and one thing to sell: the idea that Sun Quan can fight. Zhang Zhao and the civil officers, who want to surrender and keep their offices, take him apart one at a time in open court, and he answers all of them.",
+    "He then goes to Sun Quan and does not argue at all. He observes that if Wu cannot fight, Wu should certainly surrender — and watches the young man's face change."
+  ],
+  "history": "The embassy is historical; the debate is the novel's finest set-piece and almost entirely invented.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "xiangyang",
+      "fancheng",
+      "xinye",
+      "jiangling",
+      "wulin"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "xiakou",
+      "baqiu",
+      "xiakou"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "shu": [
+      "xiakou"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhugeliang",
+      "at": "chaisang",
+      "note": "Sells a war to a court that wants to surrender."
+    },
+    {
+      "character": "sunquan",
+      "at": "chaisang",
+      "from": "jianye"
+    },
+    {
+      "character": "zhangzhao",
+      "at": "chaisang",
+      "note": "Leads the party for surrender."
+    },
+    {
+      "character": "lusu",
+      "at": "chaisang",
+      "note": "Brought him across."
+    },
+    {
+      "character": "liubei",
+      "at": "xiakou"
+    }
+  ],
+  "focus": {
+    "lon": 116.0,
+    "lat": 29.9,
+    "zoom": 5.8
+  }
+}

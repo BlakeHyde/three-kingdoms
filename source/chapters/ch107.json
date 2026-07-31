@@ -1,0 +1,112 @@
+{
+  "n": 107,
+  "title": "Sima Yi Takes the State; Jiang Wei Marches North",
+  "year": "249-253",
+  "summary": [
+    "Cao Shuang is promised his life and his estates, surrenders his seals, and is executed with three clans a few days later. Wei is now the Sima family's, and everyone knows it.",
+    "In Shu, Jiang Wei begins the campaigns he will pursue for the rest of his life — nine of them, against a state with five times his resources, in fulfilment of a promise to a dead man."
+  ],
+  "history": "Historical. Jiang Wei's campaigns exhausted Shu and are blamed, then and now, for its fall; the novel treats them as loyalty rather than folly, but does not hide the cost.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "caoshuang",
+      "at": "luoyang",
+      "note": "Promised his life, and executed with three clans."
+    },
+    {
+      "character": "simayi",
+      "at": "luoyang"
+    },
+    {
+      "character": "jiangwei",
+      "at": "qishan",
+      "from": "hanzhong",
+      "note": "Begins nine campaigns he cannot win."
+    },
+    {
+      "character": "dengai",
+      "at": "changan",
+      "note": "Sent west to stop him."
+    },
+    {
+      "character": "feiyi",
+      "at": "chengdu",
+      "note": "Rations his armies to keep the state solvent."
+    }
+  ],
+  "focus": {
+    "lon": 109.0,
+    "lat": 34.0,
+    "zoom": 4.4
+  }
+}

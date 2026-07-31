@@ -1,0 +1,115 @@
+{
+  "n": 25,
+  "title": "Guan Yu Surrenders on Three Conditions; He Kills Yan Liang to Repay a Kindness",
+  "year": "200",
+  "summary": [
+    "Surrounded, Guan Yu surrenders — to the Han, not to Cao Cao; the wives to be maintained in their own household; and leave to go the moment he learns where Liu Bei is. Cao Cao accepts all three, and then spends months trying to buy him with a title, a fortune, gowns, feasts and Red Hare.",
+    "Guan Yu takes the horse, because it will carry him to his brother faster. When Yan Liang's champions are killing everyone Cao Cao sends against them, Guan Yu rides down the slope, splits Yan Liang before he can rise, and comes back with the head."
+  ],
+  "history": "The three conditions are the novel's. The killing of Yan Liang is historical and was exactly this abrupt.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "baima",
+      "yanjin"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling",
+      "lingling",
+      "guiyang",
+      "xinye",
+      "fancheng"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "yuanshao": [
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan"
+    ]
+  },
+  "pins": [
+    {
+      "character": "guanyu",
+      "at": "baima",
+      "from": "xiapi",
+      "note": "Surrenders on three conditions, then kills Yan Liang."
+    },
+    {
+      "character": "yanliang",
+      "at": "baima",
+      "note": "Killed before he can rise."
+    },
+    {
+      "character": "caocao",
+      "at": "baima",
+      "from": "xuchang",
+      "note": "Cannot buy him, and knows it."
+    },
+    {
+      "character": "zhangliao",
+      "at": "baima",
+      "note": "Carries the terms."
+    },
+    {
+      "character": "liubei",
+      "at": "ye",
+      "note": "In the enemy camp, watching his brother fight for the wrong side."
+    },
+    {
+      "character": "yuanshao",
+      "at": "ye"
+    }
+  ],
+  "focus": {
+    "lon": 114.6,
+    "lat": 35.3,
+    "zoom": 5.6
+  }
+}

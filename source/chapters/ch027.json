@@ -1,0 +1,102 @@
+{
+  "n": 27,
+  "title": "Riding Alone a Thousand Li; Five Passes and Six Commanders",
+  "year": "200",
+  "summary": [
+    "Guan Yu has no travel warrant, and every gate between him and his brother is shut. He forces five passes in succession and kills six commanders doing it, escorting two carriages the whole way, and stopping to be polite to each garrison before he kills its officer."
+  ],
+  "history": "Entirely fictional — a set-piece invented for the novel. Guan Yu's real journey was unopposed, because Cao Cao had said to let him go.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "baima",
+      "yanjin"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling",
+      "lingling",
+      "guiyang",
+      "xinye",
+      "fancheng"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "yuanshao": [
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan"
+    ]
+  },
+  "pins": [
+    {
+      "character": "guanyu",
+      "at": "hulao",
+      "from": "xuchang",
+      "note": "Five passes, six commanders, two carriages."
+    },
+    {
+      "character": "zhoucang",
+      "at": "hulao",
+      "note": "Joins him on the road."
+    },
+    {
+      "character": "caocao",
+      "at": "xuchang"
+    },
+    {
+      "character": "liubei",
+      "at": "ye"
+    }
+  ],
+  "focus": {
+    "lon": 113.8,
+    "lat": 34.7,
+    "zoom": 5.6
+  }
+}

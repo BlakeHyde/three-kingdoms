@@ -1,0 +1,110 @@
+{
+  "n": 108,
+  "title": "Sun Quan Dies; Ding Feng Attacks in the Snow",
+  "year": "252",
+  "summary": [
+    "Sun Quan dies at seventy-one, having outlived every one of his contemporaries and most of his own sons, and leaves a child heir and a regent, Zhuge Ke, with a high opinion of himself.",
+    "Wei attacks across the ice and Ding Feng answers by having his men strip off their armour and helmets and go in through the snow with short blades. Wei's officers are still laughing at them when the camp is overrun."
+  ],
+  "history": "Historical, including the stripped armour. Sun Quan's long reign and disastrous succession arrangements are the beginning of Wu's end.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "sunquan",
+      "at": "jianye",
+      "note": "Dies at seventy-one, having outlived them all."
+    },
+    {
+      "character": "zhugeke",
+      "at": "jianye",
+      "note": "Regent, and sure of himself."
+    },
+    {
+      "character": "dingfeng",
+      "at": "ruxu",
+      "note": "Attacks through the snow in shirtsleeves."
+    },
+    {
+      "character": "simashi",
+      "at": "luoyang"
+    },
+    {
+      "character": "jiangwei",
+      "at": "hanzhong"
+    }
+  ],
+  "focus": {
+    "lon": 118.0,
+    "lat": 31.8,
+    "zoom": 4.6
+  }
+}

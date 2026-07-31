@@ -1,0 +1,123 @@
+{
+  "n": 53,
+  "title": "Guan Yu and Huang Zhong Decline to Kill Each Other; Zhang Liao Holds Xiaoyao Ford",
+  "year": "209-215",
+  "summary": [
+    "At Changsha the sixty-year-old Huang Zhong is unhorsed and Guan Yu will not strike him; the next day Huang Zhong, who never misses, puts his arrow through Guan Yu's helmet plume on purpose. Their governor tries to execute Huang Zhong for it, and Wei Yan kills the governor and opens the gates.",
+    "In the east Sun Quan attacks Hefei and Zhang Liao breaks him at Xiaoyao Ford with eight hundred men against ten thousand — a defeat so total that Wu mothers were said to quiet children with Zhang Liao's name."
+  ],
+  "history": "Both are historical. Xiaoyao Ford was one of the great disasters of Sun Quan's career and he never entirely lived it down.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu"
+    ],
+    "shu": [
+      "jiangling",
+      "xiakou",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xinye"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "guanyu",
+      "at": "changsha",
+      "from": "jiangling",
+      "note": "Will not kill an unhorsed old man."
+    },
+    {
+      "character": "huangzhong",
+      "at": "changsha",
+      "note": "Shoots the plume off his helmet instead of his head."
+    },
+    {
+      "character": "weiyan",
+      "at": "changsha",
+      "note": "Kills his own governor and opens the gate."
+    },
+    {
+      "character": "sunquan",
+      "at": "hefei",
+      "from": "jianye",
+      "note": "Broken by eight hundred men."
+    },
+    {
+      "character": "zhangliao",
+      "at": "hefei",
+      "note": "Eight hundred against ten thousand."
+    },
+    {
+      "character": "ganning",
+      "at": "hefei"
+    },
+    {
+      "character": "zhoutai",
+      "at": "hefei",
+      "note": "Cuts him out of the encirclement."
+    }
+  ],
+  "focus": {
+    "lon": 115.0,
+    "lat": 30.5,
+    "zoom": 4.8
+  }
+}

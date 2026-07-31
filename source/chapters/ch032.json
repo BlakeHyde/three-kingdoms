@@ -1,0 +1,121 @@
+{
+  "n": 32,
+  "title": "The Yuan Brothers Fight over the Inheritance; Ye Falls",
+  "year": "202-204",
+  "summary": [
+    "Yuan Shao dies and his sons immediately begin fighting each other over what is left, which saves Cao Cao the trouble of fighting them together. Ye is besieged, flooded and taken; Shen Pei is executed facing north, towards his dead lord.",
+    "Cao Pi finds Yuan Xi's wife, the Lady Zhen, among the captives and takes her for himself, which his father permits."
+  ],
+  "history": "Historical, including the fratricide, the flooding of Ye, and Cao Pi's acquisition of the Lady Zhen.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "ye",
+      "nanpi",
+      "huguan"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling",
+      "lingling",
+      "guiyang",
+      "fancheng"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "yuanshao": [
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing"
+    ],
+    "shu": [
+      "xinye"
+    ]
+  },
+  "pins": [
+    {
+      "character": "caocao",
+      "at": "ye",
+      "note": "Takes Yuan Shao's capital."
+    },
+    {
+      "character": "yuantan",
+      "at": "nanpi",
+      "note": "At war with his own brother."
+    },
+    {
+      "character": "yuanshang",
+      "at": "ji"
+    },
+    {
+      "character": "shenpei",
+      "at": "ye",
+      "note": "Executed facing north."
+    },
+    {
+      "character": "caopi",
+      "at": "ye",
+      "note": "Takes the Lady Zhen."
+    },
+    {
+      "character": "liubei",
+      "at": "xinye"
+    }
+  ],
+  "focus": {
+    "lon": 115.0,
+    "lat": 36.5,
+    "zoom": 5.2
+  }
+}

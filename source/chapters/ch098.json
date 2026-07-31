@@ -1,0 +1,110 @@
+{
+  "n": 98,
+  "title": "Wang Shuang Rides into an Ambush; Cao Xiu Dies of Chagrin",
+  "year": "229",
+  "summary": [
+    "Withdrawing, Zhuge Liang leaves Wei Yan behind a ridge, and the pursuing Wang Shuang is killed at a run without ever seeing who did it.",
+    "In the east, Cao Xiu's hundred thousand walk into Lu Xun at Shiting and are cut apart. Cao Xiu gets home and dies within weeks — of a boil on his back, the histories say, and of humiliation, the novel says."
+  ],
+  "history": "Both historical, including the cause of death and its widely assumed real cause.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "wangshuang",
+      "at": "chencang",
+      "note": "Killed at a run."
+    },
+    {
+      "character": "weiyan",
+      "at": "chencang"
+    },
+    {
+      "character": "caoxiu",
+      "at": "shouchun",
+      "note": "Beaten at Shiting, and dead of it within weeks."
+    },
+    {
+      "character": "luxun",
+      "at": "shouchun"
+    },
+    {
+      "character": "zhugeliang",
+      "at": "hanzhong",
+      "from": "chencang"
+    }
+  ],
+  "focus": {
+    "lon": 110.0,
+    "lat": 33.5,
+    "zoom": 4.4
+  }
+}

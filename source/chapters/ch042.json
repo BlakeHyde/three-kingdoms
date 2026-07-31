@@ -1,0 +1,107 @@
+{
+  "n": 42,
+  "title": "Zhang Fei Holds the Bridge Alone; Liu Qi Takes Them Off the River",
+  "year": "208",
+  "summary": [
+    "Zhang Fei stands at the far end of the Changban bridge with twenty riders, has them drag brushwood behind the treeline to raise dust, and shouts three times. An army stops. A man beside Cao Cao dies of fright. Then Zhang Fei pulls the bridge down, which tells Cao Cao he was bluffing — but by then Liu Qi's boats have taken them off the bank."
+  ],
+  "history": "Historical in its essentials, including the twenty riders and the dust. The novel adds the man frightened to death.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "xiangyang",
+      "fancheng",
+      "xinye",
+      "jiangling",
+      "wulin"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "xiakou",
+      "baqiu",
+      "xiakou"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "shu": [
+      "xiakou"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhangfei",
+      "at": "jiangling",
+      "note": "Twenty riders, some brushwood, and three shouts."
+    },
+    {
+      "character": "liubei",
+      "at": "xiakou",
+      "from": "jiangling"
+    },
+    {
+      "character": "liuqi",
+      "at": "xiakou",
+      "note": "Takes them off the bank."
+    },
+    {
+      "character": "zhugeliang",
+      "at": "chaisang",
+      "from": "xiakou",
+      "note": "Goes to make an alliance out of nothing."
+    },
+    {
+      "character": "caocao",
+      "at": "jiangling"
+    }
+  ],
+  "focus": {
+    "lon": 113.0,
+    "lat": 30.6,
+    "zoom": 5.6
+  }
+}

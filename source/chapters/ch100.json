@@ -1,0 +1,111 @@
+{
+  "n": 100,
+  "title": "Cao Zhen Dies of a Letter; a False Decree Calls the Army Home",
+  "year": "231",
+  "summary": [
+    "Zhuge Liang writes Cao Zhen, ill in his tent, a letter of such precise and courteous contempt that he dies reading it.",
+    "Then, with Sima Yi beaten back and the road open, the army is recalled by imperial decree — because Liu Shan's favourite eunuch has been paid by Wei to say that Zhuge Liang is planning to take the throne. He comes home, and the campaign is thrown away in the capital rather than the field."
+  ],
+  "history": "Cao Zhen's death and the recall are both historical; the novel supplies the letter, and the eunuch's bribe is the sort of thing that really did happen repeatedly.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "caozhen",
+      "at": "changan",
+      "note": "Dies reading a courteous letter."
+    },
+    {
+      "character": "zhugeliang",
+      "at": "hanzhong",
+      "from": "qishan",
+      "note": "Recalled by a decree that was bought."
+    },
+    {
+      "character": "liushan",
+      "at": "chengdu",
+      "note": "Signs what he is handed."
+    },
+    {
+      "character": "simayi",
+      "at": "changan"
+    },
+    {
+      "character": "jiangwei",
+      "at": "hanzhong"
+    }
+  ],
+  "focus": {
+    "lon": 108.0,
+    "lat": 33.8,
+    "zoom": 4.6
+  }
+}

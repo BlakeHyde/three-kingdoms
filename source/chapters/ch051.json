@@ -1,0 +1,114 @@
+{
+  "n": 51,
+  "title": "Zhou Yu Fights Cao Ren for Nan Commandery; Zhuge Liang Walks In Behind Him",
+  "year": "209",
+  "summary": [
+    "Zhou Yu spends a season and an arrow through the ribs prising Cao Ren out of Nan commandery, and comes up to the walls to find Zhao Yun already on them, holding the city with the seals Zhuge Liang collected while the fighting was going on elsewhere.",
+    "Jiangling, Xiangyang's southern approaches and the four commanderies below the river all change hands in a fortnight, and none of them to Wu. The alliance never entirely recovers."
+  ],
+  "history": "The quarrel over Jing province is historical and is the true beginning of the Wu-Shu enmity that eventually kills Guan Yu.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu"
+    ],
+    "shu": [
+      "jiangling",
+      "xiakou",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xinye"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhouyu",
+      "at": "jiangling",
+      "from": "chibi",
+      "note": "Takes an arrow, and then loses the city anyway."
+    },
+    {
+      "character": "caoren",
+      "at": "fancheng",
+      "from": "jiangling",
+      "note": "Driven out of Nan commandery."
+    },
+    {
+      "character": "zhaoyun",
+      "at": "jiangling",
+      "note": "On the walls before Wu arrives."
+    },
+    {
+      "character": "zhugeliang",
+      "at": "jiangling",
+      "note": "Collects the seals while others do the fighting."
+    },
+    {
+      "character": "liubei",
+      "at": "jiangling",
+      "from": "xiakou"
+    }
+  ],
+  "focus": {
+    "lon": 112.5,
+    "lat": 30.6,
+    "zoom": 5.6
+  }
+}

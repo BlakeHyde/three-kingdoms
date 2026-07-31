@@ -1,0 +1,120 @@
+{
+  "n": 81,
+  "title": "Zhang Fei Is Murdered in His Tent; the Emperor Marches East",
+  "year": "221",
+  "summary": [
+    "Ordered to produce white mourning banners for the whole army in three days, Zhang Fei flogs the two officers who tell him it cannot be done. They cut his throat that night and carry his head to Wu.",
+    "Liu Bei, who has now lost both brothers to the same enemy, refuses every argument against the war — including Zhao Yun's, that the enemy is Cao Pi and always was — and marches east with the whole strength of Shu."
+  ],
+  "history": "Historical, including the manner of Zhang Fei's death: he had a long record of beating officers he then kept close to him, and had been warned about it.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhangfei",
+      "at": "baidi",
+      "note": "Murdered by his own officers."
+    },
+    {
+      "character": "liubei",
+      "at": "baidi",
+      "from": "chengdu",
+      "note": "Will not be argued out of the war."
+    },
+    {
+      "character": "zhaoyun",
+      "at": "chengdu",
+      "note": "Argues that the enemy is Cao Pi, and is overruled."
+    },
+    {
+      "character": "zhugeliang",
+      "at": "chengdu",
+      "note": "Left behind to hold the province."
+    },
+    {
+      "character": "sunquan",
+      "at": "jianye",
+      "note": "Sues for peace, and is refused."
+    },
+    {
+      "character": "guanxing",
+      "at": "baidi"
+    },
+    {
+      "character": "zhangbao",
+      "at": "baidi"
+    }
+  ],
+  "focus": {
+    "lon": 108.0,
+    "lat": 31.0,
+    "zoom": 4.8
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "n": 21,
+  "title": "Cao Cao Discusses Heroes over Warm Wine; Guan Yu Takes Xuzhou by a Ruse",
+  "year": "199",
+  "summary": [
+    "Cao Cao invites Liu Bei to eat green plums and drink warmed wine, and asks him to name the heroes of the age. Liu Bei names everyone he can think of; Cao Cao dismisses them all and says: 'The only heroes in the world are you and I.' Liu Bei drops his chopsticks — and is saved by a thunderclap, which lets him pretend to be a man frightened of storms.",
+    "He gets himself sent out of the capital on campaign and does not come back. Guan Yu kills the governor of Xuzhou at the gate, and the province is theirs again."
+  ],
+  "history": "The conversation over plums is in the histories almost word for word, dropped chopsticks and all. It is the moment Cao Cao tells Liu Bei he knows exactly what he is.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "wan",
+      "henei"
+    ],
+    "yuanshao": [
+      "ye",
+      "nanpi",
+      "jieqiao",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang"
+    ],
+    "liubiao": [
+      "xiangyang",
+      "jiangling",
+      "changsha",
+      "wuling",
+      "lingling",
+      "guiyang",
+      "xinye",
+      "fancheng"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "kongrong": [
+      "beihai"
+    ],
+    "shu": [
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei"
+    ]
+  },
+  "pins": [
+    {
+      "character": "caocao",
+      "at": "xuchang",
+      "note": "'The only heroes in the world are you and I.'"
+    },
+    {
+      "character": "liubei",
+      "at": "xiapi",
+      "from": "xuchang",
+      "note": "Escapes the capital and takes Xuzhou back."
+    },
+    {
+      "character": "guanyu",
+      "at": "xiapi",
+      "note": "Kills Che Zhou at the gate."
+    },
+    {
+      "character": "zhangfei",
+      "at": "xiaopei"
+    },
+    {
+      "character": "chezhou",
+      "at": "xiapi",
+      "note": "Killed at the gate."
+    },
+    {
+      "character": "emperorxian",
+      "at": "xuchang"
+    },
+    {
+      "character": "yuanshao",
+      "at": "ye",
+      "note": "Preparing to come south."
+    }
+  ],
+  "focus": {
+    "lon": 114.5,
+    "lat": 34.3,
+    "zoom": 5.2
+  }
+}

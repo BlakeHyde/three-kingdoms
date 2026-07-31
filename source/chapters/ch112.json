@@ -1,0 +1,113 @@
+{
+  "n": 112,
+  "title": "Zhuge Dan Revolts at Shouchun",
+  "year": "257-258",
+  "summary": [
+    "Zhuge Dan, watching what has happened to everyone else who commanded an army for the Cao family, revolts with Wu's backing and shuts himself in Shouchun. Sima Zhao besieges it for the better part of a year with the child emperor brought along on campaign so nobody can use him.",
+    "The city starves and falls. Several hundred of Zhuge Dan's guards refuse to surrender and are executed one at a time, each asked in turn and each declining."
+  ],
+  "history": "Historical, including the executions. The sources record that they were killed one by one and that not one of them changed his mind.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping"
+    ],
+    "shu": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhugedan",
+      "at": "shouchun",
+      "note": "Revolts, and starves."
+    },
+    {
+      "character": "simazhao",
+      "at": "shouchun",
+      "from": "luoyang",
+      "note": "Brings the emperor on campaign so nobody else can use him."
+    },
+    {
+      "character": "wenyang",
+      "at": "shouchun",
+      "note": "Changes sides, and survives."
+    },
+    {
+      "character": "dingfeng",
+      "at": "shouchun",
+      "note": "Sent to help, too late."
+    },
+    {
+      "character": "jiangwei",
+      "at": "qishan",
+      "note": "Attacks in the west while Wei is busy."
+    }
+  ],
+  "focus": {
+    "lon": 116.8,
+    "lat": 32.0,
+    "zoom": 4.8
+  }
+}

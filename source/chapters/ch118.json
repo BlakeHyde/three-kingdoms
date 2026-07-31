@@ -1,0 +1,113 @@
+{
+  "n": 118,
+  "title": "Liu Shan Surrenders; His Son Kills His Family and Himself",
+  "year": "263",
+  "summary": [
+    "With one defeat and no army, Liu Shan is advised by the court astrologer to surrender and does so — sending his own seals out to Deng Ai with his face uncovered.",
+    "His fifth son Liu Chen argues for dying in the ruins of the city, is refused, and goes to his grandfather's shrine, kills his wife and children, and cuts his own throat. Shu ends after forty-three years."
+  ],
+  "history": "Historical, including Liu Chen. The novel gives him the dignity the surrender denies everyone else.",
+  "control": {
+    "wei": [
+      "luoyang",
+      "xuchang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu",
+      "jicheng",
+      "chencang",
+      "wuzhang",
+      "xiangping",
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng",
+      "hanzhong",
+      "dingjun",
+      "tiandang",
+      "jiange",
+      "shangyong",
+      "nanzhong",
+      "yinping",
+      "tazhong"
+    ],
+    "wu": [
+      "jianye",
+      "wu",
+      "kuaiji",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu",
+      "jiangling",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xiakou",
+      "maicheng",
+      "jiaozhi"
+    ]
+  },
+  "pins": [
+    {
+      "character": "liushan",
+      "at": "chengdu",
+      "note": "Surrenders with his face uncovered."
+    },
+    {
+      "character": "liuchen",
+      "at": "chengdu",
+      "note": "Kills his family at his grandfather's shrine, and then himself."
+    },
+    {
+      "character": "dengai",
+      "at": "chengdu",
+      "from": "mianzhu",
+      "note": "Takes the surrender, and starts behaving like a king."
+    },
+    {
+      "character": "jiangwei",
+      "at": "jiange",
+      "note": "Ordered by his emperor to lay down his arms."
+    },
+    {
+      "character": "zhonghui",
+      "at": "jiange",
+      "note": "Watching Deng Ai's conduct with interest."
+    }
+  ],
+  "focus": {
+    "lon": 104.5,
+    "lat": 31.0,
+    "zoom": 5.0
+  }
+}

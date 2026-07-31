@@ -1,0 +1,118 @@
+{
+  "n": 63,
+  "title": "Pang Tong Dies at Fallen Phoenix Slope; Zhang Fei Releases Yan Yan",
+  "year": "213-214",
+  "summary": [
+    "Pang Tong, whose Daoist name is Young Phoenix, rides into a defile called Fallen Phoenix Slope on Liu Bei's white horse — which he has swapped for out of courtesy — and is shot to pieces by archers who think they are killing Liu Bei. He is thirty-five.",
+    "Coming west with the relief army, Zhang Fei takes the veteran Yan Yan, who tells him to get on with the beheading. Zhang Fei unties him instead, and Yan Yan talks the whole western road into surrendering."
+  ],
+  "history": "Pang Tong really was killed by an arrow at Luo. The name of the slope is the novel's, and it is the most nakedly literary thing in the book.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "hefei",
+      "xiangyang",
+      "fancheng",
+      "changan",
+      "tongguan",
+      "meiwu"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "ruxu",
+      "baqiu"
+    ],
+    "shu": [
+      "jiangling",
+      "xiakou",
+      "changsha",
+      "lingling",
+      "guiyang",
+      "wuling",
+      "xinye"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng",
+      "jiameng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng"
+    ],
+    "liaodong": [
+      "xiangping"
+    ]
+  },
+  "pins": [
+    {
+      "character": "pangtong",
+      "at": "luocheng",
+      "from": "fuguan",
+      "note": "Killed on a borrowed white horse at a place named for him."
+    },
+    {
+      "character": "zhangren",
+      "at": "luocheng",
+      "note": "Whose archers do it."
+    },
+    {
+      "character": "zhangfei",
+      "at": "jiameng",
+      "from": "jiangling",
+      "note": "Unties a prisoner, and gains a road."
+    },
+    {
+      "character": "yanyan",
+      "at": "jiameng",
+      "note": "Tells him to get on with the beheading."
+    },
+    {
+      "character": "liubei",
+      "at": "fuguan"
+    },
+    {
+      "character": "zhugeliang",
+      "at": "jiangling",
+      "note": "Sets out west, leaving Guan Yu to hold Jing."
+    }
+  ],
+  "focus": {
+    "lon": 105.0,
+    "lat": 31.3,
+    "zoom": 5.6
+  }
+}

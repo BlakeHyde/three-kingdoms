@@ -1,0 +1,115 @@
+{
+  "n": 40,
+  "title": "Xinye Is Burned and Abandoned; Cao Cao Comes South",
+  "year": "208",
+  "summary": [
+    "Liu Biao dies. His younger son surrenders Jing province by letter without telling anyone, and is rewarded with a governorship far away and murdered on the road to it.",
+    "Zhuge Liang burns Xinye behind them and Liu Bei goes south — with a hundred thousand civilians who will not stay behind, moving at ten li a day, with Cao Cao's cavalry coming on at three hundred."
+  ],
+  "history": "The surrender of Jing and the flight south are historical. So, remarkably, is the crowd: Liu Bei really did refuse to abandon the people who followed him, and it nearly killed him.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "xiangyang",
+      "fancheng",
+      "xinye",
+      "jiangling",
+      "wulin"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "xiakou",
+      "baqiu",
+      "xiakou"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "shu": [
+      "xiakou"
+    ]
+  },
+  "pins": [
+    {
+      "character": "liucong",
+      "at": "xiangyang",
+      "note": "Surrenders the province by letter, and is killed for it."
+    },
+    {
+      "character": "liubiao",
+      "at": "xiangyang",
+      "note": "Dies."
+    },
+    {
+      "character": "caocao",
+      "at": "xiangyang",
+      "from": "xuchang",
+      "note": "Takes Jing province without a battle."
+    },
+    {
+      "character": "liubei",
+      "at": "jiangling",
+      "from": "xinye",
+      "note": "Burns the town and moves at ten li a day."
+    },
+    {
+      "character": "zhugeliang",
+      "at": "jiangling",
+      "from": "xinye"
+    },
+    {
+      "character": "liuqi",
+      "at": "xiakou",
+      "note": "Holds Jiangxia, and a way out."
+    }
+  ],
+  "focus": {
+    "lon": 112.5,
+    "lat": 32.0,
+    "zoom": 5.4
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "n": 45,
+  "title": "Jiang Gan Carries a Letter Home; Cao Cao Beheads His Own Admirals",
+  "year": "208",
+  "summary": [
+    "Cao Cao's fleet is handled by two surrendered Jing province admirals — the only men in his army who understand the river. Zhou Yu, visited by an old schoolfellow now working for Cao Cao, gets drunk on purpose, leaves a forged letter where it will be found, and talks in his sleep.",
+    "Jiang Gan steals the letter and rides home with it. Cao Cao has both admirals executed before the ink is dry, and understands what he has done about a minute afterwards."
+  ],
+  "history": "Invented. But the two admirals were real, and Cao Cao really did lose the only competent naval officers he had.",
+  "control": {
+    "wei": [
+      "xuchang",
+      "luoyang",
+      "yanzhou",
+      "puyang",
+      "guandu",
+      "hulao",
+      "runan",
+      "shouchun",
+      "tan",
+      "pengcheng",
+      "xiapi",
+      "xiaopei",
+      "wan",
+      "henei",
+      "ye",
+      "nanpi",
+      "jinyang",
+      "ji",
+      "zhuo",
+      "yijing",
+      "cangting",
+      "huguan",
+      "baima",
+      "yanjin",
+      "xiangyang",
+      "fancheng",
+      "xinye",
+      "jiangling",
+      "wulin"
+    ],
+    "wu": [
+      "wu",
+      "kuaiji",
+      "jianye",
+      "danyang",
+      "chaisang",
+      "lujiang",
+      "xiakou",
+      "baqiu",
+      "xiakou"
+    ],
+    "liuzhang": [
+      "chengdu",
+      "mianzhu",
+      "baidi",
+      "fuguan",
+      "luocheng"
+    ],
+    "zhanglu": [
+      "hanzhong"
+    ],
+    "xiliang": [
+      "jicheng",
+      "changan",
+      "meiwu",
+      "tongguan"
+    ],
+    "liaodong": [
+      "xiangping"
+    ],
+    "shu": [
+      "xiakou"
+    ]
+  },
+  "pins": [
+    {
+      "character": "zhouyu",
+      "at": "chaisang",
+      "note": "Talks in his sleep, loudly."
+    },
+    {
+      "character": "caimao",
+      "at": "wulin",
+      "note": "Executed on a forged letter."
+    },
+    {
+      "character": "caocao",
+      "at": "wulin",
+      "note": "Kills the only two men who understood the river."
+    },
+    {
+      "character": "zhugeliang",
+      "at": "chaisang"
+    },
+    {
+      "character": "lusu",
+      "at": "chaisang"
+    }
+  ],
+  "focus": {
+    "lon": 114.5,
+    "lat": 30.0,
+    "zoom": 5.8
+  }
+}
