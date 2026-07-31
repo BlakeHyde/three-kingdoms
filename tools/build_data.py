@@ -191,6 +191,7 @@ def main() -> int:
     factions = load("factions.json")["factions"]
     characters = load("characters.json")["characters"]
     places = load("places.json")["places"]
+    rivers = load("rivers.json")["rivers"]
 
     # -- factions
     for fid, f in factions.items():
@@ -226,6 +227,14 @@ def main() -> int:
                               readings, where)
         if not (92.0 <= p["lon"] <= 132.0 and 15.0 <= p["lat"] <= 50.0):
             fail(f"{where}: ({p['lon']}, {p['lat']}) is outside the map window")
+
+    # -- rivers
+    for rid, r in rivers.items():
+        r["id"] = rid
+        r["names"] = name_for({"given": r["hanzi"]}, readings, f"rivers.{rid}")
+        lon, lat = r["at"]
+        if not (92.0 <= lon <= 132.0 and 15.0 <= lat <= 50.0):
+            fail(f"rivers.{rid}: label anchor ({lon}, {lat}) is outside the map window")
 
     # -- chapters
     chapters = []
@@ -272,13 +281,14 @@ def main() -> int:
         "factions": factions,
         "characters": characters,
         "places": places,
+        "rivers": rivers,
         "chapters": chapters,
     }
     path = OUT / "corpus.json"
     path.write_text(json.dumps(bundle, ensure_ascii=False, separators=(",", ":")))
 
     print(f"  {len(factions)} factions, {len(characters)} characters, "
-          f"{len(places)} places, {len(chapters)} chapters")
+          f"{len(places)} places, {len(rivers)} rivers, {len(chapters)} chapters")
     print(f"  -> {path.relative_to(ROOT)}  ({path.stat().st_size / 1024:.0f} KB)")
     return 0
 

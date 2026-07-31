@@ -7,18 +7,36 @@
  * builds the regions:
  *
  *   1. sample a grid over the map, keeping cells that are on land
- *   2. assign each cell to whichever faction's nearest holding is closest, scaled by
- *      that holding's political weight -- a provincial capital reaches much further
- *      than a mountain pass -- and leave it unclaimed if nothing is near enough
+ *   2. spread control outward from each holding over that grid, spending a budget set
+ *      by the holding's political weight, and charging more to cross high or steep
+ *      ground; a cell goes to whichever faction reaches it most cheaply, and stays
+ *      unclaimed if nobody can afford it
  *   3. trace the boundary of each faction's cells and round the corners off
  *
- * The result is a weighted Voronoi with an empty frontier, which is about as honest as
- * a filled map of this period can be.
+ * Step 2 is a least-cost spread rather than straight-line distance, because straight
+ * lines get this period badly wrong: they run Liu Zhang's authority from Chengdu over
+ * the Daliang Shan and deep into Yunnan, when that country was Meng Huo's precisely
+ * because Chengdu could not hold it. Control here followed valleys and stopped at
+ * ranges. It also means control cannot cross open sea, which is correct: Liaodong is
+ * reachable by the coast road and not otherwise.
+ *
+ * The result is a terrain-weighted Voronoi with an empty frontier, which is about as
+ * honest as a filled map of this period can be.
  */
 
 const GRID_STEP = 0.2;          // degrees; ~22 km, fine enough that smoothing hides it
 const KM_PER_WEIGHT = 78;       // how far one unit of `weight` projects control
 const SMOOTH_PASSES = 3;        // Chaikin rounds
+
+// Terrain friction. A step costs its horizontal distance multiplied by
+//   1 + ELEVATION_TAX * (mean elevation in km) + SLOPE_TAX * (gradient)
+// so the Sichuan basin is nearly free, the Yunnan plateau is expensive to hold from
+// anywhere, and a range crossing costs several times its map distance. Both are tuning
+// knobs, not measurements -- they are set so the resulting frontiers match where the
+// novel actually places the boundaries.
+const ELEVATION_TAX = 0.55;
+const SLOPE_TAX = 9.0;
+const MAX_FRICTION = 12;        // a cliff is not infinitely expensive, just prohibitive
 
 const WINDOW = { west: 92, east: 132, south: 15, north: 50 };
 
@@ -30,7 +48,16 @@ const cellLat = (j) => WINDOW.south + (j + 0.5) * GRID_STEP;
 
 /* ------------------------------------------------------------------ land mask */
 
-let landMask = null; // Uint8Array, one byte per cell
+let landMask = null;  // Uint8Array, one byte per cell
+let elevation = null; // Uint16Array of decimetres, same indexing as landMask
+
+/** Elevation grid from tools/build_elevation.py: uint16 decimetres, row 0 = south. */
+export function setElevation(grid) {
+  if (grid.length !== cols * rows) {
+    throw new Error(`elevation grid is ${grid.length}, expected ${cols * rows}`);
+  }
+  elevation = grid;
+}
 
 function ringsOf(geometry) {
   if (geometry.type === "Polygon") return [geometry.coordinates];
@@ -98,45 +125,164 @@ export function buildLandMask(landGeoJSON) {
 const KM_PER_DEG = 111.32;
 
 function assignCells(control, places) {
-  const owner = new Int16Array(cols * rows).fill(-1);
+  if (!elevation) throw new Error("setElevation() must run before buildTerritories()");
+
+  const total = cols * rows;
+  const cost = new Float32Array(total).fill(Infinity);
+  const owner = new Int16Array(total).fill(-1);
+  const budget = new Float32Array(total);      // reach of whichever site got here
   const factionIds = Object.keys(control);
 
-  const sites = [];
+  // -- seed every holding
+  const heap = new MinHeap(total);
   factionIds.forEach((fid, index) => {
     for (const placeId of control[fid]) {
       const place = places[placeId];
       if (!place) continue;
-      sites.push({
-        faction: index,
-        lon: place.lon,
-        lat: place.lat,
-        reach: KM_PER_WEIGHT * ((place.weight ?? 1) + 1),
-      });
+      const seed = nearestLandCell(place.lon, place.lat);
+      if (seed < 0) continue;                  // holding is nowhere near land
+      const reach = KM_PER_WEIGHT * ((place.weight ?? 1) + 1);
+      // A cell seeded twice keeps the stronger claim, so a capital is not demoted by a
+      // village sharing its grid square.
+      if (cost[seed] === 0 && budget[seed] >= reach) continue;
+      cost[seed] = 0;
+      owner[seed] = index;
+      budget[seed] = reach;
+      heap.push(0, seed);
     }
   });
 
-  for (let j = 0; j < rows; j++) {
+  // -- spread outward, cheapest first
+  // Dijkstra over the grid. Each cell's score is the fraction of its origin's budget
+  // spent getting there, so a cell is claimed while that stays under 1. Edge weights
+  // depend on which site the path came from, which is fine: this is just every site's
+  // search running at once, with the origin carried along.
+  while (heap.size) {
+    const node = heap.pop();
+    // Lazy deletion: a cell can be queued several times as cheaper routes are found,
+    // so drop any copy whose key is worse than the best cost recorded for that cell.
+    if (heap.lastKey > cost[node]) continue;
+    const here = cost[node];
+
+    const i = node % cols;
+    const j = (node - i) / cols;
     const lat = cellLat(j);
     const lonScale = Math.cos((lat * Math.PI) / 180) * KM_PER_DEG;
-    for (let i = 0; i < cols; i++) {
-      const index = j * cols + i;
-      if (!landMask[index]) continue;
-      const lon = cellLon(i);
+    const elevHere = elevation[node] / 10000;                            // decimetres -> km
+    const reach = budget[node];
 
-      let best = Infinity;
-      let bestFaction = -1;
-      for (const site of sites) {
-        const dx = (lon - site.lon) * lonScale;
-        const dy = (lat - site.lat) * KM_PER_DEG;
-        // Normalising by reach is what makes this a *weighted* Voronoi: a capital
-        // out-competes a nearer village.
-        const score = Math.sqrt(dx * dx + dy * dy) / site.reach;
-        if (score < best) { best = score; bestFaction = site.faction; }
+    for (let dj = -1; dj <= 1; dj++) {
+      const nj = j + dj;
+      if (nj < 0 || nj >= rows) continue;
+      for (let di = -1; di <= 1; di++) {
+        if (di === 0 && dj === 0) continue;
+        const ni = i + di;
+        if (ni < 0 || ni >= cols) continue;
+
+        const next = nj * cols + ni;
+        if (!landMask[next]) continue;
+
+        const dx = di * GRID_STEP * lonScale;
+        const dy = dj * GRID_STEP * KM_PER_DEG;
+        const stepKm = Math.sqrt(dx * dx + dy * dy);
+
+        const elevNext = elevation[next] / 10000;
+        const meanKm = (elevHere + elevNext) / 2;
+        const gradient = Math.abs(elevNext - elevHere) / stepKm;
+        const friction = Math.min(
+          MAX_FRICTION,
+          1 + ELEVATION_TAX * meanKm + SLOPE_TAX * gradient
+        );
+
+        const candidate = here + (stepKm * friction) / reach;
+        if (candidate >= 1 || candidate >= cost[next]) continue;
+
+        cost[next] = candidate;
+        owner[next] = owner[node];
+        budget[next] = reach;
+        heap.push(candidate, next);
       }
-      if (best <= 1) owner[index] = bestFaction;
     }
   }
   return { owner, factionIds };
+}
+
+/** Snap a holding to a land cell, searching outward a little for coastal sites whose
+ *  centre lands in the sea at this resolution. */
+function nearestLandCell(lon, lat) {
+  const i0 = Math.floor((lon - WINDOW.west) / GRID_STEP);
+  const j0 = Math.floor((lat - WINDOW.south) / GRID_STEP);
+  for (let radius = 0; radius <= 3; radius++) {
+    for (let dj = -radius; dj <= radius; dj++) {
+      for (let di = -radius; di <= radius; di++) {
+        if (radius > 0 && Math.abs(di) !== radius && Math.abs(dj) !== radius) continue;
+        const i = i0 + di;
+        const j = j0 + dj;
+        if (i < 0 || j < 0 || i >= cols || j >= rows) continue;
+        const index = j * cols + i;
+        if (landMask[index]) return index;
+      }
+    }
+  }
+  return -1;
+}
+
+/** Binary min-heap over (key, value) pairs, sized once. Lazy deletion: a node can be
+ *  pushed more than once and stale copies are skipped when popped. */
+class MinHeap {
+  constructor(capacity) {
+    this.keys = new Float32Array(capacity * 4);
+    this.values = new Int32Array(capacity * 4);
+    this.size = 0;
+    this.lastKey = 0;
+  }
+
+  push(key, value) {
+    if (this.size === this.keys.length) this.grow();
+    let n = this.size++;
+    this.keys[n] = key;
+    this.values[n] = value;
+    while (n > 0) {
+      const parent = (n - 1) >> 1;
+      if (this.keys[parent] <= this.keys[n]) break;
+      this.swap(parent, n);
+      n = parent;
+    }
+  }
+
+  pop() {
+    const top = this.values[0];
+    this.lastKey = this.keys[0];
+    this.size--;
+    if (this.size > 0) {
+      this.keys[0] = this.keys[this.size];
+      this.values[0] = this.values[this.size];
+      let n = 0;
+      for (;;) {
+        const left = 2 * n + 1;
+        const right = left + 1;
+        let smallest = n;
+        if (left < this.size && this.keys[left] < this.keys[smallest]) smallest = left;
+        if (right < this.size && this.keys[right] < this.keys[smallest]) smallest = right;
+        if (smallest === n) break;
+        this.swap(smallest, n);
+        n = smallest;
+      }
+    }
+    return top;
+  }
+
+  swap(a, b) {
+    const k = this.keys[a]; this.keys[a] = this.keys[b]; this.keys[b] = k;
+    const v = this.values[a]; this.values[a] = this.values[b]; this.values[b] = v;
+  }
+
+  grow() {
+    const keys = new Float32Array(this.keys.length * 2);
+    const values = new Int32Array(this.values.length * 2);
+    keys.set(this.keys); values.set(this.values);
+    this.keys = keys; this.values = values;
+  }
 }
 
 /* ------------------------------------------------------------ boundary tracing */

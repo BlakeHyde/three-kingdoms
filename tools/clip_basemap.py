@@ -32,11 +32,10 @@ BASE = "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/ge
 # Hexi corridor and Qiang country in the west.
 WINDOW = box(92.0, 15.0, 132.0, 50.0)
 
-# Natural Earth's 50m layers carry scalerank rather than the length_km/sqkm columns
-# the 10m ones have, so importance is filtered on rank. Rank 8 is generous on purpose:
-# tributaries the campaigns turn on (the Wei, the Han, the Ru) rank well below the
-# Yangtze but decide where armies can actually cross.
-MAX_RIVER_RANK = 8
+# Rivers come from the 10m set, not 50m: the Wei, the Huai and the Xiang are missing
+# entirely at 50m, and those are the three the campaigns actually turn on. Rather than
+# filter on rank, keep exactly the courses named in source/rivers.json -- if a river is
+# worth drawing on this map it is worth labelling, and if it is not it is clutter.
 MAX_LAKE_RANK = 3
 
 
@@ -95,6 +94,43 @@ def strip_props(features: list[dict], keys: tuple[str, ...]) -> list[dict]:
     return features
 
 
+def check_rivers_connected(features: list[dict], named: dict) -> None:
+    """Fail if one river's courses fall into clusters far apart.
+
+    Matching Natural Earth by name alone is fragile: 'Han' is both the Chinese 漢水 and
+    the Korean river through Seoul, so the map briefly drew a watercourse near Seoul
+    labelled 漢水. A river that is really one river is connected; two clusters a
+    thousand km apart means the name matched something else.
+    """
+    problems = []
+    for rid in named:
+        geoms = [shape(f["geometry"]) for f in features if f["properties"]["river"] == rid]
+        if not geoms:
+            problems.append(f"{rid}: no courses matched {named[rid]['match']}")
+            continue
+
+        clusters: list = []
+        for geom in geoms:
+            merged = [geom]
+            rest = []
+            for cluster in clusters:
+                (merged if cluster.distance(geom) < 0.4 else rest).append(cluster)
+            clusters = rest + [unary_union(merged)]
+
+        if len(clusters) > 1:
+            spread = max(a.distance(b) for a in clusters for b in clusters)
+            if spread > 2.0:
+                boxes = "; ".join(str([round(v, 1) for v in c.bounds]) for c in clusters)
+                problems.append(f"{rid}: {len(clusters)} disconnected clusters "
+                                f"{spread:.1f} deg apart -- {boxes}")
+
+    if problems:
+        print("\n  river problems:", file=sys.stderr)
+        for p in problems:
+            print(f"    - {p}", file=sys.stderr)
+        raise SystemExit(1)
+
+
 def main() -> int:
     print("Clipping Natural Earth to the map window ...")
 
@@ -108,12 +144,33 @@ def main() -> int:
     merged = unary_union([shape(f["geometry"]) for f in land]).simplify(0.02)
     write("landmask", [{"type": "Feature", "properties": {}, "geometry": mapping(merged)}])
 
-    rivers = clip(
-        fetch("ne_50m_rivers_lake_centerlines"),
-        simplify=0.005,
-        keep=lambda p: rank(p, MAX_RIVER_RANK),
-    )
-    write("rivers", strip_props(rivers, ("name", "name_en")))
+    named = json.loads((ROOT / "source" / "rivers.json").read_text())["rivers"]
+    wanted = {alias: rid for rid, r in named.items() for alias in r["match"]}
+
+    def keep_river(props: dict) -> bool:
+        rid = wanted.get(props.get("name") or props.get("name_en"))
+        return rid is not None
+
+    rivers = clip(fetch("ne_10m_rivers_lake_centerlines"), simplify=0.004, keep=keep_river)
+
+    # Apply per-river bounding boxes for names Natural Earth reuses across the region.
+    bounded = []
+    for feature in rivers:
+        props = feature["properties"]
+        rid = wanted[props.get("name") or props.get("name_en")]
+        limit = named[rid].get("within")
+        if limit and not shape(feature["geometry"]).intersects(box(*limit)):
+            continue
+        bounded.append(feature)
+    rivers = bounded
+    # Tag each course with the river it belongs to, so the app can style by importance
+    # and hang one label on a river made of several Natural Earth segments.
+    for feature in rivers:
+        props = feature["properties"]
+        rid = wanted[props.get("name") or props.get("name_en")]
+        feature["properties"] = {"river": rid, "rank": named[rid]["rank"]}
+    check_rivers_connected(rivers, named)
+    write("rivers", rivers)
 
     lakes = clip(
         fetch("ne_50m_lakes"),

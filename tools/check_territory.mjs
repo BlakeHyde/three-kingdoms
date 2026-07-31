@@ -22,7 +22,7 @@ const ROOT = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
 const DATA = path.join(ROOT, "web", "data");
 const read = (p) => JSON.parse(fs.readFileSync(path.join(DATA, p), "utf8"));
 
-const { buildLandMask, buildTerritories } = await import(
+const { buildLandMask, setElevation, buildTerritories } = await import(
   path.join(ROOT, "web", "js", "territory.js")
 );
 
@@ -30,6 +30,12 @@ const GRID_STEP = 0.2;      // must match territory.js
 const MAX_STEP = GRID_STEP * 1.5;
 
 buildLandMask(read("basemap/landmask.geojson"));
+
+const elevationBytes = fs.readFileSync(path.join(DATA, "basemap", "elevation.bin"));
+setElevation(new Uint16Array(
+  elevationBytes.buffer, elevationBytes.byteOffset, elevationBytes.length / 2
+));
+
 const corpus = read("corpus.json");
 
 const problems = [];

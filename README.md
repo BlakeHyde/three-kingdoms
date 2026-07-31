@@ -11,10 +11,24 @@ Names can be read in **Pinyin, Wade–Giles, Yale, Vietnamese, Korean or Japanes
 All 120 chapters are mapped.
 
 ```
-uv run tools/clip_basemap.py     # once: fetch + clip the basemap
+uv run tools/clip_basemap.py     # once: fetch + clip coastline and rivers
+uv run tools/build_relief.py     # once: bake the shaded-relief basemap image
+uv run tools/build_elevation.py  # once: elevation grid for the terrain model
 uv run tools/build_data.py       # compile source/ -> web/data/corpus.json
+node tools/check_territory.mjs   # geometry regression check
 python3 -m http.server 8787 -d web
 ```
+
+`build_relief.py` needs the Natural Earth raster in `data_cache/` first:
+
+```
+curl -sSL -o data_cache/NE2_HR_LC_SR_W.zip \
+  https://naciscdn.org/naturalearth/10m/raster/NE2_HR_LC_SR_W.zip
+unzip -o data_cache/NE2_HR_LC_SR_W.zip -d data_cache/relief
+```
+
+That download is ~310 MB and the cache can be deleted afterwards; the 700 KB image it
+produces is what ships.
 
 Then open <http://localhost:8787/>. It is a static folder: no server-side code, no
 network access at runtime, no API keys. `#ch14` in the URL jumps to a chapter.
@@ -57,13 +71,53 @@ exists. It means mild foreshadowing, but a character's colour never changes unde
 
 ### Territory is derived, not drawn
 
-A chapter lists which places each faction holds. `web/js/territory.js` samples a grid,
-assigns each land cell to whichever faction's nearest holding is closest — scaled by
-that holding's `weight`, so a provincial capital outranks a village — leaves cells
-beyond everyone's reach unclaimed, then traces and smooths the boundaries.
+A chapter lists which places each faction holds. `web/js/territory.js` samples a grid
+over the map and spreads control outward from each holding, spending a budget set by
+that holding's `weight` — a provincial capital reaches much further than a mountain
+pass. A cell goes to whichever faction reaches it most cheaply, and stays unclaimed if
+nobody can afford it. Then the boundaries are traced and smoothed.
+
+The spread is a least-cost search over terrain, not straight-line distance, because
+straight lines get this period badly wrong: they run Liu Zhang's authority from Chengdu
+over the Daliang Shan and deep into Yunnan, when that country was Meng Huo's precisely
+because Chengdu could not hold it. Crossing a step costs its distance times
+
+    1 + ELEVATION_TAX * (mean elevation, km) + SLOPE_TAX * gradient
+
+so the Sichuan basin is nearly free and a range crossing costs several times its map
+distance. Those two constants are tuning knobs, not measurements. A useful side effect
+is that control cannot cross open sea, which is correct — Liaodong is reachable by the
+coast road and not otherwise.
+
+Elevation comes from `tools/build_elevation.py` as a 68 KB grid of uint16 decimetres at
+exactly the sampling resolution; nothing finer would change the answer. The search is a
+multi-source Dijkstra and runs in about 20 ms per chapter, which is faster than the
+straight-line version it replaced.
 
 This is why a chapter costs a list of city names rather than an afternoon in a vector
 editor, and it is honest about a period where nobody knows where the borders were.
+
+### The terrain is baked in, not tiled
+
+Third-party topographic tiles would mean the map stops working offline, gains a
+dependency that can rate-limit or vanish, and inherits someone else's attribution
+terms. `tools/build_relief.py` instead crops Natural Earth's public-domain shaded
+relief to the map window, warps it from equirectangular to Web Mercator (MapLibre maps
+an `image` source linearly onto Mercator, so an unwarped image slides north as you go
+up the map), mutes it so faction fills still read over it, and flattens the sea to one
+colour. One 700 KB JPEG, no network.
+
+Rivers are drawn from the 10m set rather than 50m, because the Wei, the Huai and the
+Xiang are all missing at 50m and those are the three the campaigns turn on. Only the
+courses named in `source/rivers.json` are kept — if a river is worth drawing here it is
+worth labelling, and if it is not it is clutter. Labels use the name the text uses: the
+Yangtze is 大江, the Yellow River is just 河.
+
+Matching Natural Earth courses by name is fragile, so `clip_basemap.py` fails if one
+river's segments fall into clusters far apart. That guard caught two rivers drawn in
+the wrong country: Korea's Han (also called "Han") labelled 漢水, and Fujian's 閩江
+(also romanized "Min") labelled 岷江. Names that need disambiguating carry a `within`
+bounding box.
 
 ### Labels are DOM, not GL
 

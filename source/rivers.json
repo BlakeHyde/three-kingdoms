@@ -1,0 +1,82 @@
+{
+  "_doc": [
+    "Rivers are labelled with the name the novel uses, which is often not the modern one.",
+    "The Yangtze is 大江, the Great River, or just 江; the Yellow River is 河; and the",
+    "-水 suffix is the Han-era form where the modern name uses -河 or -江.",
+    "",
+    "`at` is where the label sits, chosen to be on the watercourse and clear of the",
+    "cities that matter. `match` lists the Natural Earth `name` values that make up this",
+    "river, so tools/clip_basemap.py can keep exactly the courses that get labelled and",
+    "drop the rest as clutter.",
+    "",
+    "`rank` 1 is drawn heaviest. The Yangtze and the Yellow River are the two that armies",
+    "genuinely cannot cross at will, and the map should say so."
+  ],
+
+  "rivers": {
+    "changjiang": {
+      "hanzi": "大江", "at": [117.4, 30.6], "rank": 1,
+      "match": ["Chang Jiang", "Yangtze", "Jinsha", "Tongtian", "Tuotuo"],
+      "note": "The Great River. The line Cao Cao could not cross in ch. 43-50, and the frontier of Wu for seventy years."
+    },
+    "huanghe": {
+      "hanzi": "河", "at": [114.6, 35.9], "rank": 1,
+      "match": ["Huang"],
+      "note": "The Yellow River. Guandu, Baima and Yanjin are all fought along it."
+    },
+    "hanshui": {
+      "hanzi": "漢水", "at": [111.6, 32.5], "rank": 2,
+      "match": ["Han"],
+      "_within": "Natural Earth calls the Korean Han river 'Han' too, and without this it gets drawn near Seoul labelled 漢水.",
+      "within": [104.0, 29.0, 116.0, 34.5],
+      "note": "Xiangyang stands on it and Fancheng across it; Guan Yu drowns seven armies with it in ch. 74."
+    },
+    "weishui": {
+      "hanzi": "渭水", "at": [108.6, 34.5], "rank": 2,
+      "match": ["Wei"],
+      "note": "The Guanzhong corridor. Ma Chao at Tong Pass, ch. 58; Zhuge Liang's last camp at Wuzhangyuan, ch. 102."
+    },
+    "huaishui": {
+      "hanzi": "淮水", "at": [116.5, 32.7], "rank": 2,
+      "match": ["Huai", "Hudi"],
+      "note": "The Wei-Wu frontier east of the mountains. Shouchun and Hefei sit on its line."
+    },
+    "xiangshui": {
+      "hanzi": "湘水", "at": [112.8, 27.5], "rank": 3,
+      "match": ["Xiang"],
+      "note": "Southern Jing province. The four commanderies Liu Bei takes in ch. 52-53 lie along it."
+    },
+    "ganshui": {
+      "hanzi": "贛水", "at": [115.4, 27.4], "rank": 3,
+      "match": ["Gan"],
+      "note": "The road south out of Wu."
+    },
+    "yuanshui": {
+      "hanzi": "沅水", "at": [110.6, 28.6], "rank": 3,
+      "match": ["Yuan"],
+      "note": "Wuling commandery."
+    },
+    "jialing": {
+      "hanzi": "嘉陵江", "at": [106.2, 31.4], "rank": 3,
+      "match": ["Jialing"],
+      "note": "The road from Hanzhong down into Yi province."
+    },
+    "minjiang": {
+      "hanzi": "岷江", "at": [104.0, 29.4], "rank": 3,
+      "match": ["Min"],
+      "_within": "Fujian's 閩江 is also romanized Min, and is a different character and a different river.",
+      "within": [101.0, 26.5, 107.5, 33.0],
+      "note": "Chengdu's river."
+    },
+    "liaoshui": {
+      "hanzi": "遼水", "at": [122.3, 41.6], "rank": 3,
+      "match": ["Liao", "Xiliao", "Xar Moron"],
+      "note": "The far north-east, and the Gongsun family's moat."
+    },
+    "fenshui": {
+      "hanzi": "汾水", "at": [111.6, 36.6], "rank": 3,
+      "match": ["Fen"],
+      "note": "Bing province. Lü Bu's country, and the road the Xiongnu come down."
+    }
+  }
+}
