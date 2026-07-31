@@ -17,7 +17,7 @@
       "hulao",
       "runan",
       "shouchun",
-      "tan",
+      "xuzhou",
       "pengcheng",
       "xiapi",
       "xiaopei",
@@ -98,6 +98,7 @@
     {
       "character": "zhugeliang",
       "at": "jiangling",
+      "from": "xiakou",
       "note": "Collects the seals while others do the fighting."
     },
     {

@@ -70,7 +70,7 @@
       "puyang"
     ],
     "taoqian": [
-      "tan",
+      "xuzhou",
       "pengcheng",
       "xiapi"
     ],
@@ -84,18 +84,18 @@
   "pins": [
     {
       "character": "liubei",
-      "at": "tan",
+      "at": "xuzhou",
       "from": "pingyuan",
       "note": "Rides to Beihai, then to Xuzhou."
     },
     {
       "character": "guanyu",
-      "at": "tan",
+      "at": "xuzhou",
       "from": "pingyuan"
     },
     {
       "character": "zhangfei",
-      "at": "tan",
+      "at": "xuzhou",
       "from": "pingyuan"
     },
     {
@@ -116,7 +116,7 @@
     {
       "character": "caocao",
       "at": "puyang",
-      "from": "tan",
+      "from": "xuzhou",
       "note": "Abandons the Xuzhou campaign to save his own province."
     },
     {
@@ -132,7 +132,7 @@
     },
     {
       "character": "taoqian",
-      "at": "tan"
+      "at": "xuzhou"
     }
   ],
   "focus": {

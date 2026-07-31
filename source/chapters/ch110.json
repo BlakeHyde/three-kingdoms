@@ -17,7 +17,7 @@
       "hulao",
       "runan",
       "shouchun",
-      "tan",
+      "xuzhou",
       "pengcheng",
       "xiapi",
       "xiaopei",
@@ -86,11 +86,13 @@
     {
       "character": "simashi",
       "at": "shouchun",
+      "from": "luoyang",
       "note": "Bursts the wound behind his eye, and dies of it."
     },
     {
       "character": "simazhao",
       "at": "luoyang",
+      "from": "qishan",
       "note": "Inherits, and refuses to give the army back."
     },
     {
@@ -100,7 +102,8 @@
     },
     {
       "character": "jiangwei",
-      "at": "hanzhong"
+      "at": "hanzhong",
+      "from": "qishan"
     }
   ],
   "focus": {

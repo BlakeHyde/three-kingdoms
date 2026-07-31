@@ -17,7 +17,7 @@
       "hulao",
       "runan",
       "shouchun",
-      "tan",
+      "xuzhou",
       "pengcheng",
       "xiapi",
       "xiaopei",
@@ -96,11 +96,13 @@
     },
     {
       "character": "simayi",
-      "at": "changan"
+      "at": "changan",
+      "from": "qishan"
     },
     {
       "character": "jiangwei",
-      "at": "hanzhong"
+      "at": "hanzhong",
+      "from": "qishan"
     }
   ],
   "focus": {

@@ -32,7 +32,7 @@
     "yanzhou":   { "hanzi": "兗州", "lon": 116.78, "lat": 35.55, "kind": "city", "weight": 3, "note": "Cao Cao's first province, ch. 10." },
     "puyang":    { "hanzi": "濮陽", "lon": 115.03, "lat": 35.76, "kind": "city", "weight": 2, "note": "Lü Bu's base while he holds Yan province, ch. 11-12." },
     "beihai":    { "hanzi": "北海", "lon": 118.74, "lat": 36.86, "kind": "city", "weight": 2, "note": "Kong Rong's command; besieged in ch. 11." },
-    "tan":       { "hanzi": "郯",   "lon": 118.37, "lat": 34.61, "kind": "city", "weight": 2, "note": "Tao Qian's seat in Xuzhou." },
+    "xuzhou":    { "hanzi": "徐州", "lon": 118.37, "lat": 34.61, "kind": "city", "weight": 2, "note": "Tao Qian's seat, then Liu Bei's, then Lü Bu's. The novel calls it simply Xuzhou; the histories put the Han seat at Tan (郯), which is where this sits and which the novel never once names." },
     "pengcheng": { "hanzi": "彭城", "lon": 117.19, "lat": 34.26, "kind": "city", "weight": 3 },
     "xiapi":     { "hanzi": "下邳", "lon": 117.95, "lat": 34.31, "kind": "city", "weight": 3, "note": "Lü Bu's last stand, ch. 19." },
     "xiaopei":   { "hanzi": "小沛", "lon": 116.94, "lat": 34.72, "kind": "city", "weight": 1, "note": "The small town Liu Bei is repeatedly parked in." },

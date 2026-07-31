@@ -17,7 +17,7 @@
       "hulao",
       "runan",
       "shouchun",
-      "tan",
+      "xuzhou",
       "pengcheng",
       "xiapi",
       "xiaopei",
@@ -91,7 +91,8 @@
     },
     {
       "character": "hansui",
-      "at": "jicheng"
+      "at": "jicheng",
+      "from": "tongguan"
     },
     {
       "character": "jiaxu",

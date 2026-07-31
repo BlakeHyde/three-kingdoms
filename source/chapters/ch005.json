@@ -62,7 +62,7 @@
       "puyang"
     ],
     "taoqian": [
-      "tan",
+      "xuzhou",
       "pengcheng",
       "xiapi"
     ]
@@ -76,6 +76,7 @@
     {
       "character": "caocao",
       "at": "suanzao",
+      "from": "luoyang",
       "note": "Forged the summons that raised it."
     },
     {
@@ -114,6 +115,7 @@
     {
       "character": "lvbu",
       "at": "hulao",
+      "from": "luoyang",
       "note": "Fights all three brothers at once."
     },
     {

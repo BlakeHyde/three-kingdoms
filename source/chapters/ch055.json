@@ -17,7 +17,7 @@
       "hulao",
       "runan",
       "shouchun",
-      "tan",
+      "xuzhou",
       "pengcheng",
       "xiapi",
       "xiaopei",
@@ -92,7 +92,8 @@
     },
     {
       "character": "zhaoyun",
-      "at": "jiangling"
+      "at": "jiangling",
+      "from": "jianye"
     },
     {
       "character": "zhouyu",

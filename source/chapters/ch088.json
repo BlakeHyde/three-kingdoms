@@ -17,7 +17,7 @@
       "hulao",
       "runan",
       "shouchun",
-      "tan",
+      "xuzhou",
       "pengcheng",
       "xiapi",
       "xiaopei",
@@ -89,6 +89,7 @@
     {
       "character": "menghuo",
       "at": "lushui",
+      "from": "nanzhong",
       "note": "Taken a second and a third time, and released twice."
     },
     {
@@ -97,11 +98,13 @@
     },
     {
       "character": "weiyan",
-      "at": "lushui"
+      "at": "lushui",
+      "from": "nanzhong"
     },
     {
       "character": "zhaoyun",
-      "at": "lushui"
+      "at": "lushui",
+      "from": "nanzhong"
     }
   ],
   "focus": {

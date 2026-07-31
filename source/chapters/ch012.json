@@ -67,7 +67,7 @@
       "guandu"
     ],
     "shu": [
-      "tan",
+      "xuzhou",
       "pengcheng",
       "xiapi",
       "xiaopei"
@@ -79,12 +79,12 @@
   "pins": [
     {
       "character": "liubei",
-      "at": "tan",
+      "at": "xuzhou",
       "note": "Accepts Xuzhou at the third asking."
     },
     {
       "character": "taoqian",
-      "at": "tan",
+      "at": "xuzhou",
       "note": "Dies, having given the province away."
     },
     {

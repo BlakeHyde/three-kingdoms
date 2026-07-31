@@ -17,7 +17,7 @@
       "hulao",
       "runan",
       "shouchun",
-      "tan",
+      "xuzhou",
       "pengcheng",
       "xiapi",
       "xiaopei",
@@ -100,6 +100,7 @@
     {
       "character": "fazheng",
       "at": "dingjun",
+      "from": "tiandang",
       "note": "Chose the hour."
     }
   ],

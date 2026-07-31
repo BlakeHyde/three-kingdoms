@@ -17,7 +17,7 @@
       "hulao",
       "runan",
       "shouchun",
-      "tan",
+      "xuzhou",
       "pengcheng",
       "xiapi",
       "xiaopei",
@@ -86,6 +86,7 @@
     {
       "character": "weiyan",
       "at": "wuzhang",
+      "from": "shangfang",
       "note": "Knocks over the lamp."
     },
     {
@@ -96,6 +97,7 @@
     {
       "character": "simayi",
       "at": "wuzhang",
+      "from": "shangfang",
       "note": "Runs from a wooden statue."
     },
     {

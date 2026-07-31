@@ -17,7 +17,7 @@
       "hulao",
       "runan",
       "shouchun",
-      "tan",
+      "xuzhou",
       "pengcheng",
       "xiapi",
       "xiaopei",
@@ -81,16 +81,19 @@
     {
       "character": "weiyan",
       "at": "hanzhong",
+      "from": "wuzhang",
       "note": "'Who dares kill me?' — three times."
     },
     {
       "character": "madai",
       "at": "hanzhong",
+      "from": "wuzhang",
       "note": "Riding beside him under sealed orders."
     },
     {
       "character": "jiangwei",
-      "at": "hanzhong"
+      "at": "hanzhong",
+      "from": "wuzhang"
     },
     {
       "character": "jiangwan",

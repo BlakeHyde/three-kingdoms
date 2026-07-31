@@ -17,7 +17,7 @@
       "hulao",
       "runan",
       "shouchun",
-      "tan",
+      "xuzhou",
       "pengcheng",
       "xiapi",
       "xiaopei",
@@ -80,6 +80,7 @@
     {
       "character": "caocao",
       "at": "ye",
+      "from": "cangting",
       "note": "Takes Yuan Shao's capital."
     },
     {

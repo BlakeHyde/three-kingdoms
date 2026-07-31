@@ -18,7 +18,7 @@
       "beihai",
       "guangling",
       "yanzhou",
-      "tan",
+      "xuzhou",
       "puyang"
     ],
     "dongzhuo": [
@@ -61,6 +61,7 @@
     {
       "character": "dongzhuo",
       "at": "luoyang",
+      "from": "jicheng",
       "note": "Arrives with the Liang province army and does not leave."
     },
     {

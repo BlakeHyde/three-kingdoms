@@ -36,7 +36,7 @@
       "jiangling",
       "xiangping",
       "puyang",
-      "tan",
+      "xuzhou",
       "huguan"
     ],
     "yellowturban": [
@@ -47,15 +47,18 @@
     {
       "character": "liubei",
       "at": "pingyuan",
+      "from": "zhuo",
       "note": "A county magistrate, briefly."
     },
     {
       "character": "guanyu",
-      "at": "pingyuan"
+      "at": "pingyuan",
+      "from": "zhuo"
     },
     {
       "character": "zhangfei",
       "at": "pingyuan",
+      "from": "zhuo",
       "note": "Flogs the inspector and takes to the road."
     },
     {

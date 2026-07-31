@@ -17,7 +17,7 @@
       "hulao",
       "runan",
       "shouchun",
-      "tan",
+      "xuzhou",
       "pengcheng",
       "xiapi",
       "xiaopei",
@@ -85,6 +85,7 @@
     {
       "character": "zhangfei",
       "at": "jiameng",
+      "from": "luocheng",
       "note": "Fights him to a standstill by torchlight."
     },
     {
@@ -100,7 +101,8 @@
     },
     {
       "character": "zhugeliang",
-      "at": "chengdu"
+      "at": "chengdu",
+      "from": "luocheng"
     },
     {
       "character": "fazheng",

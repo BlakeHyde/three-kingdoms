@@ -17,7 +17,7 @@
       "hulao",
       "runan",
       "shouchun",
-      "tan",
+      "xuzhou",
       "pengcheng",
       "xiapi",
       "xiaopei",
@@ -89,15 +89,18 @@
     {
       "character": "menghuo",
       "at": "nanzhong",
+      "from": "lushui",
       "note": "Fourth and fifth captures; angrier each time."
     },
     {
       "character": "madai",
-      "at": "nanzhong"
+      "at": "nanzhong",
+      "from": "lushui"
     },
     {
       "character": "weiyan",
-      "at": "nanzhong"
+      "at": "nanzhong",
+      "from": "lushui"
     }
   ],
   "focus": {

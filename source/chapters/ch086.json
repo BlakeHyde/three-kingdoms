@@ -17,7 +17,7 @@
       "hulao",
       "runan",
       "shouchun",
-      "tan",
+      "xuzhou",
       "pengcheng",
       "xiapi",
       "xiaopei",
@@ -101,7 +101,8 @@
     },
     {
       "character": "zhugeliang",
-      "at": "chengdu"
+      "at": "chengdu",
+      "from": "baidi"
     }
   ],
   "focus": {

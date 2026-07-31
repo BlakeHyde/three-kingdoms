@@ -18,7 +18,7 @@
       "hulao",
       "runan",
       "shouchun",
-      "tan",
+      "xuzhou",
       "pengcheng",
       "xiapi",
       "xiaopei"
@@ -103,6 +103,7 @@
     {
       "character": "liubei",
       "at": "xiapi",
+      "from": "xiaopei",
       "note": "'Remember Ding Yuan and Dong Zhuo.'"
     },
     {

@@ -67,7 +67,7 @@
       "xiangping"
     ],
     "lvbu": [
-      "tan",
+      "xuzhou",
       "pengcheng",
       "xiapi"
     ],
@@ -97,6 +97,7 @@
     {
       "character": "lvbu",
       "at": "xiapi",
+      "from": "xiaopei",
       "note": "Joins the coalition against Yuan Shu."
     },
     {
@@ -106,7 +107,8 @@
     },
     {
       "character": "jiling",
-      "at": "shouchun"
+      "at": "shouchun",
+      "from": "xiaopei"
     }
   ],
   "focus": {

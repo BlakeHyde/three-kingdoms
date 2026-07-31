@@ -17,7 +17,7 @@
       "hulao",
       "runan",
       "shouchun",
-      "tan",
+      "xuzhou",
       "pengcheng",
       "xiapi",
       "xiaopei",
@@ -99,7 +99,8 @@
     },
     {
       "character": "jiangwei",
-      "at": "hanzhong"
+      "at": "hanzhong",
+      "from": "qishan"
     }
   ],
   "focus": {

@@ -17,7 +17,7 @@
       "hulao",
       "runan",
       "shouchun",
-      "tan",
+      "xuzhou",
       "pengcheng",
       "xiapi",
       "xiaopei",
@@ -71,6 +71,7 @@
     {
       "character": "caocao",
       "at": "xuchang",
+      "from": "xiapi",
       "note": "Takes the Emperor's bow, and keeps it."
     },
     {

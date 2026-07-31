@@ -72,7 +72,7 @@
       "beihai"
     ],
     "shu": [
-      "tan",
+      "xuzhou",
       "pengcheng",
       "xiapi",
       "xiaopei"
@@ -93,6 +93,7 @@
     {
       "character": "guanyu",
       "at": "xiapi",
+      "from": "xuchang",
       "note": "Kills Che Zhou at the gate."
     },
     {

@@ -64,7 +64,7 @@
       "xiangping"
     ],
     "lvbu": [
-      "tan",
+      "xuzhou",
       "pengcheng",
       "xiapi"
     ],
@@ -100,19 +100,19 @@
     {
       "character": "liubei",
       "at": "xiaopei",
-      "from": "tan",
+      "from": "xuzhou",
       "note": "Loses Xuzhou while away campaigning."
     },
     {
       "character": "zhangfei",
       "at": "xiaopei",
-      "from": "tan",
+      "from": "xuzhou",
       "note": "Lost the city drunk."
     },
     {
       "character": "guanyu",
       "at": "xiaopei",
-      "from": "tan"
+      "from": "xuzhou"
     },
     {
       "character": "lvbu",

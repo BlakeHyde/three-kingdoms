@@ -16,8 +16,9 @@ uv run tools/build_relief.py     # once: bake the shaded-relief basemap image
 uv run tools/build_elevation.py  # once: elevation grid for the terrain model
 uv run tools/build_data.py       # compile source/ -> web/data/corpus.json
 node tools/check_territory.mjs   # geometry regression check
-uv run tools/fetch_text.py       # once: cache the Chinese text for verification
-uv run tools/verify_chapters.py  # check the atlas against that text
+uv run tools/fetch_text.py       # once: cache the Chinese text
+uv run tools/build_versions.py   # once: normalise every edition per chapter
+uv run tools/verify_chapters.py  # check the atlas against all of them
 python3 -m http.server 8787 -d web
 ```
 
@@ -156,20 +157,41 @@ the map window, and any hanzi missing from the reading table.
 
 The chapter data was written from knowledge of the novel rather than with the book open,
 which is fine for the famous set-pieces and much less fine for the middle of the Northern
-Expeditions. `tools/verify_chapters.py` checks it against the Chinese text of 三國演義 from
-Wikisource — the original rather than a translation, because every figure and place in
-`source/` carries its hanzi and can be matched exactly.
+Expeditions. Checking it against one text tells you what that text says; checking it
+against several tells you where the editions agree, and where they do not is where the
+atlas is most likely to be wrong. Three editions, none encumbered:
 
-**Every figure pinned in a chapter must be named in that chapter.** This is a build gate.
-It removed 27 pins on first run and found three genuine errors: Cao Xiu's defeat and death
+| edition | | chapters |
+|---|---|---|
+| `wikisource_zh` | Chinese, Mao Zonggang recension | 1–120 |
+| `gutenberg_zh` | Chinese, separate transcription (PG #23950) | 1–120 |
+| `brewitt_en` | English, Brewitt-Taylor 1925 (PG #77416) | 1–60 |
+
+Only volume one of the translation is public; the scans carrying volume two are OCR bad
+enough to poison a vote. So chapters 61–120 are checked against two editions rather than
+three, and the tool says so rather than papering over it.
+
+**PRESENCE — every figure pinned in a chapter must be named in that chapter.** Each
+edition votes; a pin no edition supports fails the build. A pin only some editions
+support is reported, not enforced, since that usually means a romanization the matcher
+does not know. This removed 27 pins and found three genuine errors: Cao Xiu's defeat and death
 placed in ch. 98 when the text does not name him once (it is ch. 96), Zhuge Zhan placed in
-ch. 116 when he dies at Mianzhu in ch. 117, and Zhang Jue held at Puyang, which never
-appears — the text puts him at 廣宗 throughout.
+ch. 116 when he dies at Mianzhu in ch. 117, and Zhang Jue held at Puyang in ch. 1–2, which those
+chapters never name — the text puts him at 廣宗, besieged first by Lu Zhi and then by
+Huangfu Song. (Puyang is emphatically in the novel; it is where Lü Bu and Cao Cao fight
+over Yan province in ch. 11–12, and the atlas uses it correctly there. It simply has
+nothing to do with Zhang Jue.)
 
-The check catches misplacement, not mislocation: the text naming Cao Cao does not prove he
-was at Xuchang. **Place** names are therefore reported but not enforced, because the novel
-frequently says only "the camp" or "the pass"; about 110 pins sit at a location the chapter
-does not name, and those are inferences.
+**CONTINUITY — an atlas claims not just that someone was somewhere but that they got
+there.** Each figure's pins are walked in chapter order as a path. A location change
+between consecutive chapters with no `from` recorded is a movement the map silently
+teleports and draws no arc for; there were 63 of those, and the graph knows where each
+came from, so they are now filled in. That took the atlas from 152 movement arcs to 215.
+
+Neither check can confirm a placement — the text naming Cao Cao does not prove he was at
+Xuchang. Place names are reported but not enforced, because the novel frequently says
+only "the camp"; about 110 pins sit somewhere the chapter does not name, and those are
+inferences.
 
 Each chapter also carries its canonical couplet, extracted from the same text and shown
 under the translated title, so a reader can check the summary against a source rather than

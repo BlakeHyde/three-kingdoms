@@ -67,7 +67,7 @@
       "xuchang"
     ],
     "shu": [
-      "tan",
+      "xuzhou",
       "pengcheng",
       "xiapi",
       "xiaopei"
@@ -100,11 +100,12 @@
     {
       "character": "caocao",
       "at": "xuchang",
+      "from": "puyang",
       "note": "Watching the road from Luoyang."
     },
     {
       "character": "liubei",
-      "at": "tan"
+      "at": "xuzhou"
     }
   ],
   "focus": {
