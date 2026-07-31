@@ -1,12 +1,12 @@
 {
   "n": 98,
-  "title": "Wang Shuang Rides into an Ambush; Cao Xiu Dies of Chagrin",
+  "title": "Wang Shuang Rides into an Ambush; the Martial Marquis Takes Chencang",
   "year": "229",
   "summary": [
-    "Withdrawing, Zhuge Liang leaves Wei Yan behind a ridge, and the pursuing Wang Shuang is killed at a run without ever seeing who did it.",
-    "In the east, Cao Xiu's hundred thousand walk into Lu Xun at Shiting and are cut apart. Cao Xiu gets home and dies within weeks — of a boil on his back, the histories say, and of humiliation, the novel says."
+    "Withdrawing from Chencang, Zhuge Liang leaves Wei Yan behind a ridge with orders to wait. The pursuing Wang Shuang comes on hard, is caught between fire and the ridge, and is killed at a run without ever seeing who did it.",
+    "Then Chencang — the one fortress that had beaten him — falls to him almost by accident: its defender Hao Zhao dies of illness, and Zhuge Liang, who has kept men within a day's march for exactly this, is inside the walls before Wei knows the garrison has changed hands."
   ],
-  "history": "Both historical, including the cause of death and its widely assumed real cause.",
+  "history": "Historical in outline. Hao Zhao's defence of Chencang and his death shortly after are both recorded, and the novel gives Zhuge Liang more foresight about the timing than the sources do.",
   "control": {
     "wei": [
       "luoyang",
@@ -86,11 +86,6 @@
     {
       "character": "weiyan",
       "at": "chencang"
-    },
-    {
-      "character": "caoxiu",
-      "at": "shouchun",
-      "note": "Beaten at Shiting, and dead of it within weeks."
     },
     {
       "character": "luxun",

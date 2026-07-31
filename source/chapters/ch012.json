@@ -83,14 +83,6 @@
       "note": "Accepts Xuzhou at the third asking."
     },
     {
-      "character": "guanyu",
-      "at": "tan"
-    },
-    {
-      "character": "zhangfei",
-      "at": "tan"
-    },
-    {
       "character": "taoqian",
       "at": "tan",
       "note": "Dies, having given the province away."
@@ -112,10 +104,6 @@
     },
     {
       "character": "chengong",
-      "at": "puyang"
-    },
-    {
-      "character": "diaochan",
       "at": "puyang"
     }
   ],

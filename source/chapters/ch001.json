@@ -1,6 +1,6 @@
 {
   "n": 1,
-  "title": "Three Heroes Swear Brotherhood in the Peach Garden; One Victory Shatters the Rebels at Julu",
+  "title": "Three Heroes Swear Brotherhood in the Peach Garden; Heroes Win Their First Merit Against the Yellow Turbans",
   "year": "184",
   "summary": [
     "The empire, long divided, must unite. Under the boy emperor Ling the eunuchs rule and the harvests fail, and a Daoist healer named Zhang Jue turns a following of five hundred thousand into an army wearing yellow headscarves.",
@@ -9,19 +9,93 @@
   ],
   "history": "Zhang Jue's rising is historical, and so is its scale. The oath in the peach garden is not — the histories say only that Liu Bei, Guan Yu and Zhang Fei 'slept on the same mat and were as brothers'.",
   "control": {
-    "han": ["luoyang", "changan", "ji", "jinyang", "xuchang", "pengcheng", "wan", "runan", "xiangyang", "chengdu", "hanzhong", "jicheng", "wu", "kuaiji", "jianye", "changsha", "beihai", "ye", "guangling", "lujiang", "shouchun", "nanpi", "yanzhou", "danyang", "jiangling", "xiangping"],
-    "yellowturban": ["zhuo", "pingyuan", "tan", "puyang", "huguan"]
+    "han": [
+      "luoyang",
+      "changan",
+      "ji",
+      "jinyang",
+      "xuchang",
+      "pengcheng",
+      "wan",
+      "runan",
+      "xiangyang",
+      "chengdu",
+      "hanzhong",
+      "jicheng",
+      "wu",
+      "kuaiji",
+      "jianye",
+      "changsha",
+      "beihai",
+      "ye",
+      "guangling",
+      "lujiang",
+      "shouchun",
+      "nanpi",
+      "yanzhou",
+      "danyang",
+      "jiangling",
+      "xiangping"
+    ],
+    "yellowturban": [
+      "zhuo",
+      "pingyuan",
+      "tan",
+      "guangzong",
+      "huguan",
+      "yingchuan"
+    ]
   },
   "pins": [
-    { "character": "liubei", "at": "zhuo", "note": "Reading the call for volunteers outside the county gate." },
-    { "character": "guanyu", "at": "zhuo", "note": "A fugitive from Hedong, five years on the run." },
-    { "character": "zhangfei", "at": "zhuo", "note": "Owns the peach garden, and the wine." },
-    { "character": "zhangjue", "at": "puyang", "note": "General of Heaven, at the head of the rising." },
-    { "character": "luzhi", "at": "ye", "note": "Marching against Zhang Jue in the north." },
-    { "character": "huangfusong", "at": "luoyang" },
-    { "character": "zhujun", "at": "luoyang" },
-    { "character": "caocao", "at": "luoyang", "note": "A colonel of the palace guard, thirty years old." },
-    { "character": "dongzhuo", "at": "jicheng", "note": "Still a frontier general in the west." }
+    {
+      "character": "liubei",
+      "at": "zhuo",
+      "note": "Reading the call for volunteers outside the county gate."
+    },
+    {
+      "character": "guanyu",
+      "at": "zhuo",
+      "note": "A fugitive from Hedong, five years on the run."
+    },
+    {
+      "character": "zhangfei",
+      "at": "zhuo",
+      "note": "Owns the peach garden, and the wine."
+    },
+    {
+      "character": "zhangjue",
+      "at": "guangzong",
+      "note": "General of Heaven, at the head of the rising."
+    },
+    {
+      "character": "luzhi",
+      "at": "ye",
+      "note": "Marching against Zhang Jue in the north."
+    },
+    {
+      "character": "huangfusong",
+      "at": "yingchuan",
+      "note": "Burns the Yellow Turban camp at Yingchuan."
+    },
+    {
+      "character": "zhujun",
+      "at": "yingchuan",
+      "note": "Burns the Yellow Turban camp at Yingchuan."
+    },
+    {
+      "character": "caocao",
+      "at": "luoyang",
+      "note": "A colonel of the palace guard, thirty years old."
+    },
+    {
+      "character": "dongzhuo",
+      "at": "jicheng",
+      "note": "Still a frontier general in the west."
+    }
   ],
-  "focus": { "lon": 114.5, "lat": 35.5, "zoom": 4.4 }
+  "focus": {
+    "lon": 114.5,
+    "lat": 35.5,
+    "zoom": 4.4
+  }
 }

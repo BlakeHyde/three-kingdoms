@@ -192,6 +192,11 @@ def main() -> int:
     characters = load("characters.json")["characters"]
     places = load("places.json")["places"]
     rivers = load("rivers.json")["rivers"]
+    # Extracted from the Wikisource text by tools/verify_chapters.py. Carried into the
+    # corpus so every chapter shows the couplet it is meant to be summarising -- a
+    # reader can check the summary against a source rather than taking it on trust.
+    titles_path = SRC / "canonical_titles.json"
+    canonical = json.loads(titles_path.read_text()) if titles_path.exists() else {}
 
     # -- factions
     for fid, f in factions.items():
@@ -267,6 +272,9 @@ def main() -> int:
                 fail(f"{where}: pin names unknown place {pin['at']!r}")
             if pin.get("from") and pin["from"] not in places:
                 fail(f"{where}: move names unknown origin {pin['from']!r}")
+        ch["canonicalTitle"] = canonical.get(str(ch["n"]))
+        if not ch["canonicalTitle"]:
+            fail(f"{where}: no canonical title; run tools/verify_chapters.py")
         chapters.append(ch)
 
     if errors:

@@ -96,20 +96,10 @@
       "note": "Reaches for his blade at the hunt."
     },
     {
-      "character": "zhangfei",
-      "at": "xuchang",
-      "from": "xiapi"
-    },
-    {
       "character": "mateng",
       "at": "xuchang",
       "from": "jicheng",
       "note": "Signs the edict and rides home."
-    },
-    {
-      "character": "yuanshao",
-      "at": "ye",
-      "note": "Has finished Gongsun Zan and turns south."
     }
   ],
   "focus": {

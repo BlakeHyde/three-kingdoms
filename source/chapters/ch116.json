@@ -1,12 +1,13 @@
 {
   "n": 116,
-  "title": "Two Armies Cross the Mountains",
+  "title": "Zhong Hui Divides His Forces on the Hanzhong Road; the Martial Marquis Appears at Dingjun Mountain",
   "year": "263",
   "summary": [
-    "Zhong Hui comes down the main road with a hundred thousand men and Deng Ai holds Jiang Wei in the west so he cannot get back. Hanzhong falls in weeks — the outer forts had been reorganised, on Jiang Wei's own advice, into a scheme that depended on a mobile field army that no longer existed.",
-    "Jiang Wei extracts himself by a forced march and gets to Jiange in time to shut the gate. Zhong Hui's hundred thousand stop dead in front of it."
+    "Zhong Hui comes down the Hanzhong road with a hundred thousand men in three columns. The outer forts fall in weeks — they had been reorganised, on Jiang Wei's own advice, into a scheme that depended on a mobile field army which no longer existed.",
+    "Riding past Dingjun Mountain, Zhong Hui's escort is stopped by a wind out of a clear sky and the figure of a man in Daoist robes on the slope, who tells him that since the people of this country are about to suffer, he is not to harm them. Zhong Hui builds an altar to Zhuge Liang the next morning and gives the order.",
+    "Jiang Wei extracts himself from the west by a forced march and shuts the gate at Jiange. The hundred thousand stop dead in front of it."
   ],
-  "history": "Historical, including the failure of the reorganised defences.",
+  "history": "The apparition is the novel's, and it is doing a job: it lets Zhuge Liang, thirty years dead, extract a promise of mercy from the man conquering his country. The failure of the reorganised Hanzhong defences is historical.",
   "control": {
     "wei": [
       "luoyang",
@@ -97,10 +98,6 @@
     },
     {
       "character": "liushan",
-      "at": "chengdu"
-    },
-    {
-      "character": "zhugezhan",
       "at": "chengdu"
     }
   ],

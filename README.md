@@ -16,6 +16,8 @@ uv run tools/build_relief.py     # once: bake the shaded-relief basemap image
 uv run tools/build_elevation.py  # once: elevation grid for the terrain model
 uv run tools/build_data.py       # compile source/ -> web/data/corpus.json
 node tools/check_territory.mjs   # geometry regression check
+uv run tools/fetch_text.py       # once: cache the Chinese text for verification
+uv run tools/verify_chapters.py  # check the atlas against that text
 python3 -m http.server 8787 -d web
 ```
 
@@ -149,6 +151,32 @@ Copy an existing file in `source/chapters/`:
 `from` is optional and draws the movement arc. Run `uv run tools/build_data.py`; it
 will name any character, place or faction that does not exist, any coordinate outside
 the map window, and any hanzi missing from the reading table.
+
+## Verification
+
+The chapter data was written from knowledge of the novel rather than with the book open,
+which is fine for the famous set-pieces and much less fine for the middle of the Northern
+Expeditions. `tools/verify_chapters.py` checks it against the Chinese text of 三國演義 from
+Wikisource — the original rather than a translation, because every figure and place in
+`source/` carries its hanzi and can be matched exactly.
+
+**Every figure pinned in a chapter must be named in that chapter.** This is a build gate.
+It removed 27 pins on first run and found three genuine errors: Cao Xiu's defeat and death
+placed in ch. 98 when the text does not name him once (it is ch. 96), Zhuge Zhan placed in
+ch. 116 when he dies at Mianzhu in ch. 117, and Zhang Jue held at Puyang, which never
+appears — the text puts him at 廣宗 throughout.
+
+The check catches misplacement, not mislocation: the text naming Cao Cao does not prove he
+was at Xuchang. **Place** names are therefore reported but not enforced, because the novel
+frequently says only "the camp" or "the pass"; about 110 pins sit at a location the chapter
+does not name, and those are inferences.
+
+Each chapter also carries its canonical couplet, extracted from the same text and shown
+under the translated title, so a reader can check the summary against a source rather than
+taking it on trust. Where a translated title and the couplet diverge, believe the couplet.
+
+**Still unverified:** the summaries themselves, and the "Against the record" notes. Those
+are prose written from recollection, and nothing here checks them.
 
 ## Sources and accuracy
 

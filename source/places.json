@@ -90,6 +90,8 @@
     "nanzhong":  { "hanzi": "南中", "lon": 102.85, "lat": 24.88, "kind": "city", "weight": 2, "note": "Meng Huo's country." },
     "jiaozhi":   { "hanzi": "交趾", "lon": 105.85, "lat": 21.03, "kind": "city", "weight": 2, "note": "Shi Xie's far south." },
     "henei": { "hanzi": "河內", "lon": 113.18, "lat": 35.10, "kind": "city", "weight": 2, "note": "Henei, north of the Yellow River opposite Luoyang. Wang Kuang's coalition contingent musters here." },
+    "guangzong":  { "hanzi": "廣宗", "lon": 115.14, "lat": 37.07, "kind": "city", "weight": 2, "note": "Where Zhang Jue holds out against Lu Zhi and then Huangfu Song, ch. 1-2." },
+    "yingchuan":  { "hanzi": "潁川", "lon": 113.35, "lat": 34.15, "kind": "city", "weight": 2, "note": "Huangfu Song and Zhu Jun burn the Yellow Turban camp here, ch. 1." },
     "gucheng":     { "hanzi": "古城", "lon": 114.02, "lat": 33.6, "kind": "city", "weight": 1, "note": "Where Zhang Fei, believing Guan Yu a turncoat, makes him kill a messenger to prove himself, ch. 28." },
     "cangting":    { "hanzi": "倉亭", "lon": 115.6, "lat": 36.05, "kind": "battle", "weight": 0, "note": "Yuan Shao's second defeat, ch. 31." },
     "tanxi":       { "hanzi": "檀溪", "lon": 112.08, "lat": 32.02, "kind": "battle", "weight": 0, "note": "The stream Liu Bei's horse Dilu leaps in a single bound, ch. 34." },
