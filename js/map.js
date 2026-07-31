@@ -22,7 +22,14 @@ export class Atlas {
         version: 8,
         sources: {
           land: { type: "geojson", data: basemap.land },
-          lakes: { type: "geojson", data: basemap.lakes },
+          // Public-domain Natural Earth relief, pre-warped to Mercator and muted by
+          // tools/build_relief.py. One image rather than a tile service, so the map
+          // keeps working with no network and no third-party terms.
+          relief: {
+            type: "image",
+            url: "data/basemap/relief.jpg",
+            coordinates: [[92, 50], [132, 50], [132, 15], [92, 15]],
+          },
           rivers: { type: "geojson", data: basemap.rivers },
           territory: { type: "geojson", data: EMPTY },
           paths: { type: "geojson", data: EMPTY },
@@ -30,19 +37,19 @@ export class Atlas {
         layers: [
           { id: "sea", type: "background", paint: { "background-color": "#e8eef1" } },
           {
-            id: "land", type: "fill", source: "land",
-            paint: { "fill-color": "#fbf9f3" },
+            id: "relief", type: "raster", source: "relief",
+            paint: { "raster-opacity": 0.95, "raster-fade-duration": 0 },
           },
           {
             id: "territory-fill", type: "fill", source: "territory",
-            paint: { "fill-color": ["get", "fill"], "fill-opacity": 0.62 },
+            paint: { "fill-color": ["get", "fill"], "fill-opacity": 0.44 },
           },
           {
             id: "territory-edge", type: "line", source: "territory",
             paint: {
               "line-color": ["get", "color"],
-              "line-width": 1.1,
-              "line-opacity": 0.5,
+              "line-width": 1.6,
+              "line-opacity": 0.75,
             },
           },
           {
@@ -50,14 +57,18 @@ export class Atlas {
             paint: { "line-color": "#b9c6cc", "line-width": 0.8 },
           },
           {
-            id: "lakes", type: "fill", source: "lakes",
-            paint: { "fill-color": "#dde9ee", "fill-outline-color": "#c3d3da" },
-          },
-          {
             id: "rivers", type: "line", source: "rivers",
+            layout: { "line-cap": "round", "line-join": "round" },
             paint: {
-              "line-color": "#c2d4dc",
-              "line-width": ["interpolate", ["linear"], ["zoom"], 3, 0.5, 7, 2.2],
+              "line-color": "#4a7d99",
+              "line-opacity": 0.85,
+              // Weighted by the gazetteer's rank: the Yangtze and the Yellow River are
+              // obstacles armies genuinely cannot cross at will, and read heaviest.
+              "line-width": [
+                "interpolate", ["linear"], ["zoom"],
+                3, ["match", ["get", "rank"], 1, 1.6, 2, 1.1, 0.75],
+                7, ["match", ["get", "rank"], 1, 6.0, 2, 3.8, 2.4],
+              ],
             },
           },
           {

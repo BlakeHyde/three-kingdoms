@@ -1,5 +1,5 @@
 import { Atlas } from "./map.js";
-import { buildLandMask, buildTerritories } from "./territory.js";
+import { buildLandMask, setElevation, buildTerritories } from "./territory.js";
 
 const SYSTEM_LABELS = {
   pinyin: ["Pinyin", "Liu Bei"],
@@ -89,6 +89,15 @@ function renderMap(chapter) {
       priority: place.kind === "capital" ? 40 : 10,
       hideable: true,
     });
+  }
+
+  // -- river names, in whichever convention is selected. Lowest priority of anything
+  // on the map: they are orientation, and yield to every city and figure.
+  for (const river of Object.values(state.corpus.rivers ?? {})) {
+    const el = document.createElement("div");
+    el.className = `marker river-label rank${river.rank}`;
+    el.append(nameNode(river));
+    atlas.addMarker(river.at, el, { priority: 5, hideable: true });
   }
 
   // -- movement arcs, drawn before pins so the pins sit on top
@@ -528,6 +537,12 @@ function wireMenu() {
 
 /* -------------------------------------------------------------------- start */
 
+async function binary(path) {
+  const response = await fetch(path);
+  if (!response.ok) throw new Error(`${path}: ${response.status} ${response.statusText}`);
+  return response.arrayBuffer();
+}
+
 async function json(path) {
   const response = await fetch(path);
   if (!response.ok) throw new Error(`${path}: ${response.status} ${response.statusText}`);
@@ -535,19 +550,20 @@ async function json(path) {
 }
 
 async function main() {
-  const [corpus, land, landmask, rivers, lakes] = await Promise.all([
+  const [corpus, land, landmask, rivers, elevation] = await Promise.all([
     json("data/corpus.json"),
     json("data/basemap/land.geojson"),
     json("data/basemap/landmask.geojson"),
     json("data/basemap/rivers.geojson"),
-    json("data/basemap/lakes.geojson"),
+    binary("data/basemap/elevation.bin"),
   ]);
 
   state.corpus = corpus;
-  // One pass over the coastline up front; every chapter's territory reuses the result.
+  // Both are computed once and reused by every chapter's territory field.
   buildLandMask(landmask);
+  setElevation(new Uint16Array(elevation));
 
-  state.atlas = new Atlas("map", { land, rivers, lakes });
+  state.atlas = new Atlas("map", { land, rivers });
   await state.atlas.ready;
 
   renderChapterList();
