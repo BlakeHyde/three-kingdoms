@@ -150,17 +150,27 @@ function assignCells(control, places) {
  */
 function traceRings(owner, faction) {
   const has = (i, j) => i >= 0 && j >= 0 && i < cols && j < rows && owner[j * cols + i] === faction;
-  const edges = new Map(); // "x,y" of start -> end point
 
+  // One vertex can start TWO boundary edges, where two cells of this faction meet only
+  // at a corner. Storing a single edge per vertex silently dropped one of them, the
+  // walk then ran out of edges mid-ring, and the ring got closed across the map --
+  // which is where the long thin wedges came from. So: a list per vertex.
+  const edges = new Map();
   const key = (x, y) => `${x},${y}`;
+  const addEdge = (x, y, end) => {
+    const k = key(x, y);
+    const existing = edges.get(k);
+    if (existing) existing.push(end);
+    else edges.set(k, [end]);
+  };
 
   for (let j = 0; j < rows; j++) {
     for (let i = 0; i < cols; i++) {
       if (!has(i, j)) continue;
-      if (!has(i, j - 1)) edges.set(key(i, j), [i + 1, j]);
-      if (!has(i + 1, j)) edges.set(key(i + 1, j), [i + 1, j + 1]);
-      if (!has(i, j + 1)) edges.set(key(i + 1, j + 1), [i, j + 1]);
-      if (!has(i - 1, j)) edges.set(key(i, j + 1), [i, j]);
+      if (!has(i, j - 1)) addEdge(i, j, [i + 1, j]);
+      if (!has(i + 1, j)) addEdge(i + 1, j, [i + 1, j + 1]);
+      if (!has(i, j + 1)) addEdge(i + 1, j + 1, [i, j + 1]);
+      if (!has(i - 1, j)) addEdge(i, j + 1, [i, j]);
     }
   }
 
@@ -171,14 +181,19 @@ function traceRings(owner, faction) {
     const ring = [[sx, sy]];
     let cursor = startKey;
 
-    while (edges.has(cursor)) {
-      const next = edges.get(cursor);
-      edges.delete(cursor);
+    for (;;) {
+      const outgoing = edges.get(cursor);
+      if (!outgoing || !outgoing.length) break;
+      const next = outgoing.pop();
+      if (!outgoing.length) edges.delete(cursor);
       ring.push(next);
       cursor = key(next[0], next[1]);
       if (cursor === startKey) break;
     }
-    if (ring.length > 4) rings.push(ring);
+
+    // Only keep rings that actually returned to their start. A walk that dead-ends is
+    // a bug, not a shape, and closing it anyway is what drew the artefact.
+    if (cursor === startKey && ring.length > 4) rings.push(ring);
   }
   return rings;
 }
