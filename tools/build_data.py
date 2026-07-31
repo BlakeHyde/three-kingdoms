@@ -235,10 +235,22 @@ def main() -> int:
         for pid in ch.get("control", {}):
             if pid not in factions:
                 fail(f"{where}: control names unknown faction {pid!r}")
+        # A place may be held by exactly one faction in a chapter. Two claims on the
+        # same city make the territory field pick a winner by iteration order, which
+        # silently produces a different map depending on dict ordering.
+        claimed: dict[str, str] = {}
         for pid, sites in ch.get("control", {}).items():
+            seen: set[str] = set()
             for site in sites:
                 if site not in places:
                     fail(f"{where}: control[{pid}] names unknown place {site!r}")
+                    continue
+                if site in seen:
+                    fail(f"{where}: control[{pid}] lists {site!r} twice")
+                seen.add(site)
+                if site in claimed and claimed[site] != pid:
+                    fail(f"{where}: {site!r} is claimed by both {claimed[site]!r} and {pid!r}")
+                claimed[site] = pid
         for pin in ch.get("pins", []):
             if pin["character"] not in characters:
                 fail(f"{where}: pin names unknown character {pin['character']!r}")

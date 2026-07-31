@@ -43,9 +43,7 @@
       "danyang",
       "chaisang",
       "lujiang",
-      "xiakou",
       "baqiu",
-      "xiakou",
       "chibi",
       "wulin",
       "jiangling"
@@ -70,8 +68,7 @@
       "xiangping"
     ],
     "shu": [
-      "xiakou",
-      "xinye"
+      "xiakou"
     ]
   },
   "pins": [
