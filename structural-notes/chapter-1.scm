@@ -55,17 +55,13 @@
 
     (place daxing-shan
       (hanzi "大興山")
-      (atlas-id #f) (on-map? #f)
-      (role "The brothers' first battle, against Cheng Yuanzhi and Deng Mao.")
-      (gap "The atlas has no point for this. It is the first fighting the three
-            brothers ever do and arguably deserves one."))
+      (atlas-id daxingshan) (on-map? #t)
+      (role "The brothers' first battle, against Cheng Yuanzhi and Deng Mao."))
 
     (place qingzhou
       (hanzi "青州")
-      (atlas-id #f) (on-map? #f)
-      (role "Besieged by the rebels; relieved by Liu Bei and Zou Jing with an ambush.")
-      (gap "Not in the gazetteer. The atlas's `beihai` is in the same province but is
-            a different city and belongs to chapter 11."))
+      (atlas-id qingzhou) (on-map? #t)
+      (role "Besieged by the rebels; relieved by Liu Bei and Zou Jing with an ambush."))
 
     (place guangzong
       (hanzi "廣宗")
@@ -80,12 +76,9 @@
 
     (place changshe
       (hanzi "長社")
-      (atlas-id #f) (on-map? #f)
+      (atlas-id changshe) (on-map? #t)
       (role "Where the rebels camp in long grass and Huangfu Song burns them out. The
-             actual site of the chapter's decisive battle.")
-      (gap "The atlas puts this action at Yingchuan, the commandery, rather than at
-            Changshe, the town. Defensible at map scale, but it is a real place the
-            chapter names."))
+             actual site of the chapter's decisive battle."))
 
     (place luoyang
       (hanzi "洛陽")
@@ -173,13 +166,13 @@
 
     (character cheng-yuanzhi
       (hanzi "程遠志")
-      (atlas-id #f) (on-map? #f) (at daxing-shan)
+      (atlas-id chengyuanzhi) (on-map? #t) (at daxing-shan)
       (role "Rebel commander invading You province. Cut in two by Guan Yu — the first
              man the brothers kill."))
 
     (character deng-mao
       (hanzi "鄧茂")
-      (atlas-id #f) (on-map? #f) (at daxing-shan)
+      (atlas-id dengmao) (on-map? #t) (at daxing-shan)
       (role "Cheng Yuanzhi's subordinate. Speared through the heart by Zhang Fei."))
 
     (character ma-yuanyi
@@ -215,21 +208,19 @@
 
     (character liu-yan
       (hanzi "劉焉")
-      (atlas-id #f) (on-map? #f) (at youzhou)
+      (atlas-id liuyan) (on-map? #t) (at youzhou)
       (role "Governor of You province, and an imperial kinsman — he greets Liu Bei as
-             a relative. Issues the call for volunteers.")
-      (gap "Not in the atlas roster, though he appears nine times here and is the man
-            who gives Liu Bei his start."))
+             a relative. Issues the call for volunteers."))
 
     (character zou-jing
       (hanzi "鄒靖")
-      (atlas-id #f) (on-map? #f) (at youzhou)
+      (atlas-id zoujing) (on-map? #t) (at youzhou)
       (role "The commandant who advises raising volunteers, and leads with the
              brothers at Daxing Shan and Qingzhou."))
 
     (character gong-jing
       (hanzi "龔景")
-      (atlas-id #f) (on-map? #f) (at qingzhou)
+      (atlas-id gongjing) (on-map? #f) (at qingzhou)
       (role "Governor of Qingzhou, besieged and relieved.")
       (editions
         (note "Named in both Chinese editions; Brewitt-Taylor renders him only as
@@ -241,9 +232,8 @@
       (role "Replaces the arrested Lu Zhi, is beaten by Zhang Jue, and is rescued by
              the three brothers — whom he then treats with contempt on learning they
              hold no office. The chapter ends on Zhang Fei wanting to kill him.")
-      (note "The atlas pins him at Jicheng in chapter 1, as a frontier general in the
-             west. The text has him arrive at Guangzong within the chapter, so the
-             atlas pin is the weaker reading."))
+      (note "The atlas now follows the text: he rides from Lintao to Guangzong within
+             the chapter, and the closing scene is on the map."))
 
     (character cao-cao
       (hanzi "曹操") (courtesy "孟德") (childhood-name "阿瞞")
@@ -252,8 +242,8 @@
       (role "Introduced mid-chapter with a full biography: the feigned fit that
              discredits his uncle, the coloured cudgels at the gates of his district,
              and Xu Shao's verdict. Cuts up the rebels fleeing Changshe.")
-      (note "The atlas pins him at Luoyang. The chapter has him arrive at Yingchuan
-             with five thousand horse and foot, which is the better placement."))
+      (note "The atlas now places him at Changshe, where the chapter actually brings
+             him in with five thousand horse and foot."))
 
     (character cao-song
       (hanzi "曹嵩")
@@ -389,8 +379,7 @@
       (summary "Five hundred men against a rebel host. Zhang Fei spears Deng Mao
                 through the heart; Guan Yu cuts Cheng Yuanzhi in half. The rebels
                 throw down their arms.")
-      (on-map? #f)
-      (gap "The chapter's first battle, and the atlas does not show it."))
+      (on-map? #t))
 
     (event relief-of-qingzhou
       (sequence 11) (at qingzhou)
@@ -421,8 +410,7 @@
       (summary "A troop under crimson banners cuts up the fleeing rebels. Its
                 commander is Cao Cao, colonel of cavalry, arriving with five thousand
                 horse and foot — introduced here with his whole biography.")
-      (on-map? partial)
-      (note "The atlas has him at Luoyang this chapter; the text puts him at Yingchuan."))
+      (on-map? #t))
 
     (event lu-zhi-arrested
       (sequence 15)
@@ -440,6 +428,4 @@
                 pursuit and charge into it, driving him back fifty li. Dong Zhuo asks
                 what offices they hold; told none, he is openly contemptuous. Zhang Fei
                 goes for his knife and is held back. The chapter ends there.")
-      (on-map? partial)
-      (note "The atlas does not show Dong Zhuo at Guangzong, so the chapter's closing
-             scene has no representation on the map."))))
+      (on-map? #t))))

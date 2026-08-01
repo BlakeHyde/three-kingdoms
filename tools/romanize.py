@@ -231,6 +231,13 @@ SYLLABLES: dict[str, tuple[str, str]] = {
     "zong": ("tsung", "dzung"),
     "ying": ("ying", "ying"),
     "chuan": ("ch'uan", "chwan"),
+    "qu": ("ch'ü", "chyu"),
+    "mang": ("mang", "mang"),
+    "mou": ("mou", "mou"),
+    "gao": ("kao", "gau"),
+    "hong": ("hung", "hung"),
+    "zou": ("tsou", "dzou"),
+    "zhen": ("chên", "jen"),
 }
 
 

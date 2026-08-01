@@ -23,11 +23,10 @@
 
     (place chenliu
       (hanzi "陳留")
-      (atlas-id #f) (on-map? #f)
+      (atlas-id chenliu) (on-map? #t)
       (role "Cao Cao's home country, where he sells the family property, is bankrolled
              by Wei Hong, and raises the volunteer corps under a white banner reading
-             忠義 — Loyalty and Right.")
-      (gap "The confederacy is founded here and the gazetteer has no point for it."))
+             忠義 — Loyalty and Right."))
 
     (place sishui-pass
       (hanzi "汜水關")
@@ -46,7 +45,7 @@
 
     (place liangdong
       (hanzi "梁東")
-      (atlas-id #f) (on-map? #f)
+      (atlas-id liangdong) (on-map? #t)
       (role "Where Sun Jian falls back and camps after the stones drive him off the
              pass, and where he is attacked at midnight and burnt out."))
 
@@ -80,7 +79,7 @@
 
     (character wei-hong
       (hanzi "衛弘")
-      (atlas-id #f) (on-map? #f) (at chenliu)
+      (atlas-id weihong) (on-map? #t) (at chenliu)
       (role "The rich graduate who funds the whole thing — 'careless of wealth but
              careful of virtue'. Without him there is no confederacy."))
 
@@ -109,16 +108,14 @@
 
     (character zu-mao
       (hanzi "祖茂")
-      (atlas-id #f) (on-map? #f) (at liangdong)
+      (atlas-id zumao) (on-map? #t) (at liangdong)
       (role "Wears his lord's conspicuous purple turban to draw the pursuit, hangs it on
              a burnt post, hides in the wood, and rushes out with both swords when they
-             close on it. Killed by Hua Xiong.")
-      (gap "One of the better deaths in the early book, and neither he nor Liangdong is
-            in the atlas."))
+             close on it. Killed by Hua Xiong."))
 
-    (character cheng-pu (hanzi "程普") (atlas-id #f) (on-map? #f) (at sishui-pass))
+    (character cheng-pu (hanzi "程普") (atlas-id chengpu) (on-map? #t) (at sishui-pass))
     (character huang-gai (hanzi "黃蓋") (atlas-id huanggai) (on-map? #f) (at sishui-pass))
-    (character han-dang (hanzi "韓當") (atlas-id #f) (on-map? #f) (at sishui-pass)
+    (character han-dang (hanzi "韓當") (atlas-id handang) (on-map? #t) (at sishui-pass)
       (role "Sun Jian's four captains, introduced here by name and weapon. Huang Gai is
              in the atlas roster; Cheng Pu and Han Dang are not."))
 
@@ -167,23 +164,22 @@
       (role "Sends Li Jue and Guo Si to exterminate Yuan Wei's household, then takes
              fifteen legions to Hulao himself."))
 
-    (character li-jue (hanzi "李傕") (atlas-id lijue) (on-map? #f) (at sishui-pass))
-    (character guo-si (hanzi "郭汜") (atlas-id guosi) (on-map? #f) (at sishui-pass)
+    (character li-jue (hanzi "李傕") (atlas-id lijue) (on-map? #t) (at sishui-pass))
+    (character guo-si (hanzi "郭汜") (atlas-id guosi) (on-map? #t) (at sishui-pass)
       (role "Kill Yuan Wei's household, then hold Sishui with five legions under orders
-             not to give battle unnecessarily.")
-      (gap "Both are in the atlas roster but neither is pinned this chapter."))
+             not to give battle unnecessarily."))
 
     (character xiahou-dun
       (hanzi "夏侯惇") (courtesy "元讓")
-      (atlas-id xiahoudun) (on-map? #f) (at chenliu)
+      (atlas-id xiahoudun) (on-map? #t) (at chenliu)
       (role "Comes in with his brother and a company each. Killed a man at fourteen for
              insulting his teacher and had been a fugitive since."))
 
     (character xiahou-yuan (hanzi "夏侯淵") (atlas-id xiahouyuan) (on-map? #f) (at chenliu))
     (character cao-ren (hanzi "曹仁") (atlas-id caoren) (on-map? #f) (at chenliu))
-    (character cao-hong (hanzi "曹洪") (atlas-id #f) (on-map? #f) (at chenliu))
+    (character cao-hong (hanzi "曹洪") (atlas-id caohong) (on-map? #f) (at chenliu))
     (character yue-jin (hanzi "樂進") (courtesy "文謙") (atlas-id lejin) (on-map? #f) (at chenliu))
-    (character li-dian (hanzi "李典") (courtesy "曼成") (atlas-id #f) (on-map? #f) (at chenliu)
+    (character li-dian (hanzi "李典") (courtesy "曼成") (atlas-id lidian) (on-map? #f) (at chenliu)
       (role "The founding staff, all arriving at Chenliu within days of the call. Four
              of the six are in the atlas roster; none is pinned before much later.")
       (note "This is where the Wei command structure is assembled, and the atlas shows
@@ -211,8 +207,7 @@
       (summary "Cao Cao reaches home, sells what there is, and is funded by Wei Hong.
                 The white banner goes up and volunteers arrive 'like raindrops'. Within
                 days the men who will command Wei for thirty years have all appeared.")
-      (on-map? #f)
-      (gap "Chenliu is not in the gazetteer."))
+      (on-map? #t))
 
     (event the-forged-decree
       (sequence 2)
@@ -259,8 +254,7 @@
                 front and rear and fires the camp. Sun Jian's bowstring snaps, he throws
                 the bow away, and escapes only because Zu Mao takes the purple turban
                 and dies wearing it.")
-      (on-map? partial)
-      (gap "Liangdong and Zu Mao are both absent from the atlas."))
+      (on-map? #t))
 
     (event wine-still-warm
       (sequence 7) (at sishui-pass)

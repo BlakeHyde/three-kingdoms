@@ -37,7 +37,22 @@ def fail(msg: str) -> None:
 
 
 def load(name: str) -> dict:
-    data = json.loads((SRC / name).read_text())
+    """Parse a source file, refusing duplicate keys.
+
+    Python's json silently keeps the last of a repeated key, which is how 張寶 (Zhang
+    Jue's brother) and 張苞 (Zhang Fei's son) shared the id `zhangbao` for eighty
+    chapters: the Yellow Turban quietly became a Shu general, in Shu colours, on the
+    chapter 2 map. Nothing downstream could have noticed.
+    """
+    def no_duplicates(pairs):
+        seen = {}
+        for key, value in pairs:
+            if key in seen:
+                fail(f"{name}: duplicate key {key!r}")
+            seen[key] = value
+        return seen
+
+    data = json.loads((SRC / name).read_text(), object_pairs_hook=no_duplicates)
     return {k: v for k, v in data.items() if not k.startswith("_")}
 
 

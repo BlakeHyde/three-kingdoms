@@ -19,14 +19,17 @@
       "guangling",
       "yanzhou",
       "xuzhou",
-      "puyang"
+      "puyang",
+      "beimang"
     ],
     "dongzhuo": [
       "changan",
       "jicheng",
       "meiwu",
       "hanzhong",
-      "jinyang"
+      "jinyang",
+      "mianchi",
+      "lintao"
     ],
     "yuanshao": [
       "nanpi"
@@ -61,8 +64,8 @@
     {
       "character": "dongzhuo",
       "at": "luoyang",
-      "from": "jicheng",
-      "note": "Arrives with the Liang province army and does not leave."
+      "from": "mianchi",
+      "note": "Halts at Mianchi, then occupies the capital and starts talking of deposition within days."
     },
     {
       "character": "lvbu",
@@ -85,12 +88,48 @@
     },
     {
       "character": "emperorxian",
-      "at": "luoyang",
-      "note": "Nine years old, and about to be made emperor."
+      "at": "beimang",
+      "note": "Nine years old, hidden in the grass till fireflies lead them to a road.",
+      "from": "luoyang"
     },
     {
       "character": "wangyun",
       "at": "luoyang"
+    },
+    {
+      "character": "liru",
+      "at": "luoyang",
+      "note": "Writes the memorial, and spots Lü Bu standing behind Ding Yuan in time to stop a killing."
+    },
+    {
+      "character": "dingyuan",
+      "at": "luoyang",
+      "note": "Calls Dong Zhuo a rebel to his face, beats him in the field, and is killed in his tent by his own adopted son."
+    },
+    {
+      "character": "lisu",
+      "at": "luoyang",
+      "note": "Buys Lü Bu with Red Hare, gold and pearls in one evening."
+    },
+    {
+      "character": "luzhi",
+      "at": "luoyang",
+      "note": "Stops Duan Gui carrying off the Empress, then tells Dong Zhuo he has no standing to depose anyone."
+    },
+    {
+      "character": "yuanshu",
+      "at": "luoyang",
+      "note": "Burns the gate and leads the killing inside the palace."
+    },
+    {
+      "character": "minggong",
+      "at": "beimang",
+      "note": "Runs down Duan Gui and brings the two boys back."
+    },
+    {
+      "character": "baoxin",
+      "at": "luoyang",
+      "note": "Says Dong Zhuo should be removed now; ignored, and leaves for Taishan."
     }
   ],
   "focus": {

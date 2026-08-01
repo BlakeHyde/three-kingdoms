@@ -41,26 +41,24 @@
 
     (place yangcheng
       (hanzi "陽城")
-      (atlas-id #f) (on-map? #f)
+      (atlas-id yangcheng) (on-map? #t)
       (role "The village Dong Zhuo's soldiers surround during the annual festival. They
              take the heads of the men, burn them under the walls at Luoyang as proof of
-             a victory over rebels, and divide the women and jewellery.")
-      (gap "Not in the gazetteer. It is the clearest single statement of what Dong
-            Zhuo's rule actually was."))
+             a victory over rebels, and divide the women and jewellery."))
 
     (place zhongmou
       (hanzi "中牟")
-      (atlas-id #f) (on-map? #f)
+      (atlas-id zhongmou) (on-map? #t)
       (role "Where Cao Cao, fleeing east, is recognised at the gate and taken to the
-             magistrate — who turns out to be Chen Gong.")
-      (gap "Not in the gazetteer, though it is where Chen Gong joins the story."))
+             magistrate — who turns out to be Chen Gong."))
 
     (place chenggao
       (hanzi "成皋")
-      (atlas-id #f) (on-map? #f)
+      (atlas-id chenggao) (on-map? #t)
       (role "Lü Boshe's farm, three days east of Zhongmou.")
-      (note "The atlas places the Lü Boshe killing at Pengcheng, which is far too far
-             east — a placeholder rather than a reading of the text."))
+      (note "Corrected: the atlas had this at Pengcheng, far too far east. Note that
+             the novel's own geography is odd here — Chenggao lies back towards
+             Luoyang from Zhongmou, not three days further east."))
 
     (place qiaojun
       (hanzi "譙郡")
@@ -81,11 +79,10 @@
 
     (character li-ru
       (hanzi "李儒")
-      (atlas-id #f) (on-map? #f) (at luoyang yongan-palace)
+      (atlas-id liru) (on-map? #t) (at luoyang yongan-palace)
       (role "Reads out the deposition. Then takes ten men to the Yongan Palace with a
              cup of poisoned wine, throws the Empress out of a window, has the Lady Tang
-             strangled and forces the wine on the boy.")
-      (gap "Still absent from the atlas roster, and he does the chapter's worst thing."))
+             strangled and forces the wine on the boy."))
 
     (character liu-bian
       (hanzi "劉辯") (title "弘農王")
@@ -121,11 +118,9 @@
 
     (character yuan-shao
       (hanzi "袁紹") (courtesy "本初")
-      (atlas-id yuanshao) (on-map? #f) (at bohai)
+      (atlas-id yuanshao) (on-map? #t) (at bohai)
       (role "Hangs his seal of office at the east gate and leaves. Bought off with
-             Bohai, from where he writes urging Wang Yun to act.")
-      (gap "Not pinned in the atlas for this chapter, though the letter he sends from
-            Bohai is what starts Wang Yun moving."))
+             Bohai, from where he writes urging Wang Yun to act."))
 
     (character yuan-wei
       (hanzi "袁隗")
@@ -135,7 +130,7 @@
 
     (character wu-fu
       (hanzi "伍孚")
-      (atlas-id #f) (on-map? #f) (at luoyang)
+      (atlas-id wufu) (on-map? #t) (at luoyang)
       (role "Wears a breastplate under his court dress and a dagger inside it for days,
              then tries Dong Zhuo on the steps. Dong Zhuo is too strong for him and Lü
              Bu finishes it. 'You are not my prince, I am not your minister: where is
@@ -210,8 +205,8 @@
       (historicity historical)
       (source-note "The killing of the deposed emperor and his mother is in the record.
                     The poems are the novel's.")
-      (on-map? #f)
-      (gap "Nothing on the map marks it."))
+      (on-map? partial)
+      (note "Li Ru is on the map at Luoyang; the room itself is interior and has no point."))
 
     (event yangcheng-festival
       (sequence 4) (at yangcheng)
@@ -259,8 +254,7 @@
                 false name and is recognised anyway. At midnight Chen Gong has him
                 brought in privately, asks why he did it, hears the answer, unties him,
                 and resigns his office to follow him.")
-      (on-map? partial)
-      (gap "Zhongmou is not in the gazetteer; the atlas puts this at Pengcheng."))
+      (on-map? #t))
 
     (event lv-boshe
       (sequence 9) (at chenggao)

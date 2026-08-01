@@ -26,7 +26,6 @@
     "yuanshao": [
       "nanpi",
       "ye",
-      "suanzao",
       "henei"
     ],
     "gongsunzan": [
@@ -46,7 +45,8 @@
       "wu",
       "kuaiji",
       "jianye",
-      "danyang"
+      "danyang",
+      "liangdong"
     ],
     "yuanshu": [
       "shouchun",
@@ -59,7 +59,8 @@
     ],
     "wei": [
       "yanzhou",
-      "puyang"
+      "puyang",
+      "chenliu"
     ],
     "taoqian": [
       "xuzhou",
@@ -70,24 +71,25 @@
   "pins": [
     {
       "character": "yuanshao",
-      "at": "suanzao",
+      "at": "sishui",
+      "from": "nanpi",
       "note": "Elected commander of the alliance."
     },
     {
       "character": "caocao",
-      "at": "suanzao",
-      "from": "luoyang",
+      "at": "sishui",
+      "from": "chenliu",
       "note": "Forged the summons that raised it."
     },
     {
       "character": "sunjian",
-      "at": "sishui",
+      "at": "liangdong",
       "from": "jianye",
-      "note": "Leads the vanguard against Sishui Pass."
+      "note": "Driven off the pass by stones, starved of grain by Yuan Shu, and burnt out at midnight."
     },
     {
       "character": "gongsunzan",
-      "at": "suanzao",
+      "at": "sishui",
       "from": "ji"
     },
     {
@@ -124,9 +126,47 @@
     },
     {
       "character": "yuanshu",
-      "at": "suanzao",
+      "at": "sishui",
       "from": "shouchun",
       "note": "In charge of supply, and withholds it from Sun Jian."
+    },
+    {
+      "character": "zumao",
+      "at": "liangdong",
+      "note": "Wears his lord's purple turban to draw the pursuit, and dies wearing it."
+    },
+    {
+      "character": "chengpu",
+      "at": "sishui",
+      "note": "Kills Hu Zhen with a thrust through the throat."
+    },
+    {
+      "character": "handang",
+      "at": "sishui"
+    },
+    {
+      "character": "huzhen",
+      "at": "sishui",
+      "note": "Killed by Cheng Pu."
+    },
+    {
+      "character": "lijue",
+      "at": "sishui",
+      "note": "Sent with Guo Si to exterminate Yuan Wei's household, then to hold Sishui."
+    },
+    {
+      "character": "guosi",
+      "at": "sishui"
+    },
+    {
+      "character": "weihong",
+      "at": "chenliu",
+      "note": "Spends his fortune to raise the volunteer corps."
+    },
+    {
+      "character": "xiahoudun",
+      "at": "chenliu",
+      "note": "Arrives with his brother and a company each."
     }
   ],
   "focus": {

@@ -37,30 +37,22 @@
       "xiangping",
       "puyang",
       "xuzhou",
-      "huguan"
+      "huguan",
+      "anxi",
+      "quyang",
+      "yangcheng",
+      "yuyang",
+      "daizhou",
+      "hejian",
+      "qingzhou",
+      "changshe",
+      "lintao"
     ],
     "yellowturban": [
       "pingyuan"
     ]
   },
   "pins": [
-    {
-      "character": "liubei",
-      "at": "pingyuan",
-      "from": "zhuo",
-      "note": "A county magistrate, briefly."
-    },
-    {
-      "character": "guanyu",
-      "at": "pingyuan",
-      "from": "zhuo"
-    },
-    {
-      "character": "zhangfei",
-      "at": "pingyuan",
-      "from": "zhuo",
-      "note": "Flogs the inspector and takes to the road."
-    },
     {
       "character": "hejin",
       "at": "luoyang",
@@ -74,17 +66,79 @@
     {
       "character": "caocao",
       "at": "luoyang",
+      "from": "changshe",
       "note": "Alone in warning that this will end badly."
     },
     {
       "character": "dongzhuo",
       "at": "jicheng",
+      "from": "guangzong",
       "note": "Receives the summons east."
     },
     {
       "character": "zhangjue",
       "at": "guangzong",
       "note": "Dies of illness; his brothers are hunted down."
+    },
+    {
+      "character": "liubei",
+      "at": "anxi",
+      "from": "zhuo",
+      "note": "Given a county at last, then extorted by an inspector who calls his descent a lie."
+    },
+    {
+      "character": "guanyu",
+      "at": "anxi",
+      "from": "zhuo",
+      "note": "'A thorn bush is no place for a phoenix.'"
+    },
+    {
+      "character": "zhangfei",
+      "at": "anxi",
+      "from": "zhuo",
+      "note": "Ties the inspector to a post and flogs him with a willow switch."
+    },
+    {
+      "character": "zhangbao",
+      "at": "yangcheng",
+      "note": "Raises phantom cavalry; Zhu Jun breaks the spell with the blood of pigs, goats and dogs."
+    },
+    {
+      "character": "zhangliang_yt",
+      "at": "quyang",
+      "note": "Destroyed by Huangfu Song."
+    },
+    {
+      "character": "huangfusong",
+      "at": "quyang",
+      "from": "changshe",
+      "note": "Wins seven battles running and takes Dong Zhuo's command."
+    },
+    {
+      "character": "zhujun",
+      "at": "wan",
+      "from": "changshe",
+      "note": "Refuses the rebels' surrender until Liu Bei argues him round."
+    },
+    {
+      "character": "sunjian",
+      "at": "wan",
+      "note": "Enters the novel here: first over the wall at Wancheng, killing a score by hand."
+    },
+    {
+      "character": "gaosheng",
+      "at": "yangcheng",
+      "note": "Unhorsed by Zhang Fei."
+    },
+    {
+      "character": "liuyu",
+      "at": "yuyang",
+      "note": "Puts down Zhang Ju and Zhang Chun with Liu Bei's help, which lifts the flogging warrant."
+    },
+    {
+      "character": "chenlin",
+      "at": "luoyang",
+      "note": "'To cover the eyes and snatch at swallows is to fool oneself.' Called a bookworm for it."
     }
   ],
   "focus": {

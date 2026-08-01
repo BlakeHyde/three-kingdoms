@@ -35,7 +35,8 @@
       "yanzhou",
       "danyang",
       "jiangling",
-      "xiangping"
+      "xiangping",
+      "lintao"
     ],
     "yellowturban": [
       "zhuo",
@@ -43,7 +44,10 @@
       "xuzhou",
       "guangzong",
       "huguan",
-      "yingchuan"
+      "yingchuan",
+      "daxingshan",
+      "qingzhou",
+      "changshe"
     ]
   },
   "pins": [
@@ -74,23 +78,44 @@
     },
     {
       "character": "huangfusong",
-      "at": "yingchuan",
-      "note": "Burns the Yellow Turban camp at Yingchuan."
+      "at": "changshe",
+      "note": "Fires the rebel camp in the long grass at Changshe."
     },
     {
       "character": "zhujun",
-      "at": "yingchuan",
-      "note": "Burns the Yellow Turban camp at Yingchuan."
+      "at": "changshe",
+      "note": "With Huangfu Song at Changshe."
     },
     {
       "character": "caocao",
-      "at": "luoyang",
-      "note": "A colonel of the palace guard, thirty years old."
+      "at": "changshe",
+      "note": "Arrives at Yingchuan with five thousand horse and foot and cuts up the fleeing rebels."
     },
     {
       "character": "dongzhuo",
-      "at": "jicheng",
-      "note": "Still a frontier general in the west."
+      "at": "guangzong",
+      "note": "Replaces the arrested Lu Zhi, is beaten by Zhang Jue, and is rescued by the three brothers.",
+      "from": "lintao"
+    },
+    {
+      "character": "liuyan",
+      "at": "ji",
+      "note": "Governor of You province. Issues the call for volunteers that starts Liu Bei."
+    },
+    {
+      "character": "zoujing",
+      "at": "daxingshan",
+      "note": "Leads the five hundred with the brothers at Daxing Shan."
+    },
+    {
+      "character": "chengyuanzhi",
+      "at": "daxingshan",
+      "note": "Cut in half by Guan Yu — the first man the brothers kill."
+    },
+    {
+      "character": "dengmao",
+      "at": "daxingshan",
+      "note": "Speared through the heart by Zhang Fei."
     }
   ],
   "focus": {

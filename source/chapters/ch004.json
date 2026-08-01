@@ -27,7 +27,10 @@
       "hanzhong",
       "hulao",
       "sishui",
-      "jinyang"
+      "jinyang",
+      "yangcheng",
+      "mianchi",
+      "lintao"
     ],
     "yuanshao": [
       "nanpi",
@@ -58,24 +61,30 @@
     ],
     "liaodong": [
       "xiangping"
+    ],
+    "wei": [
+      "zhongmou",
+      "chenggao",
+      "chenliu"
     ]
   },
   "pins": [
     {
       "character": "caocao",
-      "at": "luoyang",
-      "from": null,
-      "note": "Fails to kill Dong Zhuo; rides east to raise an army."
+      "at": "chenggao",
+      "from": "luoyang",
+      "note": "Fails to kill Dong Zhuo, flees east, and kills eight people over a misheard sentence about a pig."
     },
     {
       "character": "chengong",
-      "at": "pengcheng",
-      "note": "Releases Cao Cao, rides with him, and leaves him after Lü Boshe."
+      "at": "chenggao",
+      "note": "Releases Cao Cao at Zhongmou, rides with him, and leaves him after Lü Boshe.",
+      "from": "zhongmou"
     },
     {
       "character": "lvboshe",
-      "at": "pengcheng",
-      "note": "Killed on the road with his whole household."
+      "at": "chenggao",
+      "note": "Killed on the road coming back with the wine."
     },
     {
       "character": "dongzhuo",
@@ -88,12 +97,29 @@
     {
       "character": "emperorxian",
       "at": "luoyang",
+      "from": "beimang",
       "note": "Enthroned at nine."
     },
     {
       "character": "wangyun",
       "at": "luoyang",
       "note": "Lends the sword, and begins to wait."
+    },
+    {
+      "character": "liru",
+      "at": "luoyang",
+      "note": "Reads out the deposition, then murders the deposed emperor, his mother and the Lady Tang."
+    },
+    {
+      "character": "wufu",
+      "at": "luoyang",
+      "note": "Strikes at Dong Zhuo on the steps and fails. 'You are not my prince, I am not your minister.'"
+    },
+    {
+      "character": "yuanshao",
+      "at": "nanpi",
+      "from": "luoyang",
+      "note": "Hangs his seal at the east gate and goes; bought off with Bohai, from where he writes to Wang Yun."
     }
   ],
   "focus": {

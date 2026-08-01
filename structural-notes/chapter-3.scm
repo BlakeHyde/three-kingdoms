@@ -27,19 +27,16 @@
 
     (place mianchi
       (hanzi "澠池")
-      (atlas-id #f) (on-map? #f)
+      (atlas-id mianchi) (on-map? #t)
       (role "Where Dong Zhuo halts his army on the way in, close enough to threaten and
-             far enough to disclaim.")
-      (gap "Not in the gazetteer. It marks the moment the western army is within reach
-            of the capital, which is the chapter's whole pivot."))
+             far enough to disclaim."))
 
     (place beimang
       (hanzi "北邙")
-      (atlas-id #f) (on-map? #f)
+      (atlas-id beimang) (on-map? #t)
       (role "The hills north of Luoyang. The eunuchs drag the two boys here in the dark;
              Zhang Rang drowns himself in the river below; the children hide in the
-             grass and are led out by fireflies.")
-      (gap "The most vivid scene in the chapter and the atlas has no point for it."))
+             grass and are led out by fireflies."))
 
     (place wenming-garden
       (hanzi "溫明園")
@@ -49,7 +46,7 @@
 
     (place jingzhou
       (hanzi "荊州")
-      (atlas-id xiangyang) (on-map? #f)
+      (atlas-id xiangyang) (on-map? #t)
       (role "Ding Yuan's province.")
       (editions
         (note "Both Chinese editions make Ding Yuan 荊州刺史, Inspector of Jing province,
@@ -89,9 +86,8 @@
 
     (character yuan-shu
       (hanzi "袁術") (courtesy "公路")
-      (atlas-id yuanshu) (on-map? #f) (at luoyang)
-      (role "Burns the gate and leads the killing inside.")
-      (gap "The atlas does not pin him this chapter."))
+      (atlas-id yuanshu) (on-map? #t) (at luoyang)
+      (role "Burns the gate and leads the killing inside."))
 
     (character cao-cao
       (hanzi "曹操") (courtesy "孟德")
@@ -102,15 +98,14 @@
 
     (character lu-zhi
       (hanzi "盧植") (courtesy "子幹")
-      (atlas-id luzhi) (on-map? #f) (at luoyang)
+      (atlas-id luzhi) (on-map? #t) (at luoyang)
       (role "Retired, hears the palace is in revolt, puts on armour and stops Duan Gui
              carrying off the Empress. Later tells Dong Zhuo to his face that he is
-             neither I Yin nor Huo Guang and has no standing to depose anyone.")
-      (gap "Not pinned in the atlas for this chapter, though he twice intervenes."))
+             neither I Yin nor Huo Guang and has no standing to depose anyone."))
 
     (character min-gong
       (hanzi "閔貢")
-      (atlas-id #f) (on-map? #f) (at beimang)
+      (atlas-id minggong) (on-map? #t) (at beimang)
       (role "Rides down Duan Gui, then finds the two boys at the farm and puts the
              Emperor on the only decent horse."))
 
@@ -144,12 +139,10 @@
 
     (character li-ru
       (hanzi "李儒")
-      (atlas-id #f) (on-map? #f) (at luoyang)
+      (atlas-id liru) (on-map? #t) (at luoyang)
       (role "Dong Zhuo's son-in-law and adviser, and the voice behind every move he
              makes. Writes the memorial, stops the killing of Ding Yuan at the banquet
-             because he has seen the man standing behind him, and identifies Lü Bu.")
-      (gap "One of the most consequential figures in the opening twenty chapters and
-            the atlas roster does not contain him at all."))
+             because he has seen the man standing behind him, and identifies Lü Bu."))
 
     (character niu-fu
       (hanzi "牛輔") (atlas-id #f) (on-map? #f)
@@ -157,12 +150,11 @@
 
     (character ding-yuan
       (hanzi "丁原") (courtesy "建陽")
-      (atlas-id #f) (on-map? #f) (at luoyang)
+      (atlas-id dingyuan) (on-map? #t) (at luoyang)
       (role "Stands up at the banquet and calls Dong Zhuo a rebel to his face; survives
              only because Li Ru sees Lü Bu behind him. Beats Dong Zhuo in the field the
              next day. Killed in his tent two nights later by his own adopted son, over
-             a horse.")
-      (gap "Not in the atlas roster. He is the reason Lü Bu matters."))
+             a horse."))
 
     (character lv-bu
       (hanzi "呂布") (courtesy "奉先")
@@ -174,11 +166,10 @@
 
     (character li-su
       (hanzi "李肅")
-      (atlas-id #f) (on-map? #f) (at luoyang)
+      (atlas-id lisu) (on-map? #t) (at luoyang)
       (role "A minor officer and Lü Bu's fellow villager, who volunteers to buy him
              with Red Hare, a thousand taels of gold, ten strings of pearls and a
-             jewelled belt — and does it in one evening's conversation.")
-      (gap "Not in the roster, though the whole transaction is his."))
+             jewelled belt — and does it in one evening's conversation."))
 
     (character red-hare
       (hanzi "赤兔")
@@ -197,7 +188,7 @@
 
     (character bao-xin
       (hanzi "鮑信")
-      (atlas-id #f) (on-map? #f) (at luoyang)
+      (atlas-id baoxin) (on-map? #t) (at luoyang)
       (role "Tells Yuan Shao that Dong Zhuo should be removed now. Told to wait, he
              leaves the capital for Taishan instead."))
 
@@ -247,8 +238,7 @@
                 grass till the fourth watch, cold and hungry, then knot their clothes
                 together to climb the bank — and are led to the road by a swarm of
                 fireflies. A farmer who has dreamt of two red suns takes them in.")
-      (on-map? #f)
-      (gap "Beimang is not in the gazetteer."))
+      (on-map? #t))
 
     (event meeting-on-the-road
       (sequence 5) (at luoyang)

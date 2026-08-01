@@ -25,13 +25,13 @@
 
     (place quyang
       (hanzi "曲陽")
-      (atlas-id #f) (on-map? #f)
+      (atlas-id quyang) (on-map? #t)
       (role "Where Huangfu Song destroys Zhang Liang. Zhang Jue is already dead of
              illness; his coffin is opened and the corpse beheaded."))
 
     (place yangcheng
       (hanzi "陽城")
-      (atlas-id #f) (on-map? #f)
+      (atlas-id yangcheng) (on-map? #t)
       (role "Zhang Bao fortifies here after his magic fails, and is killed by one of
              his own officers.")
       (note "Reappears in chapter 4 as the village Dong Zhuo's soldiers plunder during
@@ -46,21 +46,19 @@
 
     (place anxi
       (hanzi "安喜")
-      (atlas-id #f) (on-map? #f)
+      (atlas-id anxi) (on-map? #t)
       (role "The county where Liu Bei is finally given a post — and where the inspector
-             comes to extort him and Zhang Fei ties him to a post.")
-      (gap "The whole of the chapter's title event happens here and the atlas has no
-            point for it. It is the strongest gazetteer gap in these five chapters."))
+             comes to extort him and Zhang Fei ties him to a post."))
 
     (place daizhou
       (hanzi "代州")
-      (atlas-id #f) (on-map? #f)
+      (atlas-id daizhou) (on-map? #t)
       (role "Where the brothers hide with Liu Hui after the flogging, until the warrant
              is lifted."))
 
     (place yuyang
       (hanzi "漁陽")
-      (atlas-id #f) (on-map? #f)
+      (atlas-id yuyang) (on-map? #t)
       (role "Zhang Ju and Zhang Chun's rebellion, put down by Liu Yu with Liu Bei's
              help — the service that earns Liu Bei his pardon and Pingyuan."))
 
@@ -78,14 +76,14 @@
 
     (place lintao
       (hanzi "臨洮")
-      (atlas-id #f) (on-map? #f)
+      (atlas-id lintao) (on-map? #t)
       (role "Dong Zhuo's birthplace in the far west, given at the head of the chapter.")
       (note "The atlas pins Dong Zhuo at Jicheng in Liang province, which is the same
              general country and a reasonable stand-in."))
 
     (place hejian
       (hanzi "河間")
-      (atlas-id #f) (on-map? #f)
+      (atlas-id hejian) (on-map? #t)
       (role "Where the Dowager Dong is exiled, and shortly afterwards murdered.")))
 
   ;; -------------------------------------------------------------- characters
@@ -119,36 +117,35 @@
 
     (character zhang-bao
       (hanzi "張寶")
-      (atlas-id zhangbao) (on-map? #f) (at yangcheng)
+      (atlas-id zhangbao) (on-map? #t) (at yangcheng)
       (role "Looses his hair and calls down a storm of phantom cavalry; Zhu Jun breaks
              the spell with the blood of pigs, goats and dogs poured from the cliffs.
              Killed by his own officer."))
 
     (character zhang-liang
       (hanzi "張梁")
-      (atlas-id zhangliang_yt) (on-map? #f) (at quyang)
+      (atlas-id zhangliang_yt) (on-map? #t) (at quyang)
       (role "Destroyed by Huangfu Song at Quyang."))
 
     (character zhu-jun
       (hanzi "朱儁") (courtesy "公偉")
-      (atlas-id zhujun) (on-map? #f) (at wancheng)
+      (atlas-id zhujun) (on-map? #t) (at wancheng)
       (role "Commands the southern mopping-up. Argues against accepting surrender —
              and is talked round by Liu Bei, whose argument is the better one and
              works."))
 
     (character huangfu-song
       (hanzi "皇甫嵩") (courtesy "義真")
-      (atlas-id huangfusong) (on-map? #f) (at quyang)
+      (atlas-id huangfusong) (on-map? #t) (at quyang)
       (role "Wins seven battles running, takes Dong Zhuo's command, and uses his first
              act in power to get Lu Zhi restored."))
 
     (character sun-jian
       (hanzi "孫堅") (courtesy "文台")
-      (atlas-id sunjian) (on-map? #f) (at wancheng changsha)
+      (atlas-id sunjian) (on-map? #t) (at wancheng changsha)
       (role "Introduced here. At seventeen he scattered a party of pirates on the
              Qiantang by pretending to signal troops that were not there. First man
-             over the wall at Wancheng; then governor of Changsha.")
-      (gap "The atlas does not pin him in chapter 2, though this is his entrance."))
+             over the wall at Wancheng; then governor of Changsha."))
 
     (character zhao-hong
       (hanzi "趙弘") (atlas-id #f) (on-map? #f) (at wancheng))
@@ -160,12 +157,12 @@
              Zhong is shot off his horse by Liu Bei."))
 
     (character gao-sheng
-      (hanzi "高昇") (atlas-id #f) (on-map? #f) (at yangcheng)
+      (hanzi "高昇") (atlas-id gaosheng) (on-map? #t) (at yangcheng)
       (role "Zhang Bao's subordinate, unhorsed by Zhang Fei."))
 
     (character liu-yu
       (hanzi "劉虞")
-      (atlas-id #f) (on-map? #f) (at yuyang)
+      (atlas-id liuyu) (on-map? #t) (at yuyang)
       (role "Governor sent against the Yuyang rebellion; takes Liu Bei on recommendation
              and reports his services, which lifts the warrant."))
 
@@ -244,10 +241,9 @@
 
     (character chen-lin
       (hanzi "陳琳") (courtesy "孔璋")
-      (atlas-id chenlin) (on-map? #f) (at luoyang)
+      (atlas-id chenlin) (on-map? #t) (at luoyang)
       (role "Tells He Jin that summoning armies to the capital is 'to cover the eyes and
-             snatch at swallows'. Called a bookworm for it.")
-      (gap "The atlas has him only from chapter 22, though he speaks here.")))
+             snatch at swallows'. Called a bookworm for it.")))
 
   ;; ------------------------------------------------------------------ events
 
@@ -302,8 +298,7 @@
       (source-note "The histories give the flogging to Liu Bei himself. The novel moves
                     it to Zhang Fei, which protects Liu Bei's character and costs the
                     scene nothing.")
-      (on-map? #f)
-      (gap "Anxi is not in the gazetteer, so the chapter's title event is unmapped."))
+      (on-map? #t))
 
     (event yuyang
       (sequence 6) (at yuyang)
