@@ -124,6 +124,6 @@
     "yinping":     { "hanzi": "陰平", "lon": 104.5, "lat": 32.9, "kind": "pass", "weight": 1, "note": "The trackless mountain road Deng Ai takes to bypass Jiange, ch. 117." },
     "mumen":       { "hanzi": "木門", "lon": 105.3, "lat": 34.5, "kind": "battle", "weight": 0, "note": "Zhang He rides into the ambush that kills him, ch. 101." },
     "shangfang":   { "hanzi": "上方谷", "lon": 107.7, "lat": 34.3, "kind": "battle", "weight": 0, "note": "Sima Yi is trapped and burning when the rain comes, ch. 103." },
-    "suanzao":   { "hanzi": "酸棗", "lon": 114.85, "lat": 35.05, "kind": "battle", "weight": 0, "note": "The allied camp at Suanzao where the coalition against Dong Zhuo swears its oath, ch. 5." }
+    "suanzao":   { "hanzi": "酸棗", "lon": 114.85, "lat": 35.05, "kind": "battle", "weight": 0, "note": "Where the coalition of 190 actually mustered — Zhang Miao, Liu Dai, Qiao Mao, Yuan Yi and Bao Xin all camped here. The novel never says so: in ch. 5 the lords pitch an unnamed line of camps two hundred li long, and the only time 酸棗 is named at all is ch. 6, inside Cao Cao's account of a plan that was never carried out. Kept in the gazetteer as the historical muster, and pinned nowhere." }
   }
 }

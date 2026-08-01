@@ -21,6 +21,24 @@
 
   (places
 
+    (place suanzao
+      (hanzi "酸棗")
+      (atlas-id suanzao) (on-map? #f)
+      (role "Where the coalition of 190 actually mustered. The novel does not say so.")
+      (editions
+        (note "Chapter 5 has the lords pitch camp 各自安營下寨，連接二百餘里 — an unnamed
+               line two hundred li long — and march 投洛陽來, fighting at Sishui and Hulao.
+               酸棗 appears once in the whole novel, in ch. 6, and there it is inside Cao
+               Cao's account of what he had *wanted* done: 操之初意，欲煩本初引河內之眾，
+               臨孟津、酸棗 — a disposition that was never carried out. So the novel names
+               the place only to describe a plan that failed to happen.")
+        (note "History has the alliance in three groups — the largest at Suanzao, Yuan
+               Shao at Henei, Yuan Shu at Nanyang — which is why it never combined. The
+               novel flattens that into one camp and loses the reason for the failure.
+               Recorded in the chapter's `history` field rather than on the map."))
+      (note "The atlas pinned the rally here until it was checked, and pinned Yuan Shao
+             here again in ch. 6. Both rested on that single counterfactual mention."))
+
     (place chenliu
       (hanzi "陳留")
       (atlas-id chenliu) (on-map? #t)

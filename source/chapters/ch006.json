@@ -27,7 +27,6 @@
     "yuanshao": [
       "nanpi",
       "ye",
-      "suanzao",
       "henei"
     ],
     "gongsunzan": [
@@ -100,8 +99,9 @@
     },
     {
       "character": "yuanshao",
-      "at": "suanzao",
-      "from": "sishui"
+      "at": "luoyang",
+      "from": "sishui",
+      "note": "Camps in the ruins with the rest and refuses to pursue: 'the troops are worn out.'"
     },
     {
       "character": "liubei",
